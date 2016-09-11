@@ -27,6 +27,16 @@ maxPages = 20000000000
 
 webSession = requests.Session()
 
+def getEventId():
+    test = requests.get("https://www.dirtgame.com/uk/events").text
+    for line in test.split("\n"):
+        if line.startswith('<select data-ng-model="eventId" id="daily_prevEvents" name="daily_prevEvents"'):
+            #print "Found Event Stuff!"
+            #<select data-ng-model="eventId" id="daily_prevEvents" name="daily_prevEvents"><option value="138139">Current event</option>
+            eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
+            #print eventId
+            return eventId
+    return -1
 
 def downloadResults(eventId, platform):
     print "Doing Platform " + platform
@@ -88,13 +98,20 @@ print "Date: " + eventDate
 
 changePlatformUrl = "https://dirtgame.com/uk/changeplatform?platform=" #steam, playstationnetwork, microsoftlive, oculus
 
+eventId = getEventId()
+if(eventId == -1):
+    print "Couldn't find the daily! Aborting!"
+    sys.exit()
+
+print "Found Event ID: " + str(eventId)
+
 webSession.get(changePlatformUrl + "steam")
-downloadResults(calibrationEvent + calibrationDelta, "steam")
+downloadResults(eventId, "steam")
 webSession.get(changePlatformUrl + "playstationnetwork")
-downloadResults(calibrationEvent + calibrationDelta, "psn")
+downloadResults(eventId, "psn")
 webSession.get(changePlatformUrl + "microsoftlive")
-downloadResults(calibrationEvent + calibrationDelta, "live")
+downloadResults(eventId, "live")
 webSession.get(changePlatformUrl + "oculus")
-downloadResults(calibrationEvent + calibrationDelta, "oculus")
+downloadResults(eventId, "oculus")
 
 os.system("python createPage.py " + eventDate)

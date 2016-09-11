@@ -1,8 +1,9 @@
 <html>
 <body>
-<h1>DiRT Rally Results by /u/Th3HolyMoose</h1>
+<h1>DiRT Rally Cross-Platform Daily Results by <a href="https://reddit.com/u/Th3HolyMoose">/u/Th3HolyMoose</a></h1>
 <br><br>
-<h3>Results are imported hourly on the 55th minute to import the last entries just before the event ends.</h3>
+<h3>Results are imported hourly on the 50th minute to import the last entries just before the event ends.</h3>
+<a href="https://github.com/Th3HolyMoose/DiRT_Daily_Results_Importer">Source Code</a>
 <br><br><br>
 <?php
    $dirs = scandir("results/");
