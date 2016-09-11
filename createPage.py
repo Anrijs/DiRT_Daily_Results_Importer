@@ -75,7 +75,7 @@ d,e = getTableData(bfn + "oculus" + ".txt", "Oculus")
 combined.extend(d)
 numEntries += e
 
-out = template.replace("%file_time%", str(fileTime)).replace("%title%", "DiRT Results Import").replace("%info%", eventInfo[0] + ", " + sys.argv[1] + "<br>" + eventInfo[4] + ", " + eventInfo[2] + "<br>" + eventInfo[8] + ", " + eventInfo[6] + "<br>" + str(numEntries) + " Entries, " + eventInfo[1] + " Stage(s)")
+out = template.replace("%file_time%", str(fileTime)).replace("%title%", "DiRT Daily Cross Platform Results Import").replace("%info%", eventInfo[0] + ", " + sys.argv[1] + "<br>" + eventInfo[4] + ", " + eventInfo[2] + "<br>" + eventInfo[8] + ", " + eventInfo[6] + "<br>" + str(numEntries) + " Entries, " + eventInfo[1] + " Stage(s)")
 
 
 combined.sort(key=operator.itemgetter(2))
