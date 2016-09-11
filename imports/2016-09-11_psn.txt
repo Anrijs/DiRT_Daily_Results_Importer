@@ -1,0 +1,21 @@
+DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Afternoon\/Content/images/weather/sunnyday.png\Sunny\1291\2016-09-11
+1, StreetTroll24, 303223, Peugeot 205 T16 Pikes Peak, 08:32.096, --
+2, HAPPEE_MEAL, 394945, Peugeot 205 T16 Pikes Peak, 08:39.545, +00:07.449
+3, n1pa, 270091, Peugeot 205 T16 Pikes Peak, 08:48.695, +00:16.599
+4, MADze-_-, 377205, Peugeot 205 T16 Pikes Peak, 08:51.778, +00:19.682
+5, fhoutris, 575625, Peugeot 205 T16 Pikes Peak, 08:52.362, +00:20.266
+6, IamSho846, 425828, Peugeot 205 T16 Pikes Peak, 08:53.278, +00:21.182
+7, canarionasos_040, 309312, Peugeot 205 T16 Pikes Peak, 08:53.578, +00:21.482
+8, beamer012, 313608, Peugeot 205 T16 Pikes Peak, 08:54.028, +00:21.932
+9, Driver_x, 252535, Peugeot 205 T16 Pikes Peak, 08:55.645, +00:23.549
+10, Leandrin34, 533005, Peugeot 205 T16 Pikes Peak, 08:56.261, +00:24.165
+11, balsy1995, 263099, Peugeot 205 T16 Pikes Peak, 08:58.761, +00:26.665
+12, lokodebustavalle, 277727, Peugeot 205 T16 Pikes Peak, 08:58.795, +00:26.699
+13, rocky_du_30, 254765, Peugeot 205 T16 Pikes Peak, 08:58.811, +00:26.715
+14, tom_walster, 457754, Peugeot 205 T16 Pikes Peak, 08:59.795, +00:27.699
+15, DaveLikeABoss, 321106, Peugeot 205 T16 Pikes Peak, 09:00.011, +00:27.915
+16, dafoart, 269842, Peugeot 205 T16 Pikes Peak, 09:00.111, +00:28.015
+17, go-ireland, 290764, Peugeot 205 T16 Pikes Peak, 09:01.828, +00:29.732
+18, SGT_alex115, 251075, Peugeot 205 T16 Pikes Peak, 09:05.011, +00:32.915
+19, jeje04111994, 265853, Peugeot 205 T16 Pikes Peak, 09:05.111, +00:33.015
+20, gravelrabbit, 418397, Peugeot 205 T16 Pikes Peak, 09:06.628, +00:34.532
