@@ -18,14 +18,14 @@ def getTableData(fileName, platform):
         if i == 1:
             continue
         data = line.split(", ")
-        if(len(data) < 6):
+        if(len(data) < 9):
             #print "What line is this??"
             #print line
             continue
         #    0               1            2                  3                 4           5
         #position + ", " + name + ", " + playerID + ", " + vehicle + ", " + time + ", " + diff
         #tout += "<tr><td>" + data[0] + "</td><td>" + data[1] + "</td><td>" + data[3] + "</td><td>" + data[4] + "</td><td>" + data[5] + "</td><td>" + platform + "</td></tr>\n"
-        tout.append((data[1], data[3], data[4], platform))
+        tout.append((data[1], data[3], data[4], platform, data[6], data[7], data[8]))
         entries += 1
     return (tout, entries)
 
@@ -53,7 +53,7 @@ eventInfo = dataFileContents.split("\n")[0].split("\\")
 
 
 
-table = '<table class="tablesorter"><thead><tr><th>#</th><th>Driver</th><th>Vehicle</th><th>Time</th><th>Diff. First</th><th>Platform</th></tr></thead><tbody>'
+table = '<table class="tablesorter"><thead><tr><th>#</th><th>Nation, Founder, VIP</th><th>Driver</th><th>Vehicle</th><th>Time</th><th>Diff. First</th><th>Platform</th></tr></thead><tbody>'
 
 combined = []
 
@@ -129,7 +129,13 @@ for item in combined:
     diff += str(msd)
     diff += "0" * (3 - len(str(msd)))
     
-    table += "<tr><td>" + str(pos) + "</td><td>" + item[0] + "</td><td>" + item[1] + "</td><td>" + item[2] + "</td><td>" + diff + "</td><td>" + item[3] + "</td></tr>\n"
+    ni = "<img src='http://dirtgame.com" + item[4] + "'></img>&nbsp;"
+    if item[5] == "True":
+        ni += "<img src='http://dirtgame.com/content/images/leaderboard/icon_founder.png'></img>&nbsp;"
+    if item[6] == "True":
+        ni += "<img src='http://dirtgame.com/content/images/leaderboard/icon_vip.png'></img>"
+    
+    table += "<tr><td>" + str(pos) + "</td><td>" + ni + "</td><td>" + item[0] + "</td><td>" + item[1] + "</td><td>" + item[2] + "</td><td>" + diff + "</td><td>" + item[3] + "</td></tr>\n"
     pos += 1
 
 table += "</tbody></table>"

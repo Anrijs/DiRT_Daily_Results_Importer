@@ -23,7 +23,7 @@ eventDate = dnow.strftime("%Y-%m-%d")
 
 
 maxPages = 20000000000
-#maxPages = 2
+maxPages = 2
 
 webSession = requests.Session()
 
@@ -63,7 +63,7 @@ def downloadResults(eventId, platform):
     weather = unicode(j["WeatherText"]).replace(initialSeparator, "")
     numPages = unicode(j["Pages"]).replace(initialSeparator, "")
     numEntries = unicode(j["LeaderboardTotal"]).replace(initialSeparator, "")
-
+    
     file = open("imports/" + eventDate + "_" + platform + ".txt", "w")
     file.write((name + initialSeparator + numStages + initialSeparator + location + initialSeparator + locationImage + initialSeparator + stage + initialSeparator + stageImage + initialSeparator + timeOfDay + initialSeparator + weatherImage + initialSeparator + weather + initialSeparator + numEntries + initialSeparator + eventDate.replace(initialSeparator, u"") + u"\n").encode("utf-8"))
 
@@ -83,8 +83,10 @@ def downloadResults(eventId, platform):
             vehicle = unicode(e["VehicleName"]).replace(u",", u"")
             time = unicode(e["Time"]).replace(u",", u"")
             diff = unicode(e["DiffFirst"]).replace(u",", u"")
-
-            resString = position + u", " + name + u", " + playerID + u", " + vehicle + u", " + time + u", " + diff
+            isFounder = unicode(e["IsFounder"]).replace(u",", u"")
+            isVIP = unicode(e["IsVIP"]).replace(u",", u"")
+            
+            resString = position + u", " + name + u", " + playerID + u", " + vehicle + u", " + time + u", " + diff + u", " + nation + u", " + isFounder + u", " + isVIP
             file.write((resString + u"\n").encode("utf-8"))
             #print resString
 
