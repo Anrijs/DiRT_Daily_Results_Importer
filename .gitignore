@@ -1,3 +1,6 @@
 results/motties/*
 *.zip
 *.txt
+*~
+results/20*
+imports/*
