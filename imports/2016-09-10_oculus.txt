@@ -1,3 +1,1 @@
-DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Afternoon\/Content/images/weather/sunnyday.png\Sunny\2\2016-09-10
-1, RVNLOFT, 472, Peugeot 205 T16 Pikes Peak, 30:00.000, --
-2, joeforeverup, 2550, Peugeot 205 T16 Pikes Peak, 30:00.000, +00:00.000
+DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Sunset\/Content/images/weather/sunnyday.png\Clear\0\2016-09-10

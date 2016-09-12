@@ -1,1108 +1,210 @@
-DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Afternoon\/Content/images/weather/sunnyday.png\Sunny\1107\2016-09-10
-1, miyashin32, 105868, Peugeot 205 T16 Pikes Peak, 08:17.646, --
-2, RiCsEsZ|RS, 293009, Peugeot 205 T16 Pikes Peak, 08:22.196, +00:04.550
-3, Panic, 32508, Peugeot 205 T16 Pikes Peak, 08:29.362, +00:11.716
-4, Ezequiel Morel(ARG), 178560, Peugeot 205 T16 Pikes Peak, 08:30.512, +00:12.866
-5, Michealmsigtx, 350691, Peugeot 205 T16 Pikes Peak, 08:38.695, +00:21.049
-6, carpediemnar, 140103, Peugeot 205 T16 Pikes Peak, 08:40.495, +00:22.849
-7, artos55, 179828, Peugeot 205 T16 Pikes Peak, 08:41.229, +00:23.583
-8, ProchyY!, 65213, Peugeot 205 T16 Pikes Peak, 08:42.512, +00:24.866
-9, lll, 24954, Peugeot 205 T16 Pikes Peak, 08:42.879, +00:25.233
-10, nivek m, 257723, Peugeot 205 T16 Pikes Peak, 08:44.262, +00:26.616
-11, catty7073, 59586, Peugeot 205 T16 Pikes Peak, 08:44.795, +00:27.149
-12, Aojai kek ?, 4430, Peugeot 205 T16 Pikes Peak, 08:45.912, +00:28.266
-13, aqvig, 14023, Peugeot 205 T16 Pikes Peak, 08:46.795, +00:29.149
-14, mozza, 88141, Peugeot 205 T16 Pikes Peak, 08:47.078, +00:29.432
-15, Markyee, 278940, Peugeot 205 T16 Pikes Peak, 08:48.995, +00:31.349
-16, VyE, 37931, Peugeot 205 T16 Pikes Peak, 08:49.412, +00:31.766
-17, RooBubba, 62893, Peugeot 205 T16 Pikes Peak, 08:49.512, +00:31.866
-18, pixx, 154626, Peugeot 205 T16 Pikes Peak, 08:50.445, +00:32.799
-19, Lux, 33685, Peugeot 205 T16 Pikes Peak, 08:50.562, +00:32.916
-20, loukimi, 20013, Peugeot 205 T16 Pikes Peak, 08:51.728, +00:34.082
-21, Tiago, 114695, Peugeot 205 T16 Pikes Peak, 08:53.378, +00:35.732
-22, Wolfie, 67655, Peugeot 205 T16 Pikes Peak, 08:55.195, +00:37.549
-23, Mr. M & Ruben29292, 24768, Peugeot 205 T16 Pikes Peak, 08:56.095, +00:38.449
-24, Hemulihemmo, 336333, Peugeot 205 T16 Pikes Peak, 08:56.445, +00:38.799
-25, henri.tikkinen, 208362, Peugeot 205 T16 Pikes Peak, 08:56.578, +00:38.932
-26, Superd00ps, 10514, Peugeot 205 T16 Pikes Peak, 08:56.695, +00:39.049
-27, GMS299, 217561, Peugeot 205 T16 Pikes Peak, 08:57.961, +00:40.315
-28, Paparazzee, 122252, Peugeot 205 T16 Pikes Peak, 08:58.461, +00:40.815
-29, Landaemos, 144099, Peugeot 205 T16 Pikes Peak, 08:58.561, +00:40.915
-30, soboog, 100403, Peugeot 205 T16 Pikes Peak, 08:59.128, +00:41.482
-31, Rets1972, 44711, Peugeot 205 T16 Pikes Peak, 08:59.511, +00:41.865
-32, EinsZwei, 226075, Peugeot 205 T16 Pikes Peak, 08:59.811, +00:42.165
-33, Headquake137, 115907, Peugeot 205 T16 Pikes Peak, 09:00.045, +00:42.399
-34, Kiki von Kiki, 313402, Peugeot 205 T16 Pikes Peak, 09:00.145, +00:42.499
-35, Aurora, 49153, Peugeot 205 T16 Pikes Peak, 09:00.311, +00:42.665
-36, TheKid, 143546, Peugeot 205 T16 Pikes Peak, 09:00.345, +00:42.699
-37, wouldpkr, 27950, Peugeot 205 T16 Pikes Peak, 09:00.611, +00:42.965
-38, b0ZEN, 172942, Peugeot 205 T16 Pikes Peak, 09:00.611, +00:42.965
-39, Je55eJame5, 79001, Peugeot 205 T16 Pikes Peak, 09:00.978, +00:43.332
-40, lunssi, 13882, Peugeot 205 T16 Pikes Peak, 09:01.145, +00:43.499
-41, JJVenekuski, 142947, Peugeot 205 T16 Pikes Peak, 09:01.794, +00:44.148
-42, Grundibular, 12853, Peugeot 205 T16 Pikes Peak, 09:01.911, +00:44.265
-43, jp9250, 168620, Peugeot 205 T16 Pikes Peak, 09:02.111, +00:44.465
-44, SgtArmas, 99880, Peugeot 205 T16 Pikes Peak, 09:02.144, +00:44.498
-45, Darkstar, 63271, Peugeot 205 T16 Pikes Peak, 09:02.378, +00:44.732
-46, Mr. Master, 245812, Peugeot 205 T16 Pikes Peak, 09:02.628, +00:44.982
-47, Cordosyl, 327724, Peugeot 205 T16 Pikes Peak, 09:02.811, +00:45.165
-48, GnaeX, 66903, Peugeot 205 T16 Pikes Peak, 09:03.628, +00:45.982
-49, '''''''''', 64299, Peugeot 205 T16 Pikes Peak, 09:04.078, +00:46.432
-50, Bosnian, 80573, Peugeot 205 T16 Pikes Peak, 09:04.478, +00:46.832
-51, JJ-booming, 29089, Peugeot 205 T16 Pikes Peak, 09:04.578, +00:46.932
-52, Alby, 11155, Peugeot 205 T16 Pikes Peak, 09:05.011, +00:47.365
-53, Djay54, 11704, Peugeot 205 T16 Pikes Peak, 09:05.094, +00:47.448
-54, aidanpeterson, 170940, Peugeot 205 T16 Pikes Peak, 09:05.644, +00:47.998
-55, M3nyus, 220098, Peugeot 205 T16 Pikes Peak, 09:06.644, +00:48.998
-56, gominiman, 142687, Peugeot 205 T16 Pikes Peak, 09:06.894, +00:49.248
-57, DaNa #NoControl, 134276, Peugeot 205 T16 Pikes Peak, 09:08.094, +00:50.448
-58, Madvinz, 43783, Peugeot 205 T16 Pikes Peak, 09:08.344, +00:50.698
-59, RDR, 54032, Peugeot 205 T16 Pikes Peak, 09:08.994, +00:51.348
-60, Major Payne, 38192, Peugeot 205 T16 Pikes Peak, 09:09.078, +00:51.432
-61, Zoltan Furedi, 260007, Peugeot 205 T16 Pikes Peak, 09:09.144, +00:51.498
-62, DonSukram, 86820, Peugeot 205 T16 Pikes Peak, 09:09.578, +00:51.932
-63, LakersHater, 5869, Peugeot 205 T16 Pikes Peak, 09:09.644, +00:51.998
-64, Rampant_Chicken, 340763, Peugeot 205 T16 Pikes Peak, 09:09.711, +00:52.065
-65, Antavus, 124684, Peugeot 205 T16 Pikes Peak, 09:09.761, +00:52.115
-66, Teddy Westside, 21206, Peugeot 205 T16 Pikes Peak, 09:10.027, +00:52.381
-67, RaceRaptor, 53768, Peugeot 205 T16 Pikes Peak, 09:10.511, +00:52.865
-68, hemirpu, 23757, Peugeot 205 T16 Pikes Peak, 09:10.577, +00:52.931
-69, [ T.F ] Patriarche, 114771, Peugeot 205 T16 Pikes Peak, 09:10.594, +00:52.948
-70, MMM0n3y, 376, Peugeot 205 T16 Pikes Peak, 09:11.377, +00:53.731
-71, Odnar, 304179, Peugeot 205 T16 Pikes Peak, 09:11.627, +00:53.981
-72, Alf, 25006, Peugeot 205 T16 Pikes Peak, 09:12.127, +00:54.481
-73, turkstockfotograf, 73493, Peugeot 205 T16 Pikes Peak, 09:12.377, +00:54.731
-74, Danilicius, 111346, Peugeot 205 T16 Pikes Peak, 09:12.477, +00:54.831
-75, (THE REAL) Neo, 103264, Peugeot 205 T16 Pikes Peak, 09:12.561, +00:54.915
-76, bktfsm, 311753, Peugeot 205 T16 Pikes Peak, 09:12.644, +00:54.998
-77, touchy71, 191815, Peugeot 205 T16 Pikes Peak, 09:13.077, +00:55.431
-78, Mario, 172642, Peugeot 205 T16 Pikes Peak, 09:13.178, +00:55.532
-79, Spanner, 158623, Peugeot 205 T16 Pikes Peak, 09:13.344, +00:55.698
-80, Verkehrt, 21187, Peugeot 205 T16 Pikes Peak, 09:13.377, +00:55.731
-81, QualityTime, 11363, Peugeot 205 T16 Pikes Peak, 09:14.411, +00:56.765
-82, soerd, 54052, Peugeot 205 T16 Pikes Peak, 09:14.527, +00:56.881
-83, SeBuLb@, 91206, Peugeot 205 T16 Pikes Peak, 09:14.545, +00:56.899
-84, f8924919, 129764, Peugeot 205 T16 Pikes Peak, 09:14.611, +00:56.965
-85, TheEq, 312220, Peugeot 205 T16 Pikes Peak, 09:14.627, +00:56.981
-86, Kiddi, 333776, Peugeot 205 T16 Pikes Peak, 09:14.944, +00:57.298
-87, Soulr3av3r, 109331, Peugeot 205 T16 Pikes Peak, 09:15.511, +00:57.865
-88, Molock Le Lapin, 205382, Peugeot 205 T16 Pikes Peak, 09:15.561, +00:57.915
-89, The_nasty_one, 138931, Peugeot 205 T16 Pikes Peak, 09:16.327, +00:58.681
-90, Greg, 38653, Peugeot 205 T16 Pikes Peak, 09:16.427, +00:58.781
-91, Rodolfo Hitlero, 22083, Peugeot 205 T16 Pikes Peak, 09:16.561, +00:58.915
-92, tseloktin, 846, Peugeot 205 T16 Pikes Peak, 09:16.744, +00:59.098
-93, GPBergen, 91172, Peugeot 205 T16 Pikes Peak, 09:16.761, +00:59.115
-94, scumbag_steve95, 194964, Peugeot 205 T16 Pikes Peak, 09:17.227, +00:59.581
-95, Rockeiro, 85176, Peugeot 205 T16 Pikes Peak, 09:17.827, +01:00.181
-96, Runner, 290891, Peugeot 205 T16 Pikes Peak, 09:18.128, +01:00.482
-97, periKo _\\___, 320019, Peugeot 205 T16 Pikes Peak, 09:18.194, +01:00.548
-98, 13mm, 227660, Peugeot 205 T16 Pikes Peak, 09:18.360, +01:00.714
-99, E (aka Eiii), 39716, Peugeot 205 T16 Pikes Peak, 09:18.527, +01:00.881
-100, Elgaard, 42047, Peugeot 205 T16 Pikes Peak, 09:18.861, +01:01.215
-101, Przzi, 262592, Peugeot 205 T16 Pikes Peak, 09:18.944, +01:01.298
-102, Krystik27, 44340, Peugeot 205 T16 Pikes Peak, 09:19.511, +01:01.865
-103, kon.cs, 336116, Peugeot 205 T16 Pikes Peak, 09:19.727, +01:02.081
-104, Alex44, 159809, Peugeot 205 T16 Pikes Peak, 09:20.844, +01:03.198
-105, uno, 212280, Peugeot 205 T16 Pikes Peak, 09:20.910, +01:03.264
-106, Roadkill, 82441, Peugeot 205 T16 Pikes Peak, 09:21.160, +01:03.514
-107, Xalara5618, 27897, Peugeot 205 T16 Pikes Peak, 09:21.277, +01:03.631
-108, doublelou, 66364, Peugeot 205 T16 Pikes Peak, 09:21.294, +01:03.648
-109, Toru, 21734, Peugeot 205 T16 Pikes Peak, 09:21.477, +01:03.831
-110, Rene #NoControl, 136527, Peugeot 205 T16 Pikes Peak, 09:21.944, +01:04.298
-111, Corsair, 95667, Peugeot 205 T16 Pikes Peak, 09:21.960, +01:04.314
-112, ReM, 3141, Peugeot 205 T16 Pikes Peak, 09:22.061, +01:04.415
-113, juiced, 179410, Peugeot 205 T16 Pikes Peak, 09:22.327, +01:04.681
-114, spiner-kopin, 211106, Peugeot 205 T16 Pikes Peak, 09:22.510, +01:04.864
-115, SSIO, 357726, Peugeot 205 T16 Pikes Peak, 09:22.544, +01:04.898
-116, Nappula, 77442, Peugeot 205 T16 Pikes Peak, 09:22.544, +01:04.898
-117, marzluff, 137086, Peugeot 205 T16 Pikes Peak, 09:22.727, +01:05.081
-118, petrhlavac, 13296, Peugeot 205 T16 Pikes Peak, 09:22.928, +01:05.282
-119, klemen.mozina1, 250413, Peugeot 205 T16 Pikes Peak, 09:23.044, +01:05.398
-120, Karanosh, 148728, Peugeot 205 T16 Pikes Peak, 09:23.227, +01:05.581
-121, slim one, 22569, Peugeot 205 T16 Pikes Peak, 09:23.844, +01:06.198
-122, bykun21, 56219, Peugeot 205 T16 Pikes Peak, 09:24.527, +01:06.881
-123, Bipbip972, 129647, Peugeot 205 T16 Pikes Peak, 09:24.910, +01:07.264
-124, syper01, 93096, Peugeot 205 T16 Pikes Peak, 09:24.977, +01:07.331
-125, DeathMetalFreak, 8839, Peugeot 205 T16 Pikes Peak, 09:25.127, +01:07.481
-126, Phoenixx236, 296973, Peugeot 205 T16 Pikes Peak, 09:25.460, +01:07.814
-127, lolo451275, 296984, Peugeot 205 T16 Pikes Peak, 09:25.544, +01:07.898
-128, DEA156, 187608, Peugeot 205 T16 Pikes Peak, 09:25.944, +01:08.298
-129, pex2205, 136455, Peugeot 205 T16 Pikes Peak, 09:26.044, +01:08.398
-130, [RoST]Tomaten MArk, 139369, Peugeot 205 T16 Pikes Peak, 09:26.077, +01:08.431
-131, tuokarinen, 23483, Peugeot 205 T16 Pikes Peak, 09:26.144, +01:08.498
-132, guby, 210245, Peugeot 205 T16 Pikes Peak, 09:26.260, +01:08.614
-133, chumley001, 6603, Peugeot 205 T16 Pikes Peak, 09:26.260, +01:08.614
-134, Riqaz, 87169, Peugeot 205 T16 Pikes Peak, 09:26.677, +01:09.031
-135, vossa, 68299, Peugeot 205 T16 Pikes Peak, 09:26.744, +01:09.098
-136, richie.ness, 330686, Peugeot 205 T16 Pikes Peak, 09:27.127, +01:09.481
-137, Konstantinos WagenVolks, 42311, Peugeot 205 T16 Pikes Peak, 09:27.277, +01:09.631
-138, JanaPPa, 45556, Peugeot 205 T16 Pikes Peak, 09:27.493, +01:09.847
-139, Alan Ford, 128109, Peugeot 205 T16 Pikes Peak, 09:27.610, +01:09.964
-140, Viper, 30686, Peugeot 205 T16 Pikes Peak, 09:27.627, +01:09.981
-141, Jackets For Peacocks Ltd, 99110, Peugeot 205 T16 Pikes Peak, 09:27.761, +01:10.115
-142, actr0s, 189965, Peugeot 205 T16 Pikes Peak, 09:27.843, +01:10.197
-143, Komrade gebbss, 133553, Peugeot 205 T16 Pikes Peak, 09:28.043, +01:10.397
-144, Iwantcable, 268172, Peugeot 205 T16 Pikes Peak, 09:28.243, +01:10.597
-145, fortsatz, 333723, Peugeot 205 T16 Pikes Peak, 09:28.293, +01:10.647
-146, Hubas, 10198, Peugeot 205 T16 Pikes Peak, 09:28.460, +01:10.814
-147, MuSkA, 30326, Peugeot 205 T16 Pikes Peak, 09:28.927, +01:11.281
-148, Fortune Rayzor, 90433, Peugeot 205 T16 Pikes Peak, 09:28.977, +01:11.331
-149, digital_desifinado, 7505, Peugeot 205 T16 Pikes Peak, 09:29.327, +01:11.681
-150, ?Jam?, 19956, Peugeot 205 T16 Pikes Peak, 09:29.427, +01:11.781
-151, Scheisenberg, 336530, Peugeot 205 T16 Pikes Peak, 09:29.593, +01:11.947
-152, Sid111, 335942, Peugeot 205 T16 Pikes Peak, 09:29.777, +01:12.131
-153, Seven, 309236, Peugeot 205 T16 Pikes Peak, 09:29.777, +01:12.131
-154, jesusveramatas, 67137, Peugeot 205 T16 Pikes Peak, 09:30.011, +01:12.365
-155, doperst, 196990, Peugeot 205 T16 Pikes Peak, 09:30.027, +01:12.381
-156, Jelle, 3262, Peugeot 205 T16 Pikes Peak, 09:30.077, +01:12.431
-157, Re Dargum, 245757, Peugeot 205 T16 Pikes Peak, 09:30.211, +01:12.565
-158, H!ppOo, 185346, Peugeot 205 T16 Pikes Peak, 09:31.111, +01:13.465
-159, Nomee, 64005, Peugeot 205 T16 Pikes Peak, 09:31.160, +01:13.514
-160, i.jaunte, 29444, Peugeot 205 T16 Pikes Peak, 09:31.260, +01:13.614
-161, psychoblondie67, 60709, Peugeot 205 T16 Pikes Peak, 09:31.443, +01:13.797
-162, Jesus from Mehico, 352431, Peugeot 205 T16 Pikes Peak, 09:31.460, +01:13.814
-163, Krisz_Vegh, 53637, Peugeot 205 T16 Pikes Peak, 09:31.743, +01:14.097
-164, jorkkako, 124758, Peugeot 205 T16 Pikes Peak, 09:31.943, +01:14.297
-165, mike, 149762, Peugeot 205 T16 Pikes Peak, 09:32.027, +01:14.381
-166, LordWilliam1234, 320924, Peugeot 205 T16 Pikes Peak, 09:32.143, +01:14.497
-167, crazymotors, 26593, Peugeot 205 T16 Pikes Peak, 09:32.177, +01:14.531
-168, Arrowin 87, 63856, Peugeot 205 T16 Pikes Peak, 09:32.243, +01:14.597
-169, SonicAndSmoke, 138318, Peugeot 205 T16 Pikes Peak, 09:32.310, +01:14.664
-170, luckily, 15268, Peugeot 205 T16 Pikes Peak, 09:32.344, +01:14.698
-171, Touched Coast 707, 122383, Peugeot 205 T16 Pikes Peak, 09:32.560, +01:14.914
-172, fk, 47056, Peugeot 205 T16 Pikes Peak, 09:32.627, +01:14.981
-173, LinkinWar, 282803, Peugeot 205 T16 Pikes Peak, 09:32.660, +01:15.014
-174, Neverr3st, 38845, Peugeot 205 T16 Pikes Peak, 09:32.827, +01:15.181
-175, SLIPKNOT-SOUR, 245321, Peugeot 205 T16 Pikes Peak, 09:33.177, +01:15.531
-176, Walker46, 37006, Peugeot 205 T16 Pikes Peak, 09:33.360, +01:15.714
-177, Gurken Koenig, 184632, Peugeot 205 T16 Pikes Peak, 09:33.493, +01:15.847
-178, Flying Finn, 38282, Peugeot 205 T16 Pikes Peak, 09:33.527, +01:15.881
-179, ATIDIA, 165609, Peugeot 205 T16 Pikes Peak, 09:33.643, +01:15.997
-180, magicwise, 76732, Peugeot 205 T16 Pikes Peak, 09:33.810, +01:16.164
-181, t_kibou, 34656, Peugeot 205 T16 Pikes Peak, 09:34.160, +01:16.514
-182, VocSwe, 14811, Peugeot 205 T16 Pikes Peak, 09:34.277, +01:16.631
-183, ViiKinki, 69637, Peugeot 205 T16 Pikes Peak, 09:34.460, +01:16.814
-184, Skoukerman, 325616, Peugeot 205 T16 Pikes Peak, 09:34.560, +01:16.914
-185, <0815> Chomper666, 182524, Peugeot 205 T16 Pikes Peak, 09:34.643, +01:16.997
-186, Henrysneps, 323404, Peugeot 205 T16 Pikes Peak, 09:34.893, +01:17.247
-187, sergib, 281570, Peugeot 205 T16 Pikes Peak, 09:35.760, +01:18.114
-188, ralle711, 108708, Peugeot 205 T16 Pikes Peak, 09:35.860, +01:18.214
-189, RZA, 91347, Peugeot 205 T16 Pikes Peak, 09:35.976, +01:18.330
-190, Dragon-Ball83, 248161, Peugeot 205 T16 Pikes Peak, 09:36.027, +01:18.381
-191, XenoZephe, 181185, Peugeot 205 T16 Pikes Peak, 09:36.077, +01:18.431
-192, [Riko-Grost] [ITA], 343001, Peugeot 205 T16 Pikes Peak, 09:36.344, +01:18.698
-193, house_1911, 78130, Peugeot 205 T16 Pikes Peak, 09:36.910, +01:19.264
-194, mondudo, 340663, Peugeot 205 T16 Pikes Peak, 09:37.043, +01:19.397
-195, johnjarmstrong, 86804, Peugeot 205 T16 Pikes Peak, 09:37.276, +01:19.630
-196, NAERNON, 346645, Peugeot 205 T16 Pikes Peak, 09:37.427, +01:19.781
-197, Gelo, 166227, Peugeot 205 T16 Pikes Peak, 09:37.543, +01:19.897
-198, salxs13, 306958, Peugeot 205 T16 Pikes Peak, 09:37.593, +01:19.947
-199, Mr Wing, 17331, Peugeot 205 T16 Pikes Peak, 09:38.076, +01:20.430
-200, S4b1n, 9053, Peugeot 205 T16 Pikes Peak, 09:38.160, +01:20.514
-201, misanthor, 146591, Peugeot 205 T16 Pikes Peak, 09:38.260, +01:20.614
-202, SteveS, 4042, Peugeot 205 T16 Pikes Peak, 09:38.443, +01:20.797
-203, Kaladan, 93439, Peugeot 205 T16 Pikes Peak, 09:38.526, +01:20.880
-204, Matte, 313922, Peugeot 205 T16 Pikes Peak, 09:38.576, +01:20.930
-205, MouX, 21139, Peugeot 205 T16 Pikes Peak, 09:38.627, +01:20.981
-206, Xleo, 29309, Peugeot 205 T16 Pikes Peak, 09:38.743, +01:21.097
-207, Dimusic, 122031, Peugeot 205 T16 Pikes Peak, 09:38.794, +01:21.148
-208, LATTIZ, 206236, Peugeot 205 T16 Pikes Peak, 09:38.893, +01:21.247
-209, trex, 130019, Peugeot 205 T16 Pikes Peak, 09:38.976, +01:21.330
-210, Frantte, 83556, Peugeot 205 T16 Pikes Peak, 09:39.027, +01:21.381
-211, icy_ger, 217843, Peugeot 205 T16 Pikes Peak, 09:39.861, +01:22.215
-212, Procver, 94066, Peugeot 205 T16 Pikes Peak, 09:40.027, +01:22.381
-213, Ivau912, 358034, Peugeot 205 T16 Pikes Peak, 09:40.210, +01:22.564
-214, Clingon, 91169, Peugeot 205 T16 Pikes Peak, 09:40.460, +01:22.814
-215, Cromey, 3312, Peugeot 205 T16 Pikes Peak, 09:41.093, +01:23.447
-216, jak2755, 13649, Peugeot 205 T16 Pikes Peak, 09:41.143, +01:23.497
-217, Dr. SodlidDesu Bringus, 56861, Peugeot 205 T16 Pikes Peak, 09:41.560, +01:23.914
-218, KLR, 188496, Peugeot 205 T16 Pikes Peak, 09:41.710, +01:24.064
-219, mobileoptimusgaming, 281511, Peugeot 205 T16 Pikes Peak, 09:42.077, +01:24.431
-220, Vector01, 18282, Peugeot 205 T16 Pikes Peak, 09:42.160, +01:24.514
-221, Space Monsters, 304342, Peugeot 205 T16 Pikes Peak, 09:42.260, +01:24.614
-222, gruber.stefan, 81337, Peugeot 205 T16 Pikes Peak, 09:42.810, +01:25.164
-223, Rui Frias, 73124, Peugeot 205 T16 Pikes Peak, 09:43.010, +01:25.364
-224, masa386, 10452, Peugeot 205 T16 Pikes Peak, 09:43.176, +01:25.530
-225, bruchpilot69, 254452, Peugeot 205 T16 Pikes Peak, 09:43.210, +01:25.564
-226, AlambiX33, 190678, Peugeot 205 T16 Pikes Peak, 09:43.260, +01:25.614
-227, IAMSPINI, 212610, Peugeot 205 T16 Pikes Peak, 09:43.376, +01:25.730
-228, CSN5567, 251752, Peugeot 205 T16 Pikes Peak, 09:43.493, +01:25.847
-229, The Stoke, 231909, Peugeot 205 T16 Pikes Peak, 09:43.926, +01:26.280
-230, Kondorag, 14855, Peugeot 205 T16 Pikes Peak, 09:44.259, +01:26.613
-231, Bubi, 50676, Peugeot 205 T16 Pikes Peak, 09:44.343, +01:26.697
-232, TheChef, 145796, Peugeot 205 T16 Pikes Peak, 09:44.560, +01:26.914
-233, Fourinos, 351513, Peugeot 205 T16 Pikes Peak, 09:44.776, +01:27.130
-234, DKO77, 202303, Peugeot 205 T16 Pikes Peak, 09:44.809, +01:27.163
-235, matti.immonen, 228538, Peugeot 205 T16 Pikes Peak, 09:45.259, +01:27.613
-236, Nodi, 179282, Peugeot 205 T16 Pikes Peak, 09:45.277, +01:27.631
-237, biagioss, 231196, Peugeot 205 T16 Pikes Peak, 09:45.759, +01:28.113
-238, DejfDE74, 299890, Peugeot 205 T16 Pikes Peak, 09:45.826, +01:28.180
-239, ari.salokivi, 129343, Peugeot 205 T16 Pikes Peak, 09:46.443, +01:28.797
-240, Toninhotrinka, 303527, Peugeot 205 T16 Pikes Peak, 09:46.660, +01:29.014
-241, evonosuke_r, 241086, Peugeot 205 T16 Pikes Peak, 09:46.710, +01:29.064
-242, McRaeman, 345600, Peugeot 205 T16 Pikes Peak, 09:46.943, +01:29.297
-243, Banzai, 36286, Peugeot 205 T16 Pikes Peak, 09:46.943, +01:29.297
-244, Shark21, 304992, Peugeot 205 T16 Pikes Peak, 09:47.026, +01:29.380
-245, Antt29, 167837, Peugeot 205 T16 Pikes Peak, 09:47.159, +01:29.513
-246, Ysu, 101046, Peugeot 205 T16 Pikes Peak, 09:47.309, +01:29.663
-247, TeeVee, 93568, Peugeot 205 T16 Pikes Peak, 09:47.477, +01:29.831
-248, Super, 250588, Peugeot 205 T16 Pikes Peak, 09:47.626, +01:29.980
-249, Eletro Bull, 306142, Peugeot 205 T16 Pikes Peak, 09:47.759, +01:30.113
-250, Hoksu, 345266, Peugeot 205 T16 Pikes Peak, 09:47.793, +01:30.147
-251, Rologoal, 340369, Peugeot 205 T16 Pikes Peak, 09:47.809, +01:30.163
-252, Christian Roth, 179317, Peugeot 205 T16 Pikes Peak, 09:47.943, +01:30.297
-253, rob, 73489, Peugeot 205 T16 Pikes Peak, 09:47.959, +01:30.313
-254, B4ldur (??)?, 200915, Peugeot 205 T16 Pikes Peak, 09:48.009, +01:30.363
-255, gtrp_frankodiabolo, 37813, Peugeot 205 T16 Pikes Peak, 09:48.193, +01:30.547
-256, thierry67250, 314887, Peugeot 205 T16 Pikes Peak, 09:48.209, +01:30.563
-257, stefdrago, 51754, Peugeot 205 T16 Pikes Peak, 09:48.559, +01:30.913
-258, B10nd33, 207282, Peugeot 205 T16 Pikes Peak, 09:48.576, +01:30.930
-259, MrPutz, 33460, Peugeot 205 T16 Pikes Peak, 09:48.676, +01:31.030
-260, Carlo, 251296, Peugeot 205 T16 Pikes Peak, 09:48.810, +01:31.164
-261, mat, 25067, Peugeot 205 T16 Pikes Peak, 09:49.109, +01:31.463
-262, miika768, 38351, Peugeot 205 T16 Pikes Peak, 09:49.126, +01:31.480
-263, Nory, 83383, Peugeot 205 T16 Pikes Peak, 09:49.160, +01:31.514
-264, Young Nigga With A Cold Heart, 87042, Peugeot 205 T16 Pikes Peak, 09:49.193, +01:31.547
-265, dug, 231569, Peugeot 205 T16 Pikes Peak, 09:49.243, +01:31.597
-266, PDDobster, 302444, Peugeot 205 T16 Pikes Peak, 09:49.359, +01:31.713
-267, thesammon, 90800, Peugeot 205 T16 Pikes Peak, 09:49.377, +01:31.731
-268, ARGGHH!!!! SUSAH BANGET, 319821, Peugeot 205 T16 Pikes Peak, 09:49.509, +01:31.863
-269, cwalker.animation, 284746, Peugeot 205 T16 Pikes Peak, 09:49.510, +01:31.864
-270, Cpete, 80713, Peugeot 205 T16 Pikes Peak, 09:49.576, +01:31.930
-271, Marcelie, 302923, Peugeot 205 T16 Pikes Peak, 09:49.693, +01:32.047
-272, QuescraP, 270162, Peugeot 205 T16 Pikes Peak, 09:49.926, +01:32.280
-273, Bishop, 87204, Peugeot 205 T16 Pikes Peak, 09:50.176, +01:32.530
-274, Jeremy88cze, 55164, Peugeot 205 T16 Pikes Peak, 09:50.259, +01:32.613
-275, Ossi, 40570, Peugeot 205 T16 Pikes Peak, 09:50.360, +01:32.714
-276, Milack, 187283, Peugeot 205 T16 Pikes Peak, 09:50.609, +01:32.963
-277, Ram, 211137, Peugeot 205 T16 Pikes Peak, 09:50.609, +01:32.963
-278, Mechmonkey, 9477, Peugeot 205 T16 Pikes Peak, 09:50.826, +01:33.180
-279, Lilyna, 358191, Peugeot 205 T16 Pikes Peak, 09:50.909, +01:33.263
-280, Nackter Arsch, 138295, Peugeot 205 T16 Pikes Peak, 09:51.259, +01:33.613
-281, endreein, 347807, Peugeot 205 T16 Pikes Peak, 09:51.343, +01:33.697
-282, Alibi89, 231114, Peugeot 205 T16 Pikes Peak, 09:51.460, +01:33.814
-283, Jackattack, 287990, Peugeot 205 T16 Pikes Peak, 09:51.509, +01:33.863
-284, Joona pansku, 352731, Peugeot 205 T16 Pikes Peak, 09:51.543, +01:33.897
-285, robnitro, 39328, Peugeot 205 T16 Pikes Peak, 09:51.959, +01:34.313
-286, anto_01, 35266, Peugeot 205 T16 Pikes Peak, 09:51.992, +01:34.346
-287, SloWMoSe, 241470, Peugeot 205 T16 Pikes Peak, 09:52.076, +01:34.430
-288, Toldi Tibor, 8779, Peugeot 205 T16 Pikes Peak, 09:52.143, +01:34.497
-289, el_nota_26, 150296, Peugeot 205 T16 Pikes Peak, 09:52.227, +01:34.581
-290, metal spider, 84719, Peugeot 205 T16 Pikes Peak, 09:52.459, +01:34.813
-291, Dinopoli69, 45996, Peugeot 205 T16 Pikes Peak, 09:52.542, +01:34.896
-292, Calculated, 7724, Peugeot 205 T16 Pikes Peak, 09:52.559, +01:34.913
-293, xXColdFistXx, 239052, Peugeot 205 T16 Pikes Peak, 09:52.609, +01:34.963
-294, Alstromeria, 250538, Peugeot 205 T16 Pikes Peak, 09:52.810, +01:35.164
-295, IronMic, 180402, Peugeot 205 T16 Pikes Peak, 09:52.943, +01:35.297
-296, Trabiator, 302636, Peugeot 205 T16 Pikes Peak, 09:53.076, +01:35.430
-297, it3b3, 80780, Peugeot 205 T16 Pikes Peak, 09:53.126, +01:35.480
-298, Frankoxxl, 33856, Peugeot 205 T16 Pikes Peak, 09:53.159, +01:35.513
-299, Untouchable503, 313233, Peugeot 205 T16 Pikes Peak, 09:53.209, +01:35.563
-300, info, 105037, Peugeot 205 T16 Pikes Peak, 09:53.326, +01:35.680
-301, S_Goodman, 303230, Peugeot 205 T16 Pikes Peak, 09:53.442, +01:35.796
-302, ={GIS}=Balou, 146375, Peugeot 205 T16 Pikes Peak, 09:53.542, +01:35.896
-303, Grougnaf, 208109, Peugeot 205 T16 Pikes Peak, 09:53.910, +01:36.264
-304, djohac, 98883, Peugeot 205 T16 Pikes Peak, 09:53.926, +01:36.280
-305, T7X, 227920, Peugeot 205 T16 Pikes Peak, 09:54.126, +01:36.480
-306, [UN] ELABORARE, 154434, Peugeot 205 T16 Pikes Peak, 09:54.144, +01:36.498
-307, zlost, 173941, Peugeot 205 T16 Pikes Peak, 09:54.159, +01:36.513
-308, ilchiodi, 7783, Peugeot 205 T16 Pikes Peak, 09:54.293, +01:36.647
-309, nikkeguru, 317774, Peugeot 205 T16 Pikes Peak, 09:54.560, +01:36.914
-310, Speedy25, 8572, Peugeot 205 T16 Pikes Peak, 09:55.042, +01:37.396
-311, Ice [GER], 319817, Peugeot 205 T16 Pikes Peak, 09:55.226, +01:37.580
-312, Player 1, 171479, Peugeot 205 T16 Pikes Peak, 09:55.259, +01:37.613
-313, Tanefar, 8855, Peugeot 205 T16 Pikes Peak, 09:55.326, +01:37.680
-314, Nimbus1138, 112592, Peugeot 205 T16 Pikes Peak, 09:55.442, +01:37.796
-315, chr2d2, 117977, Peugeot 205 T16 Pikes Peak, 09:55.959, +01:38.313
-316, Gordon, 19782, Peugeot 205 T16 Pikes Peak, 09:56.043, +01:38.397
-317, Remidel59, 110640, Peugeot 205 T16 Pikes Peak, 09:56.110, +01:38.464
-318, Muncho, 563, Peugeot 205 T16 Pikes Peak, 09:56.159, +01:38.513
-319, bruno.patty12, 161335, Peugeot 205 T16 Pikes Peak, 09:56.159, +01:38.513
-320, brybry-michel, 36806, Peugeot 205 T16 Pikes Peak, 09:56.459, +01:38.813
-321, jasonneumann, 214379, Peugeot 205 T16 Pikes Peak, 09:56.559, +01:38.913
-322, Xelabo, 76157, Peugeot 205 T16 Pikes Peak, 09:56.926, +01:39.280
-323, oddo, 141662, Peugeot 205 T16 Pikes Peak, 09:57.026, +01:39.380
-324, BOT1ovo, 48612, Peugeot 205 T16 Pikes Peak, 09:57.559, +01:39.913
-325, HeadCork, 35896, Peugeot 205 T16 Pikes Peak, 09:57.693, +01:40.047
-326, Mulin, 167165, Peugeot 205 T16 Pikes Peak, 09:57.909, +01:40.263
-327, travellog07, 303802, Peugeot 205 T16 Pikes Peak, 09:58.076, +01:40.430
-328, Jacques Gelee, 356339, Peugeot 205 T16 Pikes Peak, 09:58.292, +01:40.646
-329, JBrO, 343876, Peugeot 205 T16 Pikes Peak, 09:58.359, +01:40.713
-330, xsanreel321, 15662, Peugeot 205 T16 Pikes Peak, 09:58.427, +01:40.781
-331, Mac, 8336, Peugeot 205 T16 Pikes Peak, 09:58.459, +01:40.813
-332, the ART.chitect, 25512, Peugeot 205 T16 Pikes Peak, 09:58.659, +01:41.013
-333, DaN, 282774, Peugeot 205 T16 Pikes Peak, 09:58.692, +01:41.046
-334, g.c.2b, 317370, Peugeot 205 T16 Pikes Peak, 09:58.809, +01:41.163
-335, Keuchy, 129388, Peugeot 205 T16 Pikes Peak, 09:58.876, +01:41.230
-336, Osl112, 348925, Peugeot 205 T16 Pikes Peak, 09:58.909, +01:41.263
-337, DeathTime, 57109, Peugeot 205 T16 Pikes Peak, 09:59.109, +01:41.463
-338, puduku, 338180, Peugeot 205 T16 Pikes Peak, 09:59.526, +01:41.880
-339, willcf15, 345501, Peugeot 205 T16 Pikes Peak, 09:59.593, +01:41.947
-340, al74, 46976, Peugeot 205 T16 Pikes Peak, 09:59.643, +01:41.997
-341, Grant, 17154, Peugeot 205 T16 Pikes Peak, 09:59.692, +01:42.046
-342, ym83, 56893, Peugeot 205 T16 Pikes Peak, 09:59.692, +01:42.046
-343, Blzs, 30177, Peugeot 205 T16 Pikes Peak, 09:59.726, +01:42.080
-344, MetroidMan64, 276168, Peugeot 205 T16 Pikes Peak, 10:00.009, +01:42.363
-345, caldo91, 207850, Peugeot 205 T16 Pikes Peak, 10:00.259, +01:42.613
-346, lexxmaster, 41964, Peugeot 205 T16 Pikes Peak, 10:00.359, +01:42.713
-347, t_hertle, 263581, Peugeot 205 T16 Pikes Peak, 10:00.393, +01:42.747
-348, Medieval, 227654, Peugeot 205 T16 Pikes Peak, 10:00.659, +01:43.013
-349, RALLY `CroSs., 350725, Peugeot 205 T16 Pikes Peak, 10:00.726, +01:43.080
-350, BruceFr, 189154, Peugeot 205 T16 Pikes Peak, 10:01.109, +01:43.463
-351, unclesam, 209517, Peugeot 205 T16 Pikes Peak, 10:01.593, +01:43.947
-352, Andyvan, 315773, Peugeot 205 T16 Pikes Peak, 10:01.877, +01:44.231
-353, kdawebb, 281800, Peugeot 205 T16 Pikes Peak, 10:02.409, +01:44.763
-354, Kasius_Klein, 265770, Peugeot 205 T16 Pikes Peak, 10:02.559, +01:44.913
-355, SausageAdmirer, 280820, Peugeot 205 T16 Pikes Peak, 10:02.560, +01:44.914
-356, protos080290, 178939, Peugeot 205 T16 Pikes Peak, 10:02.642, +01:44.996
-357, Stepan Stepanowitch, 239810, Peugeot 205 T16 Pikes Peak, 10:02.725, +01:45.079
-358, mitchonetwo, 81941, Peugeot 205 T16 Pikes Peak, 10:02.859, +01:45.213
-359, Zeno, 260218, Peugeot 205 T16 Pikes Peak, 10:03.059, +01:45.413
-360, Boostking, 202736, Peugeot 205 T16 Pikes Peak, 10:03.409, +01:45.763
-361, florent.moulin, 350165, Peugeot 205 T16 Pikes Peak, 10:03.443, +01:45.797
-362, daBOPY, 9078, Peugeot 205 T16 Pikes Peak, 10:03.626, +01:45.980
-363, theshrew2000, 355953, Peugeot 205 T16 Pikes Peak, 10:03.692, +01:46.046
-364, Szjmon, 159608, Peugeot 205 T16 Pikes Peak, 10:03.692, +01:46.046
-365, Koenvh, 12587, Peugeot 205 T16 Pikes Peak, 10:03.809, +01:46.163
-366, pierrotdu13, 29048, Peugeot 205 T16 Pikes Peak, 10:03.842, +01:46.196
-367, polyperchon394, 349521, Peugeot 205 T16 Pikes Peak, 10:03.875, +01:46.229
-368, audriux0, 141483, Peugeot 205 T16 Pikes Peak, 10:03.910, +01:46.264
-369, Old Fox, 290588, Peugeot 205 T16 Pikes Peak, 10:03.976, +01:46.330
-370, ohlsen, 14242, Peugeot 205 T16 Pikes Peak, 10:04.009, +01:46.363
-371, ???, 275866, Peugeot 205 T16 Pikes Peak, 10:04.276, +01:46.630
-372, Jack57, 18388, Peugeot 205 T16 Pikes Peak, 10:04.409, +01:46.763
-373, Mr Underlay, 221847, Peugeot 205 T16 Pikes Peak, 10:04.643, +01:46.997
-374, Jemery Mailman, 2171, Peugeot 205 T16 Pikes Peak, 10:04.692, +01:47.046
-375, jwsenna, 92842, Peugeot 205 T16 Pikes Peak, 10:05.126, +01:47.480
-376, WorldRallyFan, 263489, Peugeot 205 T16 Pikes Peak, 10:05.159, +01:47.513
-377, Mikester, 66710, Peugeot 205 T16 Pikes Peak, 10:05.209, +01:47.563
-378, MetalTarzan, 226046, Peugeot 205 T16 Pikes Peak, 10:05.242, +01:47.596
-379, Mosta, 176969, Peugeot 205 T16 Pikes Peak, 10:05.459, +01:47.813
-380, arno, 64923, Peugeot 205 T16 Pikes Peak, 10:05.493, +01:47.847
-381, pukekokiwi, 304451, Peugeot 205 T16 Pikes Peak, 10:05.559, +01:47.913
-382, butzeman70, 152589, Peugeot 205 T16 Pikes Peak, 10:05.642, +01:47.996
-383, power, 106173, Peugeot 205 T16 Pikes Peak, 10:06.192, +01:48.546
-384, fiorux.rob, 225049, Peugeot 205 T16 Pikes Peak, 10:06.309, +01:48.663
-385, luky.pastrello, 319346, Peugeot 205 T16 Pikes Peak, 10:06.359, +01:48.713
-386, ariwalk, 115475, Peugeot 205 T16 Pikes Peak, 10:06.426, +01:48.780
-387, MightyMicro, 312963, Peugeot 205 T16 Pikes Peak, 10:06.843, +01:49.197
-388, Dr. Landmine, 44994, Peugeot 205 T16 Pikes Peak, 10:06.959, +01:49.313
-389, nationalwheel, 121307, Peugeot 205 T16 Pikes Peak, 10:06.992, +01:49.346
-390, Crown, 359750, Peugeot 205 T16 Pikes Peak, 10:07.109, +01:49.463
-391, PP Mister No, 293754, Peugeot 205 T16 Pikes Peak, 10:07.526, +01:49.880
-392, Not Joe, 180850, Peugeot 205 T16 Pikes Peak, 10:07.659, +01:50.013
-393, ((-=Zwaffie=-)), 271810, Peugeot 205 T16 Pikes Peak, 10:07.792, +01:50.146
-394, Rmi, 97740, Peugeot 205 T16 Pikes Peak, 10:08.159, +01:50.513
-395, arm(rus), 220527, Peugeot 205 T16 Pikes Peak, 10:08.175, +01:50.529
-396, acellis1987, 9126, Peugeot 205 T16 Pikes Peak, 10:08.359, +01:50.713
-397, mickmac, 287096, Peugeot 205 T16 Pikes Peak, 10:09.158, +01:51.512
-398, jandar2, 301422, Peugeot 205 T16 Pikes Peak, 10:09.259, +01:51.613
-399, Lorelei, 202447, Peugeot 205 T16 Pikes Peak, 10:09.858, +01:52.212
-400, LukeWarm40, 22335, Peugeot 205 T16 Pikes Peak, 10:10.275, +01:52.629
-401, Kurtis McLawhorn, 358052, Peugeot 205 T16 Pikes Peak, 10:10.675, +01:53.029
-402, Suolimies, 68275, Peugeot 205 T16 Pikes Peak, 10:10.908, +01:53.262
-403, cpsheb, 16152, Peugeot 205 T16 Pikes Peak, 10:11.242, +01:53.596
-404, Axel, 311544, Peugeot 205 T16 Pikes Peak, 10:11.292, +01:53.646
-405, Neo, 262460, Peugeot 205 T16 Pikes Peak, 10:11.692, +01:54.046
-406, Max lerouge, 292866, Peugeot 205 T16 Pikes Peak, 10:11.808, +01:54.162
-407, darkangel_jimmy, 303567, Peugeot 205 T16 Pikes Peak, 10:12.192, +01:54.546
-408, AleBrus, 29364, Peugeot 205 T16 Pikes Peak, 10:12.376, +01:54.730
-409, [BonG]Jolala68, 103684, Peugeot 205 T16 Pikes Peak, 10:12.476, +01:54.830
-410, MisterGreen, 47629, Peugeot 205 T16 Pikes Peak, 10:12.692, +01:55.046
-411, Tommy, 133744, Peugeot 205 T16 Pikes Peak, 10:12.726, +01:55.080
-412, Solenius, 149842, Peugeot 205 T16 Pikes Peak, 10:12.776, +01:55.130
-413, milka35, 309326, Peugeot 205 T16 Pikes Peak, 10:12.858, +01:55.212
-414, slashguns, 354830, Peugeot 205 T16 Pikes Peak, 10:12.942, +01:55.296
-415, zimmerst86, 355728, Peugeot 205 T16 Pikes Peak, 10:13.126, +01:55.480
-416, Lifeless-666-[AUT], 226445, Peugeot 205 T16 Pikes Peak, 10:13.442, +01:55.796
-417, POOTOOTOO, 317355, Peugeot 205 T16 Pikes Peak, 10:13.509, +01:55.863
-418, Naprostyhovado, 25895, Peugeot 205 T16 Pikes Peak, 10:13.708, +01:56.062
-419, Alec, 314358, Peugeot 205 T16 Pikes Peak, 10:13.959, +01:56.313
-420, shur-li, 335068, Peugeot 205 T16 Pikes Peak, 10:14.109, +01:56.463
-421, Brett, 359222, Peugeot 205 T16 Pikes Peak, 10:14.375, +01:56.729
-422, starcloud60, 91058, Peugeot 205 T16 Pikes Peak, 10:14.392, +01:56.746
-423, GroupBFanatic, 127153, Peugeot 205 T16 Pikes Peak, 10:14.475, +01:56.829
-424, 3aPa3a, 157177, Peugeot 205 T16 Pikes Peak, 10:14.558, +01:56.912
-425, cschuby, 130018, Peugeot 205 T16 Pikes Peak, 10:14.675, +01:57.029
-426, markm4000, 171313, Peugeot 205 T16 Pikes Peak, 10:14.759, +01:57.113
-427, marathon-sam, 211291, Peugeot 205 T16 Pikes Peak, 10:14.859, +01:57.213
-428, Ralph Niggum, 360608, Peugeot 205 T16 Pikes Peak, 10:15.425, +01:57.779
-429, vincent-bourque, 260921, Peugeot 205 T16 Pikes Peak, 10:15.476, +01:57.830
-430, inet.email (DE-NRW-LIP), 316984, Peugeot 205 T16 Pikes Peak, 10:15.592, +01:57.946
-431, japi445, 225047, Peugeot 205 T16 Pikes Peak, 10:15.808, +01:58.162
-432, romain.thuillier, 47636, Peugeot 205 T16 Pikes Peak, 10:15.893, +01:58.247
-433, Fideon, 203839, Peugeot 205 T16 Pikes Peak, 10:15.942, +01:58.296
-434, Prophedis, 165891, Peugeot 205 T16 Pikes Peak, 10:15.992, +01:58.346
-435, XJ220, 155806, Peugeot 205 T16 Pikes Peak, 10:16.060, +01:58.414
-436, SpaceCouncil, 105016, Peugeot 205 T16 Pikes Peak, 10:16.542, +01:58.896
-437, [NRT] Ichabod, 163068, Peugeot 205 T16 Pikes Peak, 10:16.592, +01:58.946
-438, arjoye, 225851, Peugeot 205 T16 Pikes Peak, 10:16.775, +01:59.129
-439, kasozveers, 332600, Peugeot 205 T16 Pikes Peak, 10:16.925, +01:59.279
-440, chimelmion, 206231, Peugeot 205 T16 Pikes Peak, 10:16.925, +01:59.279
-441, TaylorM, 172082, Peugeot 205 T16 Pikes Peak, 10:17.175, +01:59.529
-442, Incy Wincy Spider, 40514, Peugeot 205 T16 Pikes Peak, 10:17.175, +01:59.529
-443, Yourate, 291032, Peugeot 205 T16 Pikes Peak, 10:17.191, +01:59.545
-444, oskarinio, 15909, Peugeot 205 T16 Pikes Peak, 10:17.276, +01:59.630
-445, Bonito, 4460, Peugeot 205 T16 Pikes Peak, 10:17.342, +01:59.696
-446, d.smouty, 123370, Peugeot 205 T16 Pikes Peak, 10:17.792, +02:00.146
-447, xdragosanix, 45421, Peugeot 205 T16 Pikes Peak, 10:17.808, +02:00.162
-448, Ouag, 280349, Peugeot 205 T16 Pikes Peak, 10:18.175, +02:00.529
-449, capthandheld, 333006, Peugeot 205 T16 Pikes Peak, 10:18.259, +02:00.613
-450, adj-cpt, 340225, Peugeot 205 T16 Pikes Peak, 10:18.325, +02:00.679
-451, =_Red@Fox_=, 236201, Peugeot 205 T16 Pikes Peak, 10:18.508, +02:00.862
-452, padyhetz, 128743, Peugeot 205 T16 Pikes Peak, 10:18.541, +02:00.895
-453, dest1ny49, 5598, Peugeot 205 T16 Pikes Peak, 10:18.675, +02:01.029
-454, Anymal, 204245, Peugeot 205 T16 Pikes Peak, 10:19.276, +02:01.630
-455, KickDrummer, 201501, Peugeot 205 T16 Pikes Peak, 10:19.292, +02:01.646
-456, MariusPL, 275302, Peugeot 205 T16 Pikes Peak, 10:19.541, +02:01.895
-457, sodamoeba, 231120, Peugeot 205 T16 Pikes Peak, 10:20.142, +02:02.496
-458, cheba, 121205, Peugeot 205 T16 Pikes Peak, 10:20.209, +02:02.563
-459, rayzorxg, 286983, Peugeot 205 T16 Pikes Peak, 10:20.491, +02:02.845
-460, Styo, 26366, Peugeot 205 T16 Pikes Peak, 10:20.875, +02:03.229
-461, Lacs 1954, 97713, Peugeot 205 T16 Pikes Peak, 10:21.058, +02:03.412
-462, Wisey, 40246, Peugeot 205 T16 Pikes Peak, 10:21.675, +02:04.029
-463, [NWS] stobart, 248064, Peugeot 205 T16 Pikes Peak, 10:21.908, +02:04.262
-464, jakub.sawicki, 110213, Peugeot 205 T16 Pikes Peak, 10:22.009, +02:04.363
-465, SKT_Customer, 44001, Peugeot 205 T16 Pikes Peak, 10:22.026, +02:04.380
-466, Jola, 8659, Peugeot 205 T16 Pikes Peak, 10:22.075, +02:04.429
-467, Bizby, 353312, Peugeot 205 T16 Pikes Peak, 10:22.142, +02:04.496
-468, =|ZGE|= Agent-P, 62796, Peugeot 205 T16 Pikes Peak, 10:22.142, +02:04.496
-469, Marc One, 311846, Peugeot 205 T16 Pikes Peak, 10:22.291, +02:04.645
-470, No3InGame, 352455, Peugeot 205 T16 Pikes Peak, 10:23.042, +02:05.396
-471, Unreal_DRiVER, 337249, Peugeot 205 T16 Pikes Peak, 10:23.125, +02:05.479
-472, Pfaffo!, 276104, Peugeot 205 T16 Pikes Peak, 10:23.242, +02:05.596
-473, JessyMan]Eh?[, 356927, Peugeot 205 T16 Pikes Peak, 10:23.292, +02:05.646
-474, McNibbles, 63267, Peugeot 205 T16 Pikes Peak, 10:23.325, +02:05.679
-475, Lowolf, 248747, Peugeot 205 T16 Pikes Peak, 10:23.459, +02:05.813
-476, leonamis, 352048, Peugeot 205 T16 Pikes Peak, 10:23.608, +02:05.962
-477, mebius.tos, 313182, Peugeot 205 T16 Pikes Peak, 10:24.158, +02:06.512
-478, Ninja RX | kickback.com, 106512, Peugeot 205 T16 Pikes Peak, 10:24.426, +02:06.780
-479, coolracer501, 19329, Peugeot 205 T16 Pikes Peak, 10:24.458, +02:06.812
-480, CaRbUrAtOr, 19504, Peugeot 205 T16 Pikes Peak, 10:24.925, +02:07.279
-481, LuiKnopfel, 129681, Peugeot 205 T16 Pikes Peak, 10:25.008, +02:07.362
-482, tuatarakiwi, 156861, Peugeot 205 T16 Pikes Peak, 10:25.124, +02:07.478
-483, crowepc, 133208, Peugeot 205 T16 Pikes Peak, 10:25.992, +02:08.346
-484, tweek, 88801, Peugeot 205 T16 Pikes Peak, 10:26.008, +02:08.362
-485, SoldierTriad, 338830, Peugeot 205 T16 Pikes Peak, 10:26.426, +02:08.780
-486, geweihtraeger, 353709, Peugeot 205 T16 Pikes Peak, 10:26.642, +02:08.996
-487, hrung, 162862, Peugeot 205 T16 Pikes Peak, 10:26.708, +02:09.062
-488, pierolucaz, 45178, Peugeot 205 T16 Pikes Peak, 10:26.775, +02:09.129
-489, JAVI_IZNA, 160358, Peugeot 205 T16 Pikes Peak, 10:26.825, +02:09.179
-490, f.polido, 169537, Peugeot 205 T16 Pikes Peak, 10:27.208, +02:09.562
-491, kojeto, 92706, Peugeot 205 T16 Pikes Peak, 10:27.258, +02:09.612
-492, MOhOM@n, 53194, Peugeot 205 T16 Pikes Peak, 10:27.474, +02:09.828
-493, Mimo Rewards.GG, 317458, Peugeot 205 T16 Pikes Peak, 10:27.625, +02:09.979
-494, point-autoglas, 312433, Peugeot 205 T16 Pikes Peak, 10:27.725, +02:10.079
-495, T271, 218351, Peugeot 205 T16 Pikes Peak, 10:28.074, +02:10.428
-496, Edwin_Furnace, 236720, Peugeot 205 T16 Pikes Peak, 10:28.126, +02:10.480
-497, kirk1507, 346729, Peugeot 205 T16 Pikes Peak, 10:28.342, +02:10.696
-498, Pol_toX, 51265, Peugeot 205 T16 Pikes Peak, 10:28.374, +02:10.728
-499, ellioto, 316570, Peugeot 205 T16 Pikes Peak, 10:28.425, +02:10.779
-500, Luke, 311686, Peugeot 205 T16 Pikes Peak, 10:28.442, +02:10.796
-501, Otherworld, 108532, Peugeot 205 T16 Pikes Peak, 10:28.792, +02:11.146
-502, Pasotheman, 205122, Peugeot 205 T16 Pikes Peak, 10:28.942, +02:11.296
-503, hct, 330234, Peugeot 205 T16 Pikes Peak, 10:29.358, +02:11.712
-504, Jajao555, 346332, Peugeot 205 T16 Pikes Peak, 10:29.575, +02:11.929
-505, Nagel, 37133, Peugeot 205 T16 Pikes Peak, 10:29.725, +02:12.079
-506, Maxence, 40858, Peugeot 205 T16 Pikes Peak, 10:29.842, +02:12.196
-507, alexandre.trioux, 300335, Peugeot 205 T16 Pikes Peak, 10:29.924, +02:12.278
-508, Bludistak, 146680, Peugeot 205 T16 Pikes Peak, 10:29.974, +02:12.328
-509, mustang11pm, 221482, Peugeot 205 T16 Pikes Peak, 10:30.058, +02:12.412
-510, vttrider47, 186133, Peugeot 205 T16 Pikes Peak, 10:30.292, +02:12.646
-511, Ratiug Nokin, 296298, Peugeot 205 T16 Pikes Peak, 10:30.374, +02:12.728
-512, helene.soren, 148557, Peugeot 205 T16 Pikes Peak, 10:31.275, +02:13.629
-513, Clippy, 44417, Peugeot 205 T16 Pikes Peak, 10:31.293, +02:13.647
-514, The Raging Tightwad, 232195, Peugeot 205 T16 Pikes Peak, 10:31.526, +02:13.880
-515, Goro, 322999, Peugeot 205 T16 Pikes Peak, 10:31.641, +02:13.995
-516, InterFaced, 27900, Peugeot 205 T16 Pikes Peak, 10:31.892, +02:14.246
-517, ALF v4.0, 97322, Peugeot 205 T16 Pikes Peak, 10:31.942, +02:14.296
-518, FlorentGT, 4038, Peugeot 205 T16 Pikes Peak, 10:32.009, +02:14.363
-519, [CPC]TiNitro, 30875, Peugeot 205 T16 Pikes Peak, 10:32.358, +02:14.712
-520, Quail-P, 71363, Peugeot 205 T16 Pikes Peak, 10:32.374, +02:14.728
-521, bungar, 42059, Peugeot 205 T16 Pikes Peak, 10:33.025, +02:15.379
-522, Cortex, 153414, Peugeot 205 T16 Pikes Peak, 10:33.542, +02:15.896
-523, Oppai, 284821, Peugeot 205 T16 Pikes Peak, 10:33.674, +02:16.028
-524, Ursula ROJAS//ARG//, 247914, Peugeot 205 T16 Pikes Peak, 10:33.807, +02:16.161
-525, Squid, 209044, Peugeot 205 T16 Pikes Peak, 10:33.874, +02:16.228
-526, Arno Dbel, 223385, Peugeot 205 T16 Pikes Peak, 10:34.175, +02:16.529
-527, interferens, 338917, Peugeot 205 T16 Pikes Peak, 10:34.458, +02:16.812
-528, loplopk, 155921, Peugeot 205 T16 Pikes Peak, 10:34.575, +02:16.929
-529, IGNI, 338662, Peugeot 205 T16 Pikes Peak, 10:34.824, +02:17.178
-530, IronPredator, 343163, Peugeot 205 T16 Pikes Peak, 10:35.291, +02:17.645
-531, MotoSapiens, 237476, Peugeot 205 T16 Pikes Peak, 10:35.325, +02:17.679
-532, Freekill, 258364, Peugeot 205 T16 Pikes Peak, 10:35.641, +02:17.995
-533, gunslinger3, 7006, Peugeot 205 T16 Pikes Peak, 10:35.742, +02:18.096
-534, Xfen18, 344104, Peugeot 205 T16 Pikes Peak, 10:35.775, +02:18.129
-535, bwhitesel73, 337755, Peugeot 205 T16 Pikes Peak, 10:35.775, +02:18.129
-536, xUplink, 355036, Peugeot 205 T16 Pikes Peak, 10:35.892, +02:18.246
-537, Karppa, 189936, Peugeot 205 T16 Pikes Peak, 10:36.108, +02:18.462
-538, stefan051004, 276667, Peugeot 205 T16 Pikes Peak, 10:36.391, +02:18.745
-539, Brachius, 359161, Peugeot 205 T16 Pikes Peak, 10:36.391, +02:18.745
-540, 1LtFord, 188834, Peugeot 205 T16 Pikes Peak, 10:36.542, +02:18.896
-541, seam747, 133412, Peugeot 205 T16 Pikes Peak, 10:37.008, +02:19.362
-542, juggle, 312935, Peugeot 205 T16 Pikes Peak, 10:37.141, +02:19.495
-543, **BuFFaLo133**, 275704, Peugeot 205 T16 Pikes Peak, 10:37.158, +02:19.512
-544, fasthammer, 28372, Peugeot 205 T16 Pikes Peak, 10:37.607, +02:19.961
-545, 21 Cabbage, 21952, Peugeot 205 T16 Pikes Peak, 10:37.641, +02:19.995
-546, jbartesplanas, 348593, Peugeot 205 T16 Pikes Peak, 10:37.658, +02:20.012
-547, Steelyjace, 311263, Peugeot 205 T16 Pikes Peak, 10:37.741, +02:20.095
-548, Frisken, 278061, Peugeot 205 T16 Pikes Peak, 10:37.825, +02:20.179
-549, Vitark, 27247, Peugeot 205 T16 Pikes Peak, 10:38.259, +02:20.613
-550, shivan, 125696, Peugeot 205 T16 Pikes Peak, 10:38.642, +02:20.996
-551, Jump, 229702, Peugeot 205 T16 Pikes Peak, 10:38.774, +02:21.128
-552, Morti, 188051, Peugeot 205 T16 Pikes Peak, 10:38.841, +02:21.195
-553, jetman78, 155078, Peugeot 205 T16 Pikes Peak, 10:38.907, +02:21.261
-554, [ST-LH] BlitzCraig, 190621, Peugeot 205 T16 Pikes Peak, 10:39.507, +02:21.861
-555, Aktras, 351616, Peugeot 205 T16 Pikes Peak, 10:40.008, +02:22.362
-556, ata, 55796, Peugeot 205 T16 Pikes Peak, 10:40.608, +02:22.962
-557, zaw, 246447, Peugeot 205 T16 Pikes Peak, 10:40.707, +02:23.061
-558, Wongar, 38841, Peugeot 205 T16 Pikes Peak, 10:41.025, +02:23.379
-559, Kory, 150782, Peugeot 205 T16 Pikes Peak, 10:41.258, +02:23.612
-560, alanr54nc, 52493, Peugeot 205 T16 Pikes Peak, 10:41.624, +02:23.978
-561, ?????, 352828, Peugeot 205 T16 Pikes Peak, 10:41.758, +02:24.112
-562, Je@nPh1, 319310, Peugeot 205 T16 Pikes Peak, 10:41.807, +02:24.161
-563, mueller, 197570, Peugeot 205 T16 Pikes Peak, 10:41.825, +02:24.179
-564, |JFK|_Untrustable, 165475, Peugeot 205 T16 Pikes Peak, 10:41.841, +02:24.195
-565, Mach82, 90635, Peugeot 205 T16 Pikes Peak, 10:42.325, +02:24.679
-566, jmfalfonso, 339109, Peugeot 205 T16 Pikes Peak, 10:42.341, +02:24.695
-567, hooliman, 358186, Peugeot 205 T16 Pikes Peak, 10:42.557, +02:24.911
-568, SimRally, 21332, Peugeot 205 T16 Pikes Peak, 10:42.641, +02:24.995
-569, sebkuh, 53103, Peugeot 205 T16 Pikes Peak, 10:42.957, +02:25.311
-570, Latosuo, 206417, Peugeot 205 T16 Pikes Peak, 10:43.109, +02:25.463
-571, kul.holda, 325017, Peugeot 205 T16 Pikes Peak, 10:43.524, +02:25.878
-572, Sepe27z, 314972, Peugeot 205 T16 Pikes Peak, 10:44.324, +02:26.678
-573, Cougar, 238932, Peugeot 205 T16 Pikes Peak, 10:44.357, +02:26.711
-574, raupi, 57750, Peugeot 205 T16 Pikes Peak, 10:44.558, +02:26.912
-575, Fittipaldi, 354507, Peugeot 205 T16 Pikes Peak, 10:45.324, +02:27.678
-576, Lucky_Luc85, 27622, Peugeot 205 T16 Pikes Peak, 10:46.107, +02:28.461
-577, b a l i  b i l a w, 118563, Peugeot 205 T16 Pikes Peak, 10:46.225, +02:28.579
-578, frey1173, 162130, Peugeot 205 T16 Pikes Peak, 10:46.741, +02:29.095
-579, TheGrandWizard, 232674, Peugeot 205 T16 Pikes Peak, 10:47.441, +02:29.795
-580, Ategon_n, 153747, Peugeot 205 T16 Pikes Peak, 10:47.957, +02:30.311
-581, Stinkbomb Bob, 328647, Peugeot 205 T16 Pikes Peak, 10:48.157, +02:30.511
-582, chert1024, 165804, Peugeot 205 T16 Pikes Peak, 10:48.274, +02:30.628
-583, Turco Loco, 36185, Peugeot 205 T16 Pikes Peak, 10:48.591, +02:30.945
-584, kaktys, 131764, Peugeot 205 T16 Pikes Peak, 10:48.658, +02:31.012
-585, Loafy, 278890, Peugeot 205 T16 Pikes Peak, 10:49.074, +02:31.428
-586, Spartan, 308724, Peugeot 205 T16 Pikes Peak, 10:49.442, +02:31.796
-587, antin29, 351926, Peugeot 205 T16 Pikes Peak, 10:50.392, +02:32.746
-588, liagoutas, 2254, Peugeot 205 T16 Pikes Peak, 10:51.724, +02:34.078
-589, TheLlamaLlama, 13798, Peugeot 205 T16 Pikes Peak, 10:51.741, +02:34.095
-590, Morpheus, 190994, Peugeot 205 T16 Pikes Peak, 10:51.924, +02:34.278
-591, Gerry33, 47100, Peugeot 205 T16 Pikes Peak, 10:51.975, +02:34.329
-592, x42, 83243, Peugeot 205 T16 Pikes Peak, 10:52.008, +02:34.362
-593, kazu, 30934, Peugeot 205 T16 Pikes Peak, 10:53.157, +02:35.511
-594, 190087804, 360255, Peugeot 205 T16 Pikes Peak, 10:53.341, +02:35.695
-595, omotopsych, 247673, Peugeot 205 T16 Pikes Peak, 10:53.623, +02:35.977
-596, OneLetter, 50036, Peugeot 205 T16 Pikes Peak, 10:53.858, +02:36.212
-597, matthieu.tison, 119198, Peugeot 205 T16 Pikes Peak, 10:53.909, +02:36.263
-598, 600dpi, 287058, Peugeot 205 T16 Pikes Peak, 10:54.058, +02:36.412
-599, lemonhart.0414, 77898, Peugeot 205 T16 Pikes Peak, 10:54.340, +02:36.694
-600, dewos91, 327655, Peugeot 205 T16 Pikes Peak, 10:54.475, +02:36.829
-601, David Spence, 270281, Peugeot 205 T16 Pikes Peak, 10:54.625, +02:36.979
-602, A4, 303998, Peugeot 205 T16 Pikes Peak, 10:54.775, +02:37.129
-603, osamu.takeishi, 229824, Peugeot 205 T16 Pikes Peak, 10:55.190, +02:37.544
-604, DazRalphs, 146739, Peugeot 205 T16 Pikes Peak, 10:55.340, +02:37.694
-605, mlamas, 291436, Peugeot 205 T16 Pikes Peak, 10:55.574, +02:37.928
-606, Joeisalsocool, 294941, Peugeot 205 T16 Pikes Peak, 10:55.957, +02:38.311
-607, The Sucker Punch, 90630, Peugeot 205 T16 Pikes Peak, 10:56.007, +02:38.361
-608, JanTheBanan, 314433, Peugeot 205 T16 Pikes Peak, 10:56.192, +02:38.546
-609, AlexGrin61, 188864, Peugeot 205 T16 Pikes Peak, 10:56.890, +02:39.244
-610, gotferdom, 236309, Peugeot 205 T16 Pikes Peak, 10:57.058, +02:39.412
-611, Grip-or-Slip, 156501, Peugeot 205 T16 Pikes Peak, 10:57.058, +02:39.412
-612, FuzzyAc, 357868, Peugeot 205 T16 Pikes Peak, 10:57.475, +02:39.829
-613, its game over man game over, 41093, Peugeot 205 T16 Pikes Peak, 10:58.090, +02:40.444
-614, Mega_Ninja, 353878, Peugeot 205 T16 Pikes Peak, 10:59.173, +02:41.527
-615, buddel_flink, 186000, Peugeot 205 T16 Pikes Peak, 10:59.442, +02:41.796
-616, ?doppelgnger, 44237, Peugeot 205 T16 Pikes Peak, 10:59.724, +02:42.078
-617, Biondo23 #Skylake, 276152, Peugeot 205 T16 Pikes Peak, 10:59.841, +02:42.195
-618, Pille, 119827, Peugeot 205 T16 Pikes Peak, 10:59.940, +02:42.294
-619, d2, 183589, Peugeot 205 T16 Pikes Peak, 11:00.273, +02:42.627
-620, bimbom34, 34859, Peugeot 205 T16 Pikes Peak, 11:00.940, +02:43.294
-621, Wisey, 101330, Peugeot 205 T16 Pikes Peak, 11:01.657, +02:44.011
-622, gramsvern, 344994, Peugeot 205 T16 Pikes Peak, 11:02.041, +02:44.395
-623, Encyclopenisa, 311016, Peugeot 205 T16 Pikes Peak, 11:02.108, +02:44.462
-624, NOARBULL, 59839, Peugeot 205 T16 Pikes Peak, 11:02.640, +02:44.994
-625, SpatialDragon, 61761, Peugeot 205 T16 Pikes Peak, 11:03.256, +02:45.610
-626, TN, 174354, Peugeot 205 T16 Pikes Peak, 11:05.124, +02:47.478
-627, ole.boehme, 250352, Peugeot 205 T16 Pikes Peak, 11:05.173, +02:47.527
-628, MH, 180407, Peugeot 205 T16 Pikes Peak, 11:05.658, +02:48.012
-629, mare87, 89079, Peugeot 205 T16 Pikes Peak, 11:05.858, +02:48.212
-630, zTR, 123528, Peugeot 205 T16 Pikes Peak, 11:06.759, +02:49.113
-631, stian, 14497, Peugeot 205 T16 Pikes Peak, 11:06.774, +02:49.128
-632, Neoxis Draw, 329387, Peugeot 205 T16 Pikes Peak, 11:07.008, +02:49.362
-633, hans129, 354760, Peugeot 205 T16 Pikes Peak, 11:07.173, +02:49.527
-634, PredawnJoker, 285567, Peugeot 205 T16 Pikes Peak, 11:08.174, +02:50.528
-635, InToxicatedSoulz, 27735, Peugeot 205 T16 Pikes Peak, 11:08.991, +02:51.345
-636, asmcauli, 231008, Peugeot 205 T16 Pikes Peak, 11:10.107, +02:52.461
-637, Rangar08, 215617, Peugeot 205 T16 Pikes Peak, 11:10.291, +02:52.645
-638, Body Without Organs, 257712, Peugeot 205 T16 Pikes Peak, 11:10.440, +02:52.794
-639, BarVladislav, 81301, Peugeot 205 T16 Pikes Peak, 11:10.457, +02:52.811
-640, Jo-Mtb, 170533, Peugeot 205 T16 Pikes Peak, 11:10.523, +02:52.877
-641, KYOKILLER!, 18901, Peugeot 205 T16 Pikes Peak, 11:10.957, +02:53.311
-642, 300, 25017, Peugeot 205 T16 Pikes Peak, 11:12.406, +02:54.760
-643, Ace0506, 197637, Peugeot 205 T16 Pikes Peak, 11:13.006, +02:55.360
-644, bombxx, 340817, Peugeot 205 T16 Pikes Peak, 11:15.190, +02:57.544
-645, Toxic, 5478, Peugeot 205 T16 Pikes Peak, 11:15.640, +02:57.994
-646, Block, 35285, Peugeot 205 T16 Pikes Peak, 11:16.242, +02:58.596
-647, Lasco, 25971, Peugeot 205 T16 Pikes Peak, 11:16.973, +02:59.327
-648, paul1987sk, 269198, Peugeot 205 T16 Pikes Peak, 11:17.790, +03:00.144
-649, nick_P, 185562, Peugeot 205 T16 Pikes Peak, 11:18.007, +03:00.361
-650, MrGrrnjeans, 20746, Peugeot 205 T16 Pikes Peak, 11:18.123, +03:00.477
-651, ?|f(x)-g(x)|dx, 91309, Peugeot 205 T16 Pikes Peak, 11:19.156, +03:01.510
-652, bsheepie, 40878, Peugeot 205 T16 Pikes Peak, 11:19.557, +03:01.911
-653, Voyo, 296516, Peugeot 205 T16 Pikes Peak, 11:19.640, +03:01.994
-654, zhangshaoa, 233811, Peugeot 205 T16 Pikes Peak, 11:20.073, +03:02.427
-655, ToFuMi, 348478, Peugeot 205 T16 Pikes Peak, 11:20.107, +03:02.461
-656, MilkyOneWay, 193888, Peugeot 205 T16 Pikes Peak, 11:20.392, +03:02.746
-657, implicit A, 309489, Peugeot 205 T16 Pikes Peak, 11:20.773, +03:03.127
-658, wolzem, 22012, Peugeot 205 T16 Pikes Peak, 11:22.173, +03:04.527
-659, Dark_Striker_007, 62827, Peugeot 205 T16 Pikes Peak, 11:22.439, +03:04.793
-660, gamebanger23, 360242, Peugeot 205 T16 Pikes Peak, 11:22.723, +03:05.077
-661, JALLU, 162895, Peugeot 205 T16 Pikes Peak, 11:22.756, +03:05.110
-662, vinline94, 189265, Peugeot 205 T16 Pikes Peak, 11:22.841, +03:05.195
-663, Chillin, 77130, Peugeot 205 T16 Pikes Peak, 11:23.207, +03:05.561
-664, Kromdak, 200963, Peugeot 205 T16 Pikes Peak, 11:24.256, +03:06.610
-665, Goozys, 25389, Peugeot 205 T16 Pikes Peak, 11:25.572, +03:07.926
-666, masaru, 277374, Peugeot 205 T16 Pikes Peak, 11:26.023, +03:08.377
-667, kitty, 146424, Peugeot 205 T16 Pikes Peak, 11:26.140, +03:08.494
-668, ZLMM, 358486, Peugeot 205 T16 Pikes Peak, 11:26.256, +03:08.610
-669, Lucas1957, 350265, Peugeot 205 T16 Pikes Peak, 11:26.406, +03:08.760
-670, cactus_magic, 248002, Peugeot 205 T16 Pikes Peak, 11:26.672, +03:09.026
-671, r0tax, 79753, Peugeot 205 T16 Pikes Peak, 11:27.073, +03:09.427
-672, kppscn, 349726, Peugeot 205 T16 Pikes Peak, 11:27.089, +03:09.443
-673, Paul_Fahrer, 212138, Peugeot 205 T16 Pikes Peak, 11:27.690, +03:10.044
-674, frank, 355940, Peugeot 205 T16 Pikes Peak, 11:27.991, +03:10.345
-675, Kaidan, 232927, Peugeot 205 T16 Pikes Peak, 11:28.190, +03:10.544
-676, Parliament, 165010, Peugeot 205 T16 Pikes Peak, 11:28.191, +03:10.545
-677, rednoses, 118094, Peugeot 205 T16 Pikes Peak, 11:28.622, +03:10.976
-678, The Icecream Snowman, 257328, Peugeot 205 T16 Pikes Peak, 11:28.839, +03:11.193
-679, Cid De Rohan, 29859, Peugeot 205 T16 Pikes Peak, 11:28.856, +03:11.210
-680, Olli, 77821, Peugeot 205 T16 Pikes Peak, 11:29.841, +03:12.195
-681, asasuzu, 277428, Peugeot 205 T16 Pikes Peak, 11:30.590, +03:12.944
-682, ferdji88, 354647, Peugeot 205 T16 Pikes Peak, 11:30.657, +03:13.011
-683, mateuscool, 135037, Peugeot 205 T16 Pikes Peak, 11:30.974, +03:13.328
-684, Rotzinstaschentuch, 340202, Peugeot 205 T16 Pikes Peak, 11:31.806, +03:14.160
-685, SpeeDManiac, 113528, Peugeot 205 T16 Pikes Peak, 11:33.557, +03:15.911
-686, drone303, 360279, Peugeot 205 T16 Pikes Peak, 11:34.522, +03:16.876
-687, la hyene, 2229, Peugeot 205 T16 Pikes Peak, 11:34.572, +03:16.926
-688, Igos, 359182, Peugeot 205 T16 Pikes Peak, 11:34.739, +03:17.093
-689, tallpauluk, 204328, Peugeot 205 T16 Pikes Peak, 11:34.856, +03:17.210
-690, GREAT AGAIN, 356031, Peugeot 205 T16 Pikes Peak, 11:35.357, +03:17.711
-691, stuied148, 313796, Peugeot 205 T16 Pikes Peak, 11:36.108, +03:18.462
-692, ToxicLogix, 92271, Peugeot 205 T16 Pikes Peak, 11:36.157, +03:18.511
-693, paguy, 134283, Peugeot 205 T16 Pikes Peak, 11:36.923, +03:19.277
-694, Oni40, 60154, Peugeot 205 T16 Pikes Peak, 11:36.924, +03:19.278
-695, [nGa] ?? Ribschn ??, 276299, Peugeot 205 T16 Pikes Peak, 11:37.006, +03:19.360
-696, PinguinBoss, 11508, Peugeot 205 T16 Pikes Peak, 11:37.456, +03:19.810
-697, kawa, 359469, Peugeot 205 T16 Pikes Peak, 11:37.740, +03:20.094
-698, cyga, 130972, Peugeot 205 T16 Pikes Peak, 11:38.939, +03:21.293
-699, Jigorokano, 256010, Peugeot 205 T16 Pikes Peak, 11:40.706, +03:23.060
-700, Klaritoppen, 169386, Peugeot 205 T16 Pikes Peak, 11:41.456, +03:23.810
-701, Khalinatek, 132074, Peugeot 205 T16 Pikes Peak, 11:41.557, +03:23.911
-702, taranathicus, 46397, Peugeot 205 T16 Pikes Peak, 11:42.089, +03:24.443
-703, Mr. Googly, 145264, Peugeot 205 T16 Pikes Peak, 11:42.789, +03:25.143
-704, tokuga, 351215, Peugeot 205 T16 Pikes Peak, 11:42.872, +03:25.226
-705, sebastien, 164518, Peugeot 205 T16 Pikes Peak, 11:43.089, +03:25.443
-706, Hardy, 263877, Peugeot 205 T16 Pikes Peak, 11:43.172, +03:25.526
-707, [FVM] Onkel Sega, 212348, Peugeot 205 T16 Pikes Peak, 11:43.489, +03:25.843
-708, robyfagio, 93244, Peugeot 205 T16 Pikes Peak, 11:44.173, +03:26.527
-709, e447, 248122, Peugeot 205 T16 Pikes Peak, 11:44.756, +03:27.110
-710, tessert, 9444, Peugeot 205 T16 Pikes Peak, 11:46.623, +03:28.977
-711, dark warrior, 167816, Peugeot 205 T16 Pikes Peak, 11:46.907, +03:29.261
-712, foxlkc, 167841, Peugeot 205 T16 Pikes Peak, 11:47.272, +03:29.626
-713, timMUFC, 359480, Peugeot 205 T16 Pikes Peak, 11:47.289, +03:29.643
-714, [OFc] LK3, 22267, Peugeot 205 T16 Pikes Peak, 11:48.074, +03:30.428
-715, kroonbox, 80577, Peugeot 205 T16 Pikes Peak, 11:49.491, +03:31.845
-716, [LAKS]Napper198, 355567, Peugeot 205 T16 Pikes Peak, 11:50.756, +03:33.110
-717, wLs.iMiiniMe, 320745, Peugeot 205 T16 Pikes Peak, 11:51.540, +03:33.894
-718, sc750, 162264, Peugeot 205 T16 Pikes Peak, 11:51.790, +03:34.144
-719, shibuindie, 350844, Peugeot 205 T16 Pikes Peak, 11:52.023, +03:34.377
-720, cfg852, 143702, Peugeot 205 T16 Pikes Peak, 11:52.223, +03:34.577
-721, Spit_Roast94, 360540, Peugeot 205 T16 Pikes Peak, 11:52.256, +03:34.610
-722, KraMBoxing, 334959, Peugeot 205 T16 Pikes Peak, 11:52.338, +03:34.692
-723, FlowMo, 181548, Peugeot 205 T16 Pikes Peak, 11:53.691, +03:36.045
-724, ajohnson213, 176908, Peugeot 205 T16 Pikes Peak, 11:54.871, +03:37.225
-725, Xmen le noob, 341681, Peugeot 205 T16 Pikes Peak, 11:55.256, +03:37.610
-726, xXZoomAirXx, 162848, Peugeot 205 T16 Pikes Peak, 11:56.740, +03:39.094
-727, PUSSYCAT, 103421, Peugeot 205 T16 Pikes Peak, 11:57.155, +03:39.509
-728, Wist, 359081, Peugeot 205 T16 Pikes Peak, 11:57.424, +03:39.778
-729, Talentfrei[ger], 325069, Peugeot 205 T16 Pikes Peak, 11:59.222, +03:41.576
-730, catalyst, 306412, Peugeot 205 T16 Pikes Peak, 11:59.789, +03:42.143
-731, mig64, 120406, Peugeot 205 T16 Pikes Peak, 12:00.389, +03:42.743
-732, gennzan7098, 282227, Peugeot 205 T16 Pikes Peak, 12:00.555, +03:42.909
-733, okakug0, 289979, Peugeot 205 T16 Pikes Peak, 12:01.104, +03:43.458
-734, 916137521, 176951, Peugeot 205 T16 Pikes Peak, 12:02.388, +03:44.742
-735, Flesh177, 238260, Peugeot 205 T16 Pikes Peak, 12:05.555, +03:47.909
-736, asso_98, 55868, Peugeot 205 T16 Pikes Peak, 12:05.738, +03:48.092
-737, Protox, 356094, Peugeot 205 T16 Pikes Peak, 12:06.824, +03:49.178
-738, Like A Blizzard, 358490, Peugeot 205 T16 Pikes Peak, 12:07.341, +03:49.695
-739, Terror Wrist, 168283, Peugeot 205 T16 Pikes Peak, 12:08.706, +03:51.060
-740, Domina...PiTi..., 14129, Peugeot 205 T16 Pikes Peak, 12:08.721, +03:51.075
-741, Masher, 319199, Peugeot 205 T16 Pikes Peak, 12:08.756, +03:51.110
-742, avadakedavra696, 358888, Peugeot 205 T16 Pikes Peak, 12:10.774, +03:53.128
-743, $KtF?k, 85958, Peugeot 205 T16 Pikes Peak, 12:11.523, +03:53.877
-744, nflaus, 276214, Peugeot 205 T16 Pikes Peak, 12:11.722, +03:54.076
-745, Vince, 96299, Peugeot 205 T16 Pikes Peak, 12:13.790, +03:56.144
-746, harri.lattu, 348029, Peugeot 205 T16 Pikes Peak, 12:14.324, +03:56.678
-747, kuusalur3, 353875, Peugeot 205 T16 Pikes Peak, 12:15.738, +03:58.092
-748, Pool-M@$$A, 53061, Peugeot 205 T16 Pikes Peak, 12:19.857, +04:02.211
-749, Silva Nigra, 70559, Peugeot 205 T16 Pikes Peak, 12:21.153, +04:03.507
-750, BoyRacer, 160166, Peugeot 205 T16 Pikes Peak, 12:21.474, +04:03.828
-751, U2bernie, 326836, Peugeot 205 T16 Pikes Peak, 12:22.623, +04:04.977
-752, SOM, 167615, Peugeot 205 T16 Pikes Peak, 12:24.804, +04:07.158
-753, wpn_x7, 359935, Peugeot 205 T16 Pikes Peak, 12:25.073, +04:07.427
-754, mattrychtowski, 43170, Peugeot 205 T16 Pikes Peak, 12:25.155, +04:07.509
-755, Max Rko, 83992, Peugeot 205 T16 Pikes Peak, 12:26.455, +04:08.809
-756, to, 359485, Peugeot 205 T16 Pikes Peak, 12:26.572, +04:08.926
-757, gunter, 322120, Peugeot 205 T16 Pikes Peak, 12:27.240, +04:09.594
-758, fcsupernova, 358452, Peugeot 205 T16 Pikes Peak, 12:29.970, +04:12.324
-759, Psymn, 342564, Peugeot 205 T16 Pikes Peak, 12:30.539, +04:12.893
-760, Erasing_Secrets, 360018, Peugeot 205 T16 Pikes Peak, 12:32.905, +04:15.259
-761, Walking  Dead, 338320, Peugeot 205 T16 Pikes Peak, 12:33.789, +04:16.143
-762, felix.ga1, 191035, Peugeot 205 T16 Pikes Peak, 12:40.373, +04:22.727
-763, Holliwood, 188880, Peugeot 205 T16 Pikes Peak, 12:45.041, +04:27.395
-764, dopler, 21871, Peugeot 205 T16 Pikes Peak, 12:45.386, +04:27.740
-765, TAH, 328375, Peugeot 205 T16 Pikes Peak, 12:45.787, +04:28.141
-766, itsokay, 160469, Peugeot 205 T16 Pikes Peak, 12:46.153, +04:28.507
-767, harvey79, 360311, Peugeot 205 T16 Pikes Peak, 12:48.671, +04:31.025
-768, Shinjiteru, 338869, Peugeot 205 T16 Pikes Peak, 12:48.752, +04:31.106
-769, DrDisharonii, 356483, Peugeot 205 T16 Pikes Peak, 12:50.136, +04:32.490
-770, Percival, 89741, Peugeot 205 T16 Pikes Peak, 12:51.720, +04:34.074
-771, LewSi_x, 290197, Peugeot 205 T16 Pikes Peak, 12:52.238, +04:34.592
-772, Mon-Mon-Dbile, 359011, Peugeot 205 T16 Pikes Peak, 12:52.739, +04:35.093
-773, morefeetin, 340107, Peugeot 205 T16 Pikes Peak, 12:54.987, +04:37.341
-774, [NRT] Cubitus1957, 126028, Peugeot 205 T16 Pikes Peak, 12:55.490, +04:37.844
-775, Pendejo, 89026, Peugeot 205 T16 Pikes Peak, 13:01.722, +04:44.076
-776, Toromlo, 2860, Peugeot 205 T16 Pikes Peak, 13:05.420, +04:47.774
-777, darkmetalmike, 108531, Peugeot 205 T16 Pikes Peak, 13:05.971, +04:48.325
-778, sinthus, 161371, Peugeot 205 T16 Pikes Peak, 13:06.754, +04:49.108
-779, tobiasmaier10, 353410, Peugeot 205 T16 Pikes Peak, 13:10.620, +04:52.974
-780, kamenot, 340700, Peugeot 205 T16 Pikes Peak, 13:13.302, +04:55.656
-781, edtek, 300842, Peugeot 205 T16 Pikes Peak, 13:13.889, +04:56.243
-782, MARIO PEPPERONI, 161931, Peugeot 205 T16 Pikes Peak, 13:14.020, +04:56.374
-783, UMOMZ, 360217, Peugeot 205 T16 Pikes Peak, 13:19.605, +05:01.959
-784, nymfan17117, 340503, Peugeot 205 T16 Pikes Peak, 13:21.354, +05:03.708
-785, Otto_vB, 338651, Peugeot 205 T16 Pikes Peak, 13:21.385, +05:03.739
-786, Kypster, 360072, Peugeot 205 T16 Pikes Peak, 13:22.786, +05:05.140
-787, FraN, 189114, Peugeot 205 T16 Pikes Peak, 13:28.586, +05:10.940
-788, jokergermany.de.vu, 336414, Peugeot 205 T16 Pikes Peak, 13:31.137, +05:13.491
-789, retyna141, 259451, Peugeot 205 T16 Pikes Peak, 13:31.254, +05:13.608
-790, Apostrophe1964, 290410, Peugeot 205 T16 Pikes Peak, 13:33.750, +05:16.104
-791, Silent, 337244, Peugeot 205 T16 Pikes Peak, 13:36.403, +05:18.757
-792, Saterion, 157061, Peugeot 205 T16 Pikes Peak, 13:59.487, +05:41.841
-793, leonrace, 134168, Peugeot 205 T16 Pikes Peak, 14:06.799, +05:49.153
-794, nicol, 307042, Peugeot 205 T16 Pikes Peak, 14:15.371, +05:57.725
-795, laricojohn, 341872, Peugeot 205 T16 Pikes Peak, 14:17.168, +05:59.522
-796, Rudprey, 274245, Peugeot 205 T16 Pikes Peak, 14:19.705, +06:02.059
-797, ole.johansson, 328264, Peugeot 205 T16 Pikes Peak, 14:36.648, +06:19.002
-798, trailrunner4life, 285053, Peugeot 205 T16 Pikes Peak, 14:44.453, +06:26.807
-799, Big Block, 25024, Peugeot 205 T16 Pikes Peak, 14:46.337, +06:28.691
-800, andante BLUES, 360010, Peugeot 205 T16 Pikes Peak, 14:50.853, +06:33.207
-801, brezel237, 360365, Peugeot 205 T16 Pikes Peak, 15:15.784, +06:58.138
-802, Kizaru, 357139, Peugeot 205 T16 Pikes Peak, 15:16.680, +06:59.034
-803, :-), 73960, Peugeot 205 T16 Pikes Peak, 15:17.234, +06:59.588
-804, neilbryson, 281414, Peugeot 205 T16 Pikes Peak, 15:20.418, +07:02.772
-805, ???rs??????, 360297, Peugeot 205 T16 Pikes Peak, 15:23.169, +07:05.523
-806, reasonip, 125793, Peugeot 205 T16 Pikes Peak, 16:08.062, +07:50.416
-807, anibaljc, 78103, Peugeot 205 T16 Pikes Peak, 16:10.794, +07:53.148
-808, Later, 341866, Peugeot 205 T16 Pikes Peak, 16:54.263, +08:36.617
-809, Fr - Homer ShiftSoon, 205367, Peugeot 205 T16 Pikes Peak, 17:28.599, +09:10.953
-810, xcerdx, 221310, Peugeot 205 T16 Pikes Peak, 18:03.299, +09:45.653
-811, Lexunio  #RavaRats, 322465, Peugeot 205 T16 Pikes Peak, 18:04.114, +09:46.468
-812, Anna Nimfomanova(Luxury), 308964, Peugeot 205 T16 Pikes Peak, 18:19.473, +10:01.827
-813, Preacher!, 360167, Peugeot 205 T16 Pikes Peak, 19:00.762, +10:43.116
-814, SarahHearts, 7936, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-815, Ukki61, 151297, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-816, Alessandro Medeotti, 123393, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-817, Eric der Heizer, 207618, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-818, DimSum, 176898, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-819, Nakci, 143619, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-820, Sale, 270341, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-821, Bigg.I, 336901, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-822, Xavierluc, 145158, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-823, Fozz, 359686, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-824, Chopperzac, 290567, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-825, Raziaz, 57863, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-826, Dragon 22 HUN, 275720, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-827, Chrismus, 17928, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-828, kamybigbossmgs, 310025, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-829, Jones, 335115, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-830, esko.kauppinen, 296715, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-831, Elior, 343821, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-832, [MiS] Soldat182, 182029, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-833, maximwrc5, 347151, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-834, coye, 315407, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-835, nerso25, 80912, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-836, ChrisShotzz, 77585, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-837, Private Parts, 90129, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-838, ScipiO, 311058, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-839, rolagaresrilo, 189970, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-840, ApocalYpse, 220691, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-841, slperera, 315667, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-842, michal.vojir, 360469, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-843, Keenius, 144151, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-844, jiaoshouxu, 50455, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-845, PaquetteRocket, 200216, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-846, [R22R]AdjC-George_Brassard, 74265, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-847, warning-doom, 49691, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-848, fr4z13r, 143644, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-849, bleifrei, 159772, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-850, Redufo, 161309, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-851, Xzibit, 235549, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-852, Arhk, 107293, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-853, GTi, 240925, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-854, Unforgivable13, 359967, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-855, Stup21, 309279, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-856, takexit, 354337, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-857, atOmscustOms, 294433, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-858, Numel, 335906, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-859, Spodneri, 357154, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-860, siedler7, 176418, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-861, MetalDomination, 73251, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-862, GoodVillain, 302371, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-863, hump311, 112163, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-864, gaski, 36134, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-865, Saje Bott, 241191, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-866, kornel.sarzynski, 353064, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-867, Flexy Dox, 331305, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-868, gavinhighlife1, 286254, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-869, GameNight_2, 299822, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-870, kalsariknnit, 235054, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-871, bourvil from normandie, 211503, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-872, [GER]SAUbaer[xBCx], 229679, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-873, Carmad, 66609, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-874, the_slim_guy, 101938, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-875, chazza114, 49202, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-876, Socker Pojken, 308, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-877, voigt691, 217908, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-878, mnb155089, 246836, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-879, SoldierCHEF, 316724, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-880, Pappiskallinen, 75317, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-881, dorkbunny, 360245, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-882, Spagettikastike, 358198, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-883, Blue Li ?, 356408, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-884, flat_out, 298296, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-885, Kudi[-FIN-], 357434, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-886, nescafe37, 30778, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-887, Miguel, 108346, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-888, Mr.StillGod2.0, 360252, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-889, stephanemoret, 305468, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-890, rudypessotto, 261180, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-891, agne*****74, 143421, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-892, kakou, 39486, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-893, ChanG Koukaii, 314687, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-894, kuhis, 348224, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-895, VaanFaneel, 229696, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-896, taytothief, 306752, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-897, [ e-R ] westy99, 60225, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-898, KaliKeira, 360515, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-899, redtear22, 52291, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-900, ????, 170308, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-901, CZ_Strider, 12101, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-902, MOISS- teclavanguarda.pt, 213317, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-903, WIREFIRE, 360518, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-904, Tabrias, 50758, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-905, KTM19, 36169, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-906, AMIC_Towelie, 85066, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-907, Job3k, 3917, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-908, th3G4m3r91, 347725, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-909, s-tsen, 287565, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-910, Chujkao, 314445, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-911, touquet.julien, 251725, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-912, Insubordinate, 357966, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-913, Murphys Law NZ, 174928, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-914, [FR] Saw002, 148562, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-915, *Master*, 24146, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-916, pavian.m, 355410, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-917, Bishops Toenail, 74068, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-918, rayshack40, 149079, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-919, morelloposer, 94039, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-920, FXBumbley, 36951, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-921, Snt Cruz, 307035, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-922, Lorde Magno, 335708, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-923, Alexjb, 287068, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-924, WeTTi$, 163420, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-925, ginxp, 59228, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-926, jserranoe, 360541, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-927, Weezie, 322910, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-928, Chris, 18016, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-929, [NETWAR] Yogan, 313953, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-930, Freizeithose, 16482, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-931, the_mort, 49508, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-932, kudasoffff, 142693, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-933, ces, 226661, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-934, torrerolero, 355942, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-935, dacha, 321638, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-936, zhqmax, 331626, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-937, MystiicMoonz, 358509, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-938, Dinkymanu, 56173, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-939, footballsaumon, 65391, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-940, carlospanucci, 345968, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-941, cala boca, 198001, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-942, N1GHTMINER22, 359281, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-943, the.fade, 3443, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-944, s.iakovlev, 211827, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-945, Fb || ASTRO_alkaline, 360563, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-946, polo971, 39283, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-947, mmmoo123, 156276, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-948, Loneoz, 286069, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-949, Manolis, 54133, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-950, Kizi, 345206, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-951, Botes, 77688, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-952, Chriztus, 309880, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-953, Ralf WRC, 271737, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-954, luftschiffe, 347769, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-955, psas, 341882, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-956, Stijnw2000, 360058, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-957, Mazzetor, 325754, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-958, brunodemattos1998, 239996, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-959, jlwillams4, 74365, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-960, Helge, 359038, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-961, Meldryt, 215167, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-962, famasfox, 166015, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-963, hexcellium, 330624, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-964, tomartaga, 192640, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-965, MSiAventadorKyiv, 88705, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-966, musuya76, 341379, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-967, jmca175, 355204, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-968, GLX-VRC, 96388, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-969, BenjiCRO, 129412, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-970, simracerdv, 26501, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-971, PereCat, 31110, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-972, mikkusch, 11655, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-973, Morg, 51591, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-974, vfrmaverick, 144776, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-975, grzesiohl, 82056, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-976, Jakkake, 179083, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-977, x SC ILIAS x, 235660, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-978, ivanalijacifuentes, 359821, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-979, vikasmetal, 186511, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-980, Kat von H, 327312, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-981, boutxthatxtime, 331409, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-982, MaReCK, 274065, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-983, Gripsou Le Fou, 158865, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-984, ExGen, 200594, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-985, Andr Rafael Ribeiro, 290962, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-986, givrer, 360594, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-987, Spiderpig, 323731, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-988, LLEEXX91, 99221, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-989, Scythe, 360086, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-990, ThundaBob, 261526, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-991, dmatth1969, 130200, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-992, Loric, 255385, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-993, abbas3man, 90266, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-994, MaGgOt9I, 305307, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-995, epurokao, 192924, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-996, Arttu, 329374, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-997, Garbageee, 285854, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-998, luludu07, 45726, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-999, marginimario, 200607, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1000, ChApA!!!!, 339871, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1001, denisohh, 44703, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1002, Passive, 31650, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1003, suprizemofo29, 360354, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1004, Arete, 37026, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1005, -CN-Potetmos1, 135331, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1006, Erkan, 360101, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1007, jidos, 342182, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1008, Kzool, 235431, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1009, GreenIronTarkus, 7081, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1010, weedfree  dropa fdp ga ben, 270761, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1011, Sneaky Snek^, 101033, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1012, Synthbent715, 3243, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1013, jhoho, 350125, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1014, Aleksey1601, 247213, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1015, Erik cze 30, 124077, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1016, starlord, 359343, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1017, skonieczny, 128688, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1018, Manatore, 174513, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1019, Vash The Stanpede, 176306, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1020, Versant, 306611, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1021, siba018, 92084, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1022, branko888, 63669, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1023, aeon1982, 336823, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1024, Fusspilz, 15031, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1025, Swissendo, 89784, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1026, CoolFrog, 360376, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1027, salsaboy, 19129, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1028, Oabey, 292793, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1029, Realgamede, 249785, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1030, Ramsay Bolton, 188857, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1031, bestsamori2, 337084, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1032, ohson92, 286652, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1033, living cancer cell, 352188, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1034, RageQuit, 353468, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1035, Captain Frenzy, 1981, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1036, juju888888888888, 156605, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1037, Wehrlos666, 207294, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1038, wrobel, 14526, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1039, Yeshterior, 83392, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1040, Newfie, 328129, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1041, Arcade, 100546, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1042, Peco Bubork Kropka, 82115, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1043, alepaolini88, 346307, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1044, RoadRunner11, 111046, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1045, $ORE10, 314312, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1046, NooBaNeutroN, 12233, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1047, Pierre 03, 291273, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1048, Max Mauie, 29900, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1049, Para-I24LL3, 335821, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1050, jokerjr, 283085, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1051, 81-717.5M, 238287, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1052, BAKED 24/7, 299729, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1053, tasoregis, 360402, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1054, Babbelbox77, 14291, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1055, Childish G, 230355, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1056, METARED, 220117, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1057, Joker, 126166, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1058, Blessed, 219096, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1059, GTRP_KhaN, 51928, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1060, VLC Player, 7641, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1061, RIZZA, 94169, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1062, ruske razdacha, 314329, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1063, 19matteo91, 190938, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1064, Killer!, 63450, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1065, blakflag65, 228317, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1066, Irfando Martinez, 359390, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1067, Zerias, 317663, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1068, jussima5, 290272, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1069, eveselove, 106720, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1070, vivelesport, 311008, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1071, Roxbin, 222690, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1072, teemune, 360419, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1073, hello my name is snails, 204261, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1074, axelbr01, 281829, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1075, 392548002, 352998, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1076, willymarston, 308710, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1077, miramoa, 320233, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1078, robbe.dillen, 266474, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1079, The Consul, 211434, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1080, cerry_00, 359915, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1081, Evo, 259819, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1082, Guibibi, 314860, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1083, Lucky_Tracer, 189676, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1084, smythx, 328685, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1085, ViNCE, 263406, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1086, knoxviue, 125423, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1087, Becks_Hunter, 121584, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1088, HolmizGROGG, 12273, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1089, zeoventura, 150513, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1090, Wank Bank, 160753, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1091, Anakonda66, 196338, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1092, Kyoshi, 221173, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1093, david.lara.piloto, 327926, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1094, bpetrus, 146679, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1095, bainevo, 357623, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1096, M1KeY, 5624, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1097, Magus, 358136, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1098, Dosugan, 150521, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1099, Ec0, 358906, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1100, BigfootFuzz, 360442, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1101, RaDKaL, 167163, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1102, Gonzo, 765, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1103, Callum_T, 287229, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1104, apex, 309245, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1105, a.bouche30, 331006, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1106, hannu.kilpelainen, 345086, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
-1107, bebuch, 302846, Peugeot 205 T16 Pikes Peak, 30:00.000, +21:42.354
+DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Sunset\/Content/images/weather/sunnyday.png\Clear\209\2016-09-10
+1, mozza, 88141, Audi Sport quattro S1 Pikes Peak, 08:41.529, --
+2, artos55, 179828, Audi Sport quattro S1 Pikes Peak, 08:47.045, +00:05.516
+3, catty7073, 59586, Audi Sport quattro S1 Pikes Peak, 08:47.662, +00:06.133
+4, GMS299, 217561, Audi Sport quattro S1 Pikes Peak, 08:56.278, +00:14.749
+5, Clingon, 91169, Audi Sport quattro S1 Pikes Peak, 08:56.761, +00:15.232
+6, KoAStR, 46824, Audi Sport quattro S1 Pikes Peak, 08:57.461, +00:15.932
+7, Mr. M & Ruben29292, 24768, Audi Sport quattro S1 Pikes Peak, 08:58.528, +00:16.999
+8, Keenius, 144151, Audi Sport quattro S1 Pikes Peak, 08:59.828, +00:18.299
+9, Cordosyl, 327724, Audi Sport quattro S1 Pikes Peak, 08:59.861, +00:18.332
+10, Budda, 137585, Audi Sport quattro S1 Pikes Peak, 09:01.461, +00:19.932
+11, tehpajka, 90633, Audi Sport quattro S1 Pikes Peak, 09:04.578, +00:23.049
+12, VILLE_K, 84514, Audi Sport quattro S1 Pikes Peak, 09:06.211, +00:24.682
+13, Verkehrt, 21187, Audi Sport quattro S1 Pikes Peak, 09:06.411, +00:24.882
+14, Hubas, 10198, Audi Sport quattro S1 Pikes Peak, 09:09.561, +00:28.032
+15, allradprof, 133072, Audi Sport quattro S1 Pikes Peak, 09:10.211, +00:28.682
+16, Gas, 164280, Audi Sport quattro S1 Pikes Peak, 09:10.694, +00:29.165
+17, Alf, 25006, Audi Sport quattro S1 Pikes Peak, 09:11.077, +00:29.548
+18, RooBubba, 62893, Audi Sport quattro S1 Pikes Peak, 09:14.044, +00:32.515
+19, Paparazzee, 122252, Audi Sport quattro S1 Pikes Peak, 09:14.477, +00:32.948
+20, guenther, 68510, Audi Sport quattro S1 Pikes Peak, 09:14.661, +00:33.132
+21, TheEq, 312220, Audi Sport quattro S1 Pikes Peak, 09:15.794, +00:34.265
+22, RIZZA, 94169, Audi Sport quattro S1 Pikes Peak, 09:16.844, +00:35.315
+23, Danilicius, 111346, Audi Sport quattro S1 Pikes Peak, 09:18.727, +00:37.198
+24, Poly the Green Polypus, 119764, Audi Sport quattro S1 Pikes Peak, 09:19.477, +00:37.948
+25, Michealmsigtx, 350691, Audi Sport quattro S1 Pikes Peak, 09:19.760, +00:38.231
+26, 0sm0z, 35803, Audi Sport quattro S1 Pikes Peak, 09:20.410, +00:38.881
+27, Norbert Toth, 151075, Audi Sport quattro S1 Pikes Peak, 09:20.477, +00:38.948
+28, Krisz_Vegh, 53637, Audi Sport quattro S1 Pikes Peak, 09:20.527, +00:38.998
+29, NoisyTribe, 41618, Audi Sport quattro S1 Pikes Peak, 09:20.694, +00:39.165
+30, Przzi, 262592, Audi Sport quattro S1 Pikes Peak, 09:22.160, +00:40.631
+31, lilla.alex1, 32648, Audi Sport quattro S1 Pikes Peak, 09:22.244, +00:40.715
+32, nag le fourbe, 73400, Audi Sport quattro S1 Pikes Peak, 09:23.127, +00:41.598
+33, Toru, 21734, Audi Sport quattro S1 Pikes Peak, 09:25.327, +00:43.798
+34, Corsair, 95667, Audi Sport quattro S1 Pikes Peak, 09:26.710, +00:45.181
+35, Space Monsters, 304342, Audi Sport quattro S1 Pikes Peak, 09:27.660, +00:46.131
+36, xadrianzetx, 353282, Audi Sport quattro S1 Pikes Peak, 09:27.777, +00:46.248
+37, uno, 212280, Audi Sport quattro S1 Pikes Peak, 09:28.093, +00:46.564
+38, Thierry Loeb, 211995, Audi Sport quattro S1 Pikes Peak, 09:28.143, +00:46.614
+39, MAJO90, 259461, Audi Sport quattro S1 Pikes Peak, 09:28.677, +00:47.148
+40, MeisterOD, 328530, Audi Sport quattro S1 Pikes Peak, 09:28.943, +00:47.414
+41, scumbag_steve95, 194964, Audi Sport quattro S1 Pikes Peak, 09:29.110, +00:47.581
+42, Granite Octopus, 30515, Audi Sport quattro S1 Pikes Peak, 09:29.743, +00:48.214
+43, Player 1, 171479, Audi Sport quattro S1 Pikes Peak, 09:29.843, +00:48.314
+44, ari.salokivi, 129343, Audi Sport quattro S1 Pikes Peak, 09:32.493, +00:50.964
+45, HeadCork, 35896, Audi Sport quattro S1 Pikes Peak, 09:33.410, +00:51.881
+46, Peco Bubork Kropka, 82115, Audi Sport quattro S1 Pikes Peak, 09:33.477, +00:51.948
+47, Ninja RX | kickback.com, 106512, Audi Sport quattro S1 Pikes Peak, 09:34.427, +00:52.898
+48, Ice [GER], 319817, Audi Sport quattro S1 Pikes Peak, 09:36.010, +00:54.481
+49, GTRP_KhaN, 51928, Audi Sport quattro S1 Pikes Peak, 09:36.193, +00:54.664
+50, Mosta, 176969, Audi Sport quattro S1 Pikes Peak, 09:37.843, +00:56.314
+51, f8924919, 129764, Audi Sport quattro S1 Pikes Peak, 09:38.026, +00:56.497
+52, matti.immonen, 228538, Audi Sport quattro S1 Pikes Peak, 09:39.726, +00:58.197
+53, denim, 101527, Audi Sport quattro S1 Pikes Peak, 09:40.043, +00:58.514
+54, Mac, 8336, Audi Sport quattro S1 Pikes Peak, 09:40.410, +00:58.881
+55, Clordstar, 131185, Audi Sport quattro S1 Pikes Peak, 09:40.776, +00:59.247
+56, SeBuLb@, 91206, Audi Sport quattro S1 Pikes Peak, 09:41.560, +01:00.031
+57, touquet.julien, 251725, Audi Sport quattro S1 Pikes Peak, 09:42.027, +01:00.498
+58, LATTIZ, 206236, Audi Sport quattro S1 Pikes Peak, 09:42.826, +01:01.297
+59, oskarinio, 15909, Audi Sport quattro S1 Pikes Peak, 09:43.276, +01:01.747
+60, CP9A 4G63T, 138421, Audi Sport quattro S1 Pikes Peak, 09:43.310, +01:01.781
+61, romain.thuillier, 47636, Audi Sport quattro S1 Pikes Peak, 09:43.577, +01:02.048
+62, iandj, 140961, Audi Sport quattro S1 Pikes Peak, 09:43.909, +01:02.380
+63, Chipster, 30700, Audi Sport quattro S1 Pikes Peak, 09:44.026, +01:02.497
+64, jandar2, 301422, Audi Sport quattro S1 Pikes Peak, 09:44.043, +01:02.514
+65, pete, 53579, Audi Sport quattro S1 Pikes Peak, 09:44.476, +01:02.947
+66, SonicAndSmoke, 138318, Audi Sport quattro S1 Pikes Peak, 09:44.493, +01:02.964
+67, SNipeR, 278640, Audi Sport quattro S1 Pikes Peak, 09:44.593, +01:03.064
+68, tokiv7, 214776, Audi Sport quattro S1 Pikes Peak, 09:44.959, +01:03.430
+69, arno, 64923, Audi Sport quattro S1 Pikes Peak, 09:46.176, +01:04.647
+70, Nojar, 211555, Audi Sport quattro S1 Pikes Peak, 09:46.309, +01:04.780
+71, stanomaster, 13341, Audi Sport quattro S1 Pikes Peak, 09:46.559, +01:05.030
+72, Ossi, 40570, Audi Sport quattro S1 Pikes Peak, 09:46.943, +01:05.414
+73, peterhallin, 112421, Audi Sport quattro S1 Pikes Peak, 09:47.226, +01:05.697
+74, [BB] Bull, 151162, Audi Sport quattro S1 Pikes Peak, 09:48.076, +01:06.547
+75, bruchpilot69, 254452, Audi Sport quattro S1 Pikes Peak, 09:48.093, +01:06.564
+76, xXZoomAirXx, 162848, Audi Sport quattro S1 Pikes Peak, 09:48.726, +01:07.197
+77, ATIDIA, 165609, Audi Sport quattro S1 Pikes Peak, 09:49.243, +01:07.714
+78, joogie88, 202912, Audi Sport quattro S1 Pikes Peak, 09:49.459, +01:07.930
+79, actr0s, 189965, Audi Sport quattro S1 Pikes Peak, 09:50.993, +01:09.464
+80, J. Trngren, 297399, Audi Sport quattro S1 Pikes Peak, 09:51.093, +01:09.564
+81, MetroidMan64, 276168, Audi Sport quattro S1 Pikes Peak, 09:51.326, +01:09.797
+82, magnus.jalmbrant, 131344, Audi Sport quattro S1 Pikes Peak, 09:51.676, +01:10.147
+83, siba018, 92084, Audi Sport quattro S1 Pikes Peak, 09:51.676, +01:10.147
+84, BBB_CZ, 141057, Audi Sport quattro S1 Pikes Peak, 09:53.626, +01:12.097
+85, Jackattack, 287990, Audi Sport quattro S1 Pikes Peak, 09:54.076, +01:12.547
+86, mike, 149762, Audi Sport quattro S1 Pikes Peak, 09:55.026, +01:13.497
+87, Mechmonkey, 9477, Audi Sport quattro S1 Pikes Peak, 09:55.492, +01:13.963
+88, Ram, 211137, Audi Sport quattro S1 Pikes Peak, 09:55.942, +01:14.413
+89, ToFuMi, 348478, Audi Sport quattro S1 Pikes Peak, 09:55.976, +01:14.447
+90, navydams645, 232769, Audi Sport quattro S1 Pikes Peak, 09:56.909, +01:15.380
+91, kudasoffff, 142693, Audi Sport quattro S1 Pikes Peak, 09:57.126, +01:15.597
+92, anto_01, 35266, Audi Sport quattro S1 Pikes Peak, 09:58.692, +01:17.163
+93, Osl112, 348925, Audi Sport quattro S1 Pikes Peak, 10:00.059, +01:18.530
+94, Lifeless-666-[AUT], 226445, Audi Sport quattro S1 Pikes Peak, 10:00.175, +01:18.646
+95, Alibi89, 231114, Audi Sport quattro S1 Pikes Peak, 10:00.209, +01:18.680
+96, Chunzz <3 Lyralei, 22932, Audi Sport quattro S1 Pikes Peak, 10:00.460, +01:18.931
+97, Lambertnox, 350004, Audi Sport quattro S1 Pikes Peak, 10:03.059, +01:21.530
+98, Oni40, 60154, Audi Sport quattro S1 Pikes Peak, 10:03.759, +01:22.230
+99, crowepc, 133208, Audi Sport quattro S1 Pikes Peak, 10:07.709, +01:26.180
+100, UnevenQuill64, 109095, Audi Sport quattro S1 Pikes Peak, 10:08.742, +01:27.213
+101, antin29, 351926, Audi Sport quattro S1 Pikes Peak, 10:09.859, +01:28.330
+102, Xzibit, 235549, Audi Sport quattro S1 Pikes Peak, 10:10.758, +01:29.229
+103, Marwan Green Critter, 315074, Audi Sport quattro S1 Pikes Peak, 10:12.575, +01:31.046
+104, bnew, 346402, Audi Sport quattro S1 Pikes Peak, 10:14.725, +01:33.196
+105, carlos_baeza1, 66753, Audi Sport quattro S1 Pikes Peak, 10:18.875, +01:37.346
+106, BonoboGaming, 38230, Audi Sport quattro S1 Pikes Peak, 10:20.158, +01:38.629
+107, DeathTime, 57109, Audi Sport quattro S1 Pikes Peak, 10:20.909, +01:39.380
+108, Prophedis, 165891, Audi Sport quattro S1 Pikes Peak, 10:22.825, +01:41.296
+109, Nosferatu, 80754, Audi Sport quattro S1 Pikes Peak, 10:22.842, +01:41.313
+110, puduku, 338180, Audi Sport quattro S1 Pikes Peak, 10:24.042, +01:42.513
+111, Erik Larsen, 38083, Audi Sport quattro S1 Pikes Peak, 10:24.558, +01:43.029
+112, Fede, 171617, Audi Sport quattro S1 Pikes Peak, 10:25.159, +01:43.630
+113, SnowCat, 339829, Audi Sport quattro S1 Pikes Peak, 10:25.924, +01:44.395
+114, Courage, 185774, Audi Sport quattro S1 Pikes Peak, 10:26.324, +01:44.795
+115, Vojta_, 177462, Audi Sport quattro S1 Pikes Peak, 10:26.508, +01:44.979
+116, ellioto, 316570, Audi Sport quattro S1 Pikes Peak, 10:27.575, +01:46.046
+117, Haniwa326, 238607, Audi Sport quattro S1 Pikes Peak, 10:28.108, +01:46.579
+118, RRR, 313305, Audi Sport quattro S1 Pikes Peak, 10:29.791, +01:48.262
+119, Quail-P, 71363, Audi Sport quattro S1 Pikes Peak, 10:30.024, +01:48.495
+120, sc750, 162264, Audi Sport quattro S1 Pikes Peak, 10:36.125, +01:54.596
+121, milka35, 309326, Audi Sport quattro S1 Pikes Peak, 10:38.824, +01:57.295
+122, Stepan Stepanowitch, 239810, Audi Sport quattro S1 Pikes Peak, 10:40.158, +01:58.629
+123, chule1980, 169300, Audi Sport quattro S1 Pikes Peak, 10:41.624, +02:00.095
+124, Hellforce666 (CZ), 89016, Audi Sport quattro S1 Pikes Peak, 10:43.124, +02:01.595
+125, Voyo, 296516, Audi Sport quattro S1 Pikes Peak, 10:44.575, +02:03.046
+126, PP, 61380, Audi Sport quattro S1 Pikes Peak, 10:46.724, +02:05.195
+127, mueller, 197570, Audi Sport quattro S1 Pikes Peak, 10:50.491, +02:08.962
+128, niSmo, 60381, Audi Sport quattro S1 Pikes Peak, 10:51.457, +02:09.928
+129, Kilathaar, 358533, Audi Sport quattro S1 Pikes Peak, 10:52.641, +02:11.112
+130, Mionix//*???, 356199, Audi Sport quattro S1 Pikes Peak, 10:53.940, +02:12.411
+131, Pyccku, 167567, Audi Sport quattro S1 Pikes Peak, 10:54.673, +02:13.144
+132, Rangar08, 215617, Audi Sport quattro S1 Pikes Peak, 10:55.558, +02:14.029
+133, HarryS2511, 281108, Audi Sport quattro S1 Pikes Peak, 10:57.623, +02:16.094
+134, chert1024, 165804, Audi Sport quattro S1 Pikes Peak, 10:58.806, +02:17.277
+135, suedechen, 127247, Audi Sport quattro S1 Pikes Peak, 11:00.374, +02:18.845
+136, jere.kiilunen, 356748, Audi Sport quattro S1 Pikes Peak, 11:00.708, +02:19.179
+137, vikasmetal, 186511, Audi Sport quattro S1 Pikes Peak, 11:01.058, +02:19.529
+138, Dinka, 93073, Audi Sport quattro S1 Pikes Peak, 11:01.075, +02:19.546
+139, TooLs, 159408, Audi Sport quattro S1 Pikes Peak, 11:02.807, +02:21.278
+140, FreeWin, 122721, Audi Sport quattro S1 Pikes Peak, 11:05.741, +02:24.212
+141, starcloud60, 91058, Audi Sport quattro S1 Pikes Peak, 11:06.757, +02:25.228
+142, kazu, 30934, Audi Sport quattro S1 Pikes Peak, 11:07.307, +02:25.778
+143, Luca Sorix, 262432, Audi Sport quattro S1 Pikes Peak, 11:08.023, +02:26.494
+144, Oxymoron, 65175, Audi Sport quattro S1 Pikes Peak, 11:09.157, +02:27.628
+145, Angavar, 250930, Audi Sport quattro S1 Pikes Peak, 11:09.309, +02:27.780
+146, harvey79, 360311, Audi Sport quattro S1 Pikes Peak, 11:10.723, +02:29.194
+147, hansjoerggrund, 330420, Audi Sport quattro S1 Pikes Peak, 11:11.507, +02:29.978
+148, Shinjiteru, 338869, Audi Sport quattro S1 Pikes Peak, 11:12.773, +02:31.244
+149, Naaaaaaa, 175523, Audi Sport quattro S1 Pikes Peak, 11:14.057, +02:32.528
+150, coolhand9213, 95515, Audi Sport quattro S1 Pikes Peak, 11:14.406, +02:32.877
+151, Alessandro Medeotti, 123393, Audi Sport quattro S1 Pikes Peak, 11:15.174, +02:33.645
+152, NoBoDy_aU, 164928, Audi Sport quattro S1 Pikes Peak, 11:16.407, +02:34.878
+153, catalyst, 306412, Audi Sport quattro S1 Pikes Peak, 11:16.756, +02:35.227
+154, ? StAiRiCeK, 231724, Audi Sport quattro S1 Pikes Peak, 11:17.107, +02:35.578
+155, keenblitz, 316645, Audi Sport quattro S1 Pikes Peak, 11:22.156, +02:40.627
+156, MOISS- teclavanguarda.pt, 213317, Audi Sport quattro S1 Pikes Peak, 11:24.908, +02:43.379
+157, ?|f(x)-g(x)|dx, 91309, Audi Sport quattro S1 Pikes Peak, 11:36.323, +02:54.794
+158, Kaidan, 232927, Audi Sport quattro S1 Pikes Peak, 11:37.539, +02:56.010
+159, GourangaGuerilla, 35622, Audi Sport quattro S1 Pikes Peak, 11:39.772, +02:58.243
+160, Fatland Pony, 296580, Audi Sport quattro S1 Pikes Peak, 11:47.405, +03:05.876
+161, Nighthawk_tech, 359069, Audi Sport quattro S1 Pikes Peak, 12:06.138, +03:24.609
+162, crazygoblin, 351569, Audi Sport quattro S1 Pikes Peak, 12:09.004, +03:27.475
+163, dhvr, 25032, Audi Sport quattro S1 Pikes Peak, 12:14.870, +03:33.341
+164, stephanemoret, 305468, Audi Sport quattro S1 Pikes Peak, 12:16.455, +03:34.926
+165, superfebo, 355724, Audi Sport quattro S1 Pikes Peak, 12:22.955, +03:41.426
+166, N1GHTMINER22, 359281, Audi Sport quattro S1 Pikes Peak, 12:24.138, +03:42.609
+167, johnheaton9999, 193201, Audi Sport quattro S1 Pikes Peak, 12:24.621, +03:43.092
+168, Mazz, 34871, Audi Sport quattro S1 Pikes Peak, 12:24.704, +03:43.175
+169, wLs.iMiiniMe, 320745, Audi Sport quattro S1 Pikes Peak, 12:36.340, +03:54.811
+170, sadur, 255464, Audi Sport quattro S1 Pikes Peak, 12:59.106, +04:17.577
+171, X_Treme, 360702, Audi Sport quattro S1 Pikes Peak, 14:47.748, +06:06.219
+172, Dave-ja-vu, 115468, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+173, SkullFeast, 33553, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+174, Fourinos, 351513, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+175, vdumarski, 302375, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+176, foy55, 156465, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+177, Havoc188, 135226, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+178, GentlemanBastard, 318531, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+179, Grip-or-Slip, 156501, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+180, Silent, 337244, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+181, mintia812, 360029, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+182, Moonface, 353, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+183, McKraes Nafali, 1891, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+184, Mr. Googly, 145264, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+185, Foxy-One [FR/BE], 50551, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+186, ????, 280954, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+187, al74, 46976, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+188, RouniN, 358278, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+189, PereCat, 31110, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+190, iPeliukas, 106636, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+191, zimmerst86, 355728, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+192, kamitetsuya, 18577, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+193, GREY26RUS, 181650, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+194, -[OCF]-bankhans, 316568, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+195, kul.holda, 325017, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+196, e.jongeling, 360091, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+197, Arttu, 329374, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+198, DiRT  Rally, 293799, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+199, Kzool, 235431, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+200, audriux0, 141483, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+201, Versant, 306611, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+202, qingyuan_li, 347319, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+203, ProchyY!, 65213, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+204, [~FTI~]Denis, 11711, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+205, fasthammer, 28372, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+206, eveselove, 106720, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+207, Anaali Tappi ;) ;), 24039, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+208, Jacques Gelee, 356339, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471
+209, JanaPPa, 45556, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:18.471

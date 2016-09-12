@@ -1,21 +1,544 @@
-DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Afternoon\/Content/images/weather/sunnyday.png\Sunny\436\2016-09-11
-1, ArNoKaRt85, 254420, Peugeot 205 T16 Pikes Peak, 08:32.579, --
-2, Garth111, 267426, Peugeot 205 T16 Pikes Peak, 08:47.528, +00:14.949
-3, VirtueTech, 261635, Peugeot 205 T16 Pikes Peak, 08:48.762, +00:16.183
-4, cossu83, 318507, Peugeot 205 T16 Pikes Peak, 08:58.628, +00:26.049
-5, Not linked, 339544, Peugeot 205 T16 Pikes Peak, 09:00.461, +00:27.882
-6, FinlandSnake, 320682, Peugeot 205 T16 Pikes Peak, 09:04.128, +00:31.549
-7, neil3646, 260834, Peugeot 205 T16 Pikes Peak, 09:08.561, +00:35.982
-8, Not linked, 267411, Peugeot 205 T16 Pikes Peak, 09:10.977, +00:38.398
-9, GrantedVenus9, 297030, Peugeot 205 T16 Pikes Peak, 09:13.311, +00:40.732
-10, cedh23, 271492, Peugeot 205 T16 Pikes Peak, 09:13.577, +00:40.998
-11, aquasxbl, 344418, Peugeot 205 T16 Pikes Peak, 09:13.844, +00:41.265
-12, Alanksmith, 279076, Peugeot 205 T16 Pikes Peak, 09:13.995, +00:41.416
-13, taberlo07, 328466, Peugeot 205 T16 Pikes Peak, 09:14.177, +00:41.598
-14, Gianni327, 257998, Peugeot 205 T16 Pikes Peak, 09:16.277, +00:43.698
-15, tomsulem, 329727, Peugeot 205 T16 Pikes Peak, 09:16.661, +00:44.082
-16, Not linked, 280683, Peugeot 205 T16 Pikes Peak, 09:17.794, +00:45.215
-17, LuckyLambert, 281473, Peugeot 205 T16 Pikes Peak, 09:18.944, +00:46.365
-18, CapeOdine07, 425018, Peugeot 205 T16 Pikes Peak, 09:20.344, +00:47.765
-19, OsirisFalcon, 269973, Peugeot 205 T16 Pikes Peak, 09:20.694, +00:48.115
-20, Not linked, 377581, Peugeot 205 T16 Pikes Peak, 09:21.360, +00:48.781
+DiRT Daily Live\1\USA\/Content/images/location/flag/63.jpg\Pikes Peak (Gravel) - Full Course (L)\/Content/images/stage/529.png\Sunset\/Content/images/weather/sunnyday.png\Clear\543\2016-09-11
+1, VirtueTech, 261635, Audi Sport quattro S1 Pikes Peak, 08:45.928, --
+2, Not linked, 283717, Audi Sport quattro S1 Pikes Peak, 08:51.428, +00:05.500
+3, Alanksmith, 279076, Audi Sport quattro S1 Pikes Peak, 08:53.345, +00:07.417
+4, FinlandSnake, 320682, Audi Sport quattro S1 Pikes Peak, 08:54.278, +00:08.350
+5, Nicoo27, 323145, Audi Sport quattro S1 Pikes Peak, 08:55.111, +00:09.183
+6, Not linked, 291806, Audi Sport quattro S1 Pikes Peak, 08:55.861, +00:09.933
+7, Garth111, 267426, Audi Sport quattro S1 Pikes Peak, 09:00.011, +00:14.083
+8, Not linked, 265663, Audi Sport quattro S1 Pikes Peak, 09:00.095, +00:14.167
+9, SEBIHQ, 259262, Audi Sport quattro S1 Pikes Peak, 09:01.744, +00:15.816
+10, McRabbit, 256994, Audi Sport quattro S1 Pikes Peak, 09:03.811, +00:17.883
+11, cossu83, 318507, Audi Sport quattro S1 Pikes Peak, 09:04.711, +00:18.783
+12, neil3646, 260834, Audi Sport quattro S1 Pikes Peak, 09:08.311, +00:22.383
+13, max08090, 255145, Audi Sport quattro S1 Pikes Peak, 09:09.078, +00:23.150
+14, GrantedVenus9, 297030, Audi Sport quattro S1 Pikes Peak, 09:09.278, +00:23.350
+15, DUKE1, 252750, Audi Sport quattro S1 Pikes Peak, 09:10.444, +00:24.516
+16, aquasxbl, 344418, Audi Sport quattro S1 Pikes Peak, 09:13.894, +00:27.966
+17, TECH2013, 262341, Audi Sport quattro S1 Pikes Peak, 09:17.461, +00:31.533
+18, Not linked, 311826, Audi Sport quattro S1 Pikes Peak, 09:19.377, +00:33.449
+19, lukeg120, 256558, Audi Sport quattro S1 Pikes Peak, 09:20.344, +00:34.416
+20, llAPEXll, 417872, Audi Sport quattro S1 Pikes Peak, 09:21.477, +00:35.549
+21, Viperz66, 306109, Audi Sport quattro S1 Pikes Peak, 09:22.894, +00:36.966
+22, WARningHUN, 281084, Audi Sport quattro S1 Pikes Peak, 09:25.010, +00:39.082
+23, Not linked, 259497, Audi Sport quattro S1 Pikes Peak, 09:25.610, +00:39.682
+24, qwodracer, 312455, Audi Sport quattro S1 Pikes Peak, 09:26.277, +00:40.349
+25, Not linked, 402235, Audi Sport quattro S1 Pikes Peak, 09:26.294, +00:40.366
+26, Not linked, 283358, Audi Sport quattro S1 Pikes Peak, 09:26.693, +00:40.765
+27, Not linked, 288167, Audi Sport quattro S1 Pikes Peak, 09:28.627, +00:42.699
+28, Not linked, 349931, Audi Sport quattro S1 Pikes Peak, 09:28.877, +00:42.949
+29, Not linked, 360868, Audi Sport quattro S1 Pikes Peak, 09:29.043, +00:43.115
+30, Not linked, 314704, Audi Sport quattro S1 Pikes Peak, 09:29.893, +00:43.965
+31, LunaticLevi1, 297459, Audi Sport quattro S1 Pikes Peak, 09:30.127, +00:44.199
+32, Lfcgc97, 290509, Audi Sport quattro S1 Pikes Peak, 09:31.393, +00:45.465
+33, lillen76, 313998, Audi Sport quattro S1 Pikes Peak, 09:31.911, +00:45.983
+34, Not linked, 390209, Audi Sport quattro S1 Pikes Peak, 09:32.460, +00:46.532
+35, JaPArtT, 296868, Audi Sport quattro S1 Pikes Peak, 09:32.560, +00:46.632
+36, DemonNinja103, 338924, Audi Sport quattro S1 Pikes Peak, 09:32.860, +00:46.932
+37, Not linked, 263884, Audi Sport quattro S1 Pikes Peak, 09:32.927, +00:46.999
+38, krmobil, 297619, Audi Sport quattro S1 Pikes Peak, 09:33.043, +00:47.115
+39, Not linked, 290020, Audi Sport quattro S1 Pikes Peak, 09:33.393, +00:47.465
+40, DrBoisansoif, 301191, Audi Sport quattro S1 Pikes Peak, 09:33.593, +00:47.665
+41, IRISHSTIG, 351741, Audi Sport quattro S1 Pikes Peak, 09:33.727, +00:47.799
+42, TheMrNico, 344121, Audi Sport quattro S1 Pikes Peak, 09:34.160, +00:48.232
+43, AndyCarts, 267513, Audi Sport quattro S1 Pikes Peak, 09:34.177, +00:48.249
+44, nito2411, 392322, Audi Sport quattro S1 Pikes Peak, 09:34.543, +00:48.615
+45, Not linked, 301759, Audi Sport quattro S1 Pikes Peak, 09:34.827, +00:48.899
+46, Not linked, 251683, Audi Sport quattro S1 Pikes Peak, 09:35.126, +00:49.198
+47, Not linked, 284805, Audi Sport quattro S1 Pikes Peak, 09:35.626, +00:49.698
+48, Faolo, 395590, Audi Sport quattro S1 Pikes Peak, 09:37.260, +00:51.332
+49, Not linked, 253451, Audi Sport quattro S1 Pikes Peak, 09:37.543, +00:51.615
+50, zadnik11, 362259, Audi Sport quattro S1 Pikes Peak, 09:37.693, +00:51.765
+51, kyleisthestig, 414432, Audi Sport quattro S1 Pikes Peak, 09:38.493, +00:52.565
+52, Not linked, 267644, Audi Sport quattro S1 Pikes Peak, 09:38.526, +00:52.598
+53, rallyvr4, 382230, Audi Sport quattro S1 Pikes Peak, 09:39.793, +00:53.865
+54, Not linked, 380756, Audi Sport quattro S1 Pikes Peak, 09:40.126, +00:54.198
+55, RZr2jz, 251426, Audi Sport quattro S1 Pikes Peak, 09:40.326, +00:54.398
+56, Andrey124russ, 407257, Audi Sport quattro S1 Pikes Peak, 09:40.510, +00:54.582
+57, Not linked, 386360, Audi Sport quattro S1 Pikes Peak, 09:40.544, +00:54.616
+58, MvSxHiPHoPx, 254596, Audi Sport quattro S1 Pikes Peak, 09:40.610, +00:54.682
+59, CRM140488, 262859, Audi Sport quattro S1 Pikes Peak, 09:40.876, +00:54.948
+60, chrisogt4, 305802, Audi Sport quattro S1 Pikes Peak, 09:41.160, +00:55.232
+61, CapeOdine07, 425018, Audi Sport quattro S1 Pikes Peak, 09:41.510, +00:55.582
+62, buzzy18, 279256, Audi Sport quattro S1 Pikes Peak, 09:41.526, +00:55.598
+63, badcompny44, 262147, Audi Sport quattro S1 Pikes Peak, 09:42.110, +00:56.182
+64, DeDeCHe, 396189, Audi Sport quattro S1 Pikes Peak, 09:42.176, +00:56.248
+65, Tanne42, 321202, Audi Sport quattro S1 Pikes Peak, 09:42.743, +00:56.815
+66, Lachyr23, 289687, Audi Sport quattro S1 Pikes Peak, 09:43.093, +00:57.165
+67, waz09, 281886, Audi Sport quattro S1 Pikes Peak, 09:43.243, +00:57.315
+68, vatanen38740, 255156, Audi Sport quattro S1 Pikes Peak, 09:43.676, +00:57.748
+69, JebusHawk, 370882, Audi Sport quattro S1 Pikes Peak, 09:43.676, +00:57.748
+70, huippustondis, 262212, Audi Sport quattro S1 Pikes Peak, 09:43.943, +00:58.015
+71, TriaX46, 374941, Audi Sport quattro S1 Pikes Peak, 09:44.059, +00:58.131
+72, zeik30, 316300, Audi Sport quattro S1 Pikes Peak, 09:44.759, +00:58.831
+73, Basti1980, 282642, Audi Sport quattro S1 Pikes Peak, 09:45.059, +00:59.131
+74, DirtyHunter, 254303, Audi Sport quattro S1 Pikes Peak, 09:45.159, +00:59.231
+75, Pilot123, 401955, Audi Sport quattro S1 Pikes Peak, 09:46.309, +01:00.381
+76, Not linked, 295992, Audi Sport quattro S1 Pikes Peak, 09:46.593, +01:00.665
+77, Not linked, 307411, Audi Sport quattro S1 Pikes Peak, 09:46.743, +01:00.815
+78, Not linked, 414840, Audi Sport quattro S1 Pikes Peak, 09:46.876, +01:00.948
+79, GenieGepard6047, 410689, Audi Sport quattro S1 Pikes Peak, 09:46.943, +01:01.015
+80, r1ch1e17041972, 270306, Audi Sport quattro S1 Pikes Peak, 09:47.176, +01:01.248
+81, Not linked, 311536, Audi Sport quattro S1 Pikes Peak, 09:47.276, +01:01.348
+82, Andrea3464, 386873, Audi Sport quattro S1 Pikes Peak, 09:47.476, +01:01.548
+83, Not linked, 286317, Audi Sport quattro S1 Pikes Peak, 09:48.160, +01:02.232
+84, Not linked, 399686, Audi Sport quattro S1 Pikes Peak, 09:48.526, +01:02.598
+85, ArNoKaRt85, 254420, Audi Sport quattro S1 Pikes Peak, 09:48.526, +01:02.598
+86, Greasemonkey11, 305862, Audi Sport quattro S1 Pikes Peak, 09:48.993, +01:03.065
+87, Not linked, 354567, Audi Sport quattro S1 Pikes Peak, 09:49.559, +01:03.631
+88, BABASS2B, 302181, Audi Sport quattro S1 Pikes Peak, 09:49.709, +01:03.781
+89, fortypenguin686, 261011, Audi Sport quattro S1 Pikes Peak, 09:50.159, +01:04.231
+90, ZoubADT, 261460, Audi Sport quattro S1 Pikes Peak, 09:50.560, +01:04.632
+91, locop90, 331325, Audi Sport quattro S1 Pikes Peak, 09:51.243, +01:05.315
+92, jokah36, 405299, Audi Sport quattro S1 Pikes Peak, 09:51.259, +01:05.331
+93, Phileb77, 320021, Audi Sport quattro S1 Pikes Peak, 09:51.726, +01:05.798
+94, TotalLegend, 405454, Audi Sport quattro S1 Pikes Peak, 09:52.509, +01:06.581
+95, xFunzelx, 261640, Audi Sport quattro S1 Pikes Peak, 09:52.592, +01:06.664
+96, mickaelb, 286927, Audi Sport quattro S1 Pikes Peak, 09:52.826, +01:06.898
+97, rufr1der, 294379, Audi Sport quattro S1 Pikes Peak, 09:53.026, +01:07.098
+98, doddy31, 268565, Audi Sport quattro S1 Pikes Peak, 09:53.242, +01:07.314
+99, Not linked, 258677, Audi Sport quattro S1 Pikes Peak, 09:53.309, +01:07.381
+100, chriss84, 284199, Audi Sport quattro S1 Pikes Peak, 09:53.310, +01:07.382
+101, Not linked, 302556, Audi Sport quattro S1 Pikes Peak, 09:53.376, +01:07.448
+102, SAURINGEL, 253003, Audi Sport quattro S1 Pikes Peak, 09:53.576, +01:07.648
+103, Not linked, 251979, Audi Sport quattro S1 Pikes Peak, 09:53.709, +01:07.781
+104, VonBlare08, 334020, Audi Sport quattro S1 Pikes Peak, 09:54.009, +01:08.081
+105, choobarr, 425348, Audi Sport quattro S1 Pikes Peak, 09:54.692, +01:08.764
+106, Not linked, 266980, Audi Sport quattro S1 Pikes Peak, 09:54.692, +01:08.764
+107, jocke74, 255552, Audi Sport quattro S1 Pikes Peak, 09:55.059, +01:09.131
+108, Not linked, 280371, Audi Sport quattro S1 Pikes Peak, 09:55.142, +01:09.214
+109, roadsideBomb, 296571, Audi Sport quattro S1 Pikes Peak, 09:56.026, +01:10.098
+110, VarosanE30, 369578, Audi Sport quattro S1 Pikes Peak, 09:56.709, +01:10.781
+111, theo12, 254998, Audi Sport quattro S1 Pikes Peak, 09:57.392, +01:11.464
+112, todd, 257573, Audi Sport quattro S1 Pikes Peak, 09:57.743, +01:11.815
+113, samuelmat91, 269455, Audi Sport quattro S1 Pikes Peak, 09:57.892, +01:11.964
+114, 141benny, 323756, Audi Sport quattro S1 Pikes Peak, 09:58.293, +01:12.365
+115, ProudyyT, 307837, Audi Sport quattro S1 Pikes Peak, 09:58.726, +01:12.798
+116, MaxxLaMenace, 253047, Audi Sport quattro S1 Pikes Peak, 09:58.909, +01:12.981
+117, DeviR11, 325119, Audi Sport quattro S1 Pikes Peak, 10:00.075, +01:14.147
+118, Eg11, 271988, Audi Sport quattro S1 Pikes Peak, 10:00.109, +01:14.181
+119, vivaprilia, 398961, Audi Sport quattro S1 Pikes Peak, 10:00.292, +01:14.364
+120, robbedmoss996, 253483, Audi Sport quattro S1 Pikes Peak, 10:00.425, +01:14.497
+121, Not linked, 279887, Audi Sport quattro S1 Pikes Peak, 10:00.442, +01:14.514
+122, Oesterreich, 250924, Audi Sport quattro S1 Pikes Peak, 10:00.643, +01:14.715
+123, RACE2WIN, 402747, Audi Sport quattro S1 Pikes Peak, 10:00.759, +01:14.831
+124, Not linked, 281223, Audi Sport quattro S1 Pikes Peak, 10:00.892, +01:14.964
+125, Mattjay85, 275462, Audi Sport quattro S1 Pikes Peak, 10:00.909, +01:14.981
+126, Not linked, 286903, Audi Sport quattro S1 Pikes Peak, 10:00.909, +01:14.981
+127, Ronna666, 294855, Audi Sport quattro S1 Pikes Peak, 10:01.309, +01:15.381
+128, BiiEddy, 405034, Audi Sport quattro S1 Pikes Peak, 10:01.943, +01:16.015
+129, martysooie16, 276017, Audi Sport quattro S1 Pikes Peak, 10:02.075, +01:16.147
+130, MikkoV, 342084, Audi Sport quattro S1 Pikes Peak, 10:02.175, +01:16.247
+131, Not linked, 399824, Audi Sport quattro S1 Pikes Peak, 10:02.275, +01:16.347
+132, 210781k32710, 389634, Audi Sport quattro S1 Pikes Peak, 10:03.009, +01:17.081
+133, ArmouredHawk, 288642, Audi Sport quattro S1 Pikes Peak, 10:03.075, +01:17.147
+134, Lapaputzi, 254257, Audi Sport quattro S1 Pikes Peak, 10:03.159, +01:17.231
+135, boss302, 267758, Audi Sport quattro S1 Pikes Peak, 10:04.159, +01:18.231
+136, NewQx, 420192, Audi Sport quattro S1 Pikes Peak, 10:04.442, +01:18.514
+137, KeypitSimpal, 325491, Audi Sport quattro S1 Pikes Peak, 10:04.892, +01:18.964
+138, Toffeers, 256831, Audi Sport quattro S1 Pikes Peak, 10:05.375, +01:19.447
+139, MK2Escort123, 316581, Audi Sport quattro S1 Pikes Peak, 10:05.409, +01:19.481
+140, knoxy995, 292715, Audi Sport quattro S1 Pikes Peak, 10:05.625, +01:19.697
+141, Not linked, 363931, Audi Sport quattro S1 Pikes Peak, 10:05.825, +01:19.897
+142, mkilgore, 309078, Audi Sport quattro S1 Pikes Peak, 10:06.092, +01:20.164
+143, kareinen, 326195, Audi Sport quattro S1 Pikes Peak, 10:06.376, +01:20.448
+144, Not linked, 365543, Audi Sport quattro S1 Pikes Peak, 10:06.459, +01:20.531
+145, BBanner1029, 257309, Audi Sport quattro S1 Pikes Peak, 10:06.575, +01:20.647
+146, Dieguinator, 300507, Audi Sport quattro S1 Pikes Peak, 10:07.176, +01:21.248
+147, AjHoonigan, 273117, Audi Sport quattro S1 Pikes Peak, 10:07.392, +01:21.464
+148, Not linked, 257915, Audi Sport quattro S1 Pikes Peak, 10:07.575, +01:21.647
+149, Not linked, 325881, Audi Sport quattro S1 Pikes Peak, 10:07.825, +01:21.897
+150, michaelf, 275401, Audi Sport quattro S1 Pikes Peak, 10:08.176, +01:22.248
+151, Not linked, 398575, Audi Sport quattro S1 Pikes Peak, 10:08.275, +01:22.347
+152, Letras78, 301176, Audi Sport quattro S1 Pikes Peak, 10:08.377, +01:22.449
+153, RallyeLozere, 366486, Audi Sport quattro S1 Pikes Peak, 10:08.608, +01:22.680
+154, Not linked, 267411, Audi Sport quattro S1 Pikes Peak, 10:08.643, +01:22.715
+155, Not linked, 378935, Audi Sport quattro S1 Pikes Peak, 10:08.658, +01:22.730
+156, Not linked, 360852, Audi Sport quattro S1 Pikes Peak, 10:09.008, +01:23.080
+157, Monkeyboy142, 288045, Audi Sport quattro S1 Pikes Peak, 10:09.325, +01:23.397
+158, olivierragnotti, 346226, Audi Sport quattro S1 Pikes Peak, 10:09.326, +01:23.398
+159, junior1420, 251603, Audi Sport quattro S1 Pikes Peak, 10:09.326, +01:23.398
+160, Westcoast07, 358064, Audi Sport quattro S1 Pikes Peak, 10:09.676, +01:23.748
+161, sprinksbreak, 402375, Audi Sport quattro S1 Pikes Peak, 10:09.792, +01:23.864
+162, Not linked, 415600, Audi Sport quattro S1 Pikes Peak, 10:09.925, +01:23.997
+163, ickwart, 401335, Audi Sport quattro S1 Pikes Peak, 10:11.309, +01:25.381
+164, Not linked, 350554, Audi Sport quattro S1 Pikes Peak, 10:12.093, +01:26.165
+165, raceluvr, 371525, Audi Sport quattro S1 Pikes Peak, 10:12.208, +01:26.280
+166, uiggibuiggi, 279555, Audi Sport quattro S1 Pikes Peak, 10:12.609, +01:26.681
+167, Not linked, 255488, Audi Sport quattro S1 Pikes Peak, 10:12.792, +01:26.864
+168, VINCE014, 273123, Audi Sport quattro S1 Pikes Peak, 10:13.075, +01:27.147
+169, FroloffNikolay, 257024, Audi Sport quattro S1 Pikes Peak, 10:13.343, +01:27.415
+170, nofearclint, 380408, Audi Sport quattro S1 Pikes Peak, 10:13.458, +01:27.530
+171, Not linked, 282003, Audi Sport quattro S1 Pikes Peak, 10:13.575, +01:27.647
+172, Not linked, 291090, Audi Sport quattro S1 Pikes Peak, 10:13.842, +01:27.914
+173, Not linked, 421853, Audi Sport quattro S1 Pikes Peak, 10:14.008, +01:28.080
+174, djamur, 270274, Audi Sport quattro S1 Pikes Peak, 10:14.725, +01:28.797
+175, Not linked, 366954, Audi Sport quattro S1 Pikes Peak, 10:14.926, +01:28.998
+176, MarcoSaraiva, 334787, Audi Sport quattro S1 Pikes Peak, 10:15.025, +01:29.097
+177, Not linked, 410981, Audi Sport quattro S1 Pikes Peak, 10:15.242, +01:29.314
+178, SUPERG, 258494, Audi Sport quattro S1 Pikes Peak, 10:15.425, +01:29.497
+179, Drift23, 403311, Audi Sport quattro S1 Pikes Peak, 10:15.659, +01:29.731
+180, repsol82, 346684, Audi Sport quattro S1 Pikes Peak, 10:16.125, +01:30.197
+181, Not linked, 380856, Audi Sport quattro S1 Pikes Peak, 10:16.242, +01:30.314
+182, Not linked, 272361, Audi Sport quattro S1 Pikes Peak, 10:16.358, +01:30.430
+183, CHRISSYD, 314736, Audi Sport quattro S1 Pikes Peak, 10:17.008, +01:31.080
+184, oppolock, 417935, Audi Sport quattro S1 Pikes Peak, 10:17.059, +01:31.131
+185, skip0ne, 374825, Audi Sport quattro S1 Pikes Peak, 10:17.108, +01:31.180
+186, DaChupacabrah, 259328, Audi Sport quattro S1 Pikes Peak, 10:17.558, +01:31.630
+187, Not linked, 280289, Audi Sport quattro S1 Pikes Peak, 10:17.841, +01:31.913
+188, formonkey, 265556, Audi Sport quattro S1 Pikes Peak, 10:17.859, +01:31.931
+189, vokelo, 314537, Audi Sport quattro S1 Pikes Peak, 10:17.941, +01:32.013
+190, smokeyshooter, 265044, Audi Sport quattro S1 Pikes Peak, 10:18.859, +01:32.931
+191, norsefox, 405449, Audi Sport quattro S1 Pikes Peak, 10:18.925, +01:32.997
+192, Fresh02, 413129, Audi Sport quattro S1 Pikes Peak, 10:19.308, +01:33.380
+193, gtv6, 296145, Audi Sport quattro S1 Pikes Peak, 10:19.409, +01:33.481
+194, ACHatemaker, 406125, Audi Sport quattro S1 Pikes Peak, 10:19.508, +01:33.580
+195, Zebady, 332831, Audi Sport quattro S1 Pikes Peak, 10:20.258, +01:34.330
+196, bubbaj63, 315536, Audi Sport quattro S1 Pikes Peak, 10:20.392, +01:34.464
+197, Not linked, 366062, Audi Sport quattro S1 Pikes Peak, 10:20.642, +01:34.714
+198, McMarc1al, 255307, Audi Sport quattro S1 Pikes Peak, 10:20.725, +01:34.797
+199, macouillass9191, 268372, Audi Sport quattro S1 Pikes Peak, 10:21.158, +01:35.230
+200, Not linked, 423185, Audi Sport quattro S1 Pikes Peak, 10:22.091, +01:36.163
+201, Amo750, 404769, Audi Sport quattro S1 Pikes Peak, 10:22.158, +01:36.230
+202, xXC0R3Xx, 287186, Audi Sport quattro S1 Pikes Peak, 10:22.408, +01:36.480
+203, Not linked, 370047, Audi Sport quattro S1 Pikes Peak, 10:22.991, +01:37.063
+204, Not linked, 260037, Audi Sport quattro S1 Pikes Peak, 10:23.092, +01:37.164
+205, l8ton, 295642, Audi Sport quattro S1 Pikes Peak, 10:23.359, +01:37.431
+206, Not linked, 408461, Audi Sport quattro S1 Pikes Peak, 10:23.492, +01:37.564
+207, Ivanode, 381448, Audi Sport quattro S1 Pikes Peak, 10:23.758, +01:37.830
+208, BISOUNOUR5, 289935, Audi Sport quattro S1 Pikes Peak, 10:23.858, +01:37.930
+209, howryagettinon, 348203, Audi Sport quattro S1 Pikes Peak, 10:23.942, +01:38.014
+210, mirko224, 414998, Audi Sport quattro S1 Pikes Peak, 10:24.191, +01:38.263
+211, matthewh, 253038, Audi Sport quattro S1 Pikes Peak, 10:24.641, +01:38.713
+212, Not linked, 310048, Audi Sport quattro S1 Pikes Peak, 10:24.792, +01:38.864
+213, CarGamer, 287079, Audi Sport quattro S1 Pikes Peak, 10:25.624, +01:39.696
+214, KDOGG1, 274786, Audi Sport quattro S1 Pikes Peak, 10:25.660, +01:39.732
+215, Not linked, 295335, Audi Sport quattro S1 Pikes Peak, 10:26.525, +01:40.597
+216, chakill, 420502, Audi Sport quattro S1 Pikes Peak, 10:26.541, +01:40.613
+217, Not linked, 406566, Audi Sport quattro S1 Pikes Peak, 10:26.658, +01:40.730
+218, Not linked, 251221, Audi Sport quattro S1 Pikes Peak, 10:26.858, +01:40.930
+219, nicolito2, 253958, Audi Sport quattro S1 Pikes Peak, 10:26.909, +01:40.981
+220, Not linked, 391378, Audi Sport quattro S1 Pikes Peak, 10:27.025, +01:41.097
+221, EetuP, 282476, Audi Sport quattro S1 Pikes Peak, 10:27.059, +01:41.131
+222, vinzdu91, 335446, Audi Sport quattro S1 Pikes Peak, 10:27.158, +01:41.230
+223, Mxdg14, 394167, Audi Sport quattro S1 Pikes Peak, 10:27.459, +01:41.531
+224, jypel, 282245, Audi Sport quattro S1 Pikes Peak, 10:27.608, +01:41.680
+225, Not linked, 386152, Audi Sport quattro S1 Pikes Peak, 10:27.974, +01:42.046
+226, drgreenthumb119, 286980, Audi Sport quattro S1 Pikes Peak, 10:28.908, +01:42.980
+227, Not linked, 391039, Audi Sport quattro S1 Pikes Peak, 10:29.392, +01:43.464
+228, JulienJJH, 339779, Audi Sport quattro S1 Pikes Peak, 10:29.558, +01:43.630
+229, moka8, 398342, Audi Sport quattro S1 Pikes Peak, 10:29.808, +01:43.880
+230, wrcpatrik, 279977, Audi Sport quattro S1 Pikes Peak, 10:30.075, +01:44.147
+231, squires0087, 416356, Audi Sport quattro S1 Pikes Peak, 10:30.891, +01:44.963
+232, jujupleingaz, 296066, Audi Sport quattro S1 Pikes Peak, 10:30.925, +01:44.997
+233, MikeyH93, 389214, Audi Sport quattro S1 Pikes Peak, 10:31.041, +01:45.113
+234, chopsy, 410124, Audi Sport quattro S1 Pikes Peak, 10:31.225, +01:45.297
+235, Not linked, 372788, Audi Sport quattro S1 Pikes Peak, 10:31.758, +01:45.830
+236, XR06T, 355851, Audi Sport quattro S1 Pikes Peak, 10:31.774, +01:45.846
+237, DEATHVIPER73, 367201, Audi Sport quattro S1 Pikes Peak, 10:32.258, +01:46.330
+238, Not linked, 424283, Audi Sport quattro S1 Pikes Peak, 10:32.391, +01:46.463
+239, RENO1977, 261126, Audi Sport quattro S1 Pikes Peak, 10:32.608, +01:46.680
+240, Not linked, 426687, Audi Sport quattro S1 Pikes Peak, 10:32.725, +01:46.797
+241, Not linked, 416381, Audi Sport quattro S1 Pikes Peak, 10:33.141, +01:47.213
+242, oodork123, 258574, Audi Sport quattro S1 Pikes Peak, 10:33.342, +01:47.414
+243, hfalcon00, 318979, Audi Sport quattro S1 Pikes Peak, 10:33.357, +01:47.429
+244, Guiyom, 260748, Audi Sport quattro S1 Pikes Peak, 10:33.975, +01:48.047
+245, MaxSterling13, 410001, Audi Sport quattro S1 Pikes Peak, 10:35.225, +01:49.297
+246, scrilla100, 369648, Audi Sport quattro S1 Pikes Peak, 10:35.241, +01:49.313
+247, Not linked, 305563, Audi Sport quattro S1 Pikes Peak, 10:35.258, +01:49.330
+248, cricroufoux, 253614, Audi Sport quattro S1 Pikes Peak, 10:35.941, +01:50.013
+249, Not linked, 313752, Audi Sport quattro S1 Pikes Peak, 10:36.407, +01:50.479
+250, GusMackenzie, 420813, Audi Sport quattro S1 Pikes Peak, 10:36.441, +01:50.513
+251, Evanweatherman, 321954, Audi Sport quattro S1 Pikes Peak, 10:36.692, +01:50.764
+252, Not linked, 312255, Audi Sport quattro S1 Pikes Peak, 10:37.225, +01:51.297
+253, Not linked, 424612, Audi Sport quattro S1 Pikes Peak, 10:39.258, +01:53.330
+254, TireEater, 368397, Audi Sport quattro S1 Pikes Peak, 10:39.526, +01:53.598
+255, VexedWhales6, 409586, Audi Sport quattro S1 Pikes Peak, 10:39.641, +01:53.713
+256, techno71, 275342, Audi Sport quattro S1 Pikes Peak, 10:39.742, +01:53.814
+257, Not linked, 417253, Audi Sport quattro S1 Pikes Peak, 10:40.491, +01:54.563
+258, Not linked, 397014, Audi Sport quattro S1 Pikes Peak, 10:40.591, +01:54.663
+259, mOka01, 349557, Audi Sport quattro S1 Pikes Peak, 10:40.592, +01:54.664
+260, Not linked, 410285, Audi Sport quattro S1 Pikes Peak, 10:41.608, +01:55.680
+261, Not linked, 253044, Audi Sport quattro S1 Pikes Peak, 10:41.890, +01:55.962
+262, GerWilson, 255812, Audi Sport quattro S1 Pikes Peak, 10:42.042, +01:56.114
+263, CaliXJ, 339071, Audi Sport quattro S1 Pikes Peak, 10:42.241, +01:56.313
+264, Not linked, 359392, Audi Sport quattro S1 Pikes Peak, 10:42.424, +01:56.496
+265, Not linked, 365618, Audi Sport quattro S1 Pikes Peak, 10:42.457, +01:56.529
+266, rmza87, 408983, Audi Sport quattro S1 Pikes Peak, 10:42.674, +01:56.746
+267, Not linked, 363840, Audi Sport quattro S1 Pikes Peak, 10:42.708, +01:56.780
+268, Not linked, 332366, Audi Sport quattro S1 Pikes Peak, 10:43.558, +01:57.630
+269, BdudBman, 299758, Audi Sport quattro S1 Pikes Peak, 10:43.724, +01:57.796
+270, TOPSTR1K3R, 322785, Audi Sport quattro S1 Pikes Peak, 10:43.874, +01:57.946
+271, BeNSaNTuCCi, 276750, Audi Sport quattro S1 Pikes Peak, 10:44.474, +01:58.546
+272, Gingerkingpin, 423562, Audi Sport quattro S1 Pikes Peak, 10:45.324, +01:59.396
+273, mileyb99, 311163, Audi Sport quattro S1 Pikes Peak, 10:45.741, +01:59.813
+274, francis20, 426243, Audi Sport quattro S1 Pikes Peak, 10:46.408, +02:00.480
+275, tonyboss, 366687, Audi Sport quattro S1 Pikes Peak, 10:47.025, +02:01.097
+276, bunch67, 319719, Audi Sport quattro S1 Pikes Peak, 10:48.024, +02:02.096
+277, fivefingerjanke, 350014, Audi Sport quattro S1 Pikes Peak, 10:48.590, +02:02.662
+278, Stoppi, 334493, Audi Sport quattro S1 Pikes Peak, 10:49.008, +02:03.080
+279, myrico, 260774, Audi Sport quattro S1 Pikes Peak, 10:49.057, +02:03.129
+280, WITT0014, 296898, Audi Sport quattro S1 Pikes Peak, 10:49.324, +02:03.396
+281, Not linked, 276624, Audi Sport quattro S1 Pikes Peak, 10:49.557, +02:03.629
+282, Not linked, 397160, Audi Sport quattro S1 Pikes Peak, 10:50.158, +02:04.230
+283, CrisQ21, 334029, Audi Sport quattro S1 Pikes Peak, 10:50.273, +02:04.345
+284, goldengamer1973, 281818, Audi Sport quattro S1 Pikes Peak, 10:51.091, +02:05.163
+285, Jbriggs, 422444, Audi Sport quattro S1 Pikes Peak, 10:51.357, +02:05.429
+286, Not linked, 425200, Audi Sport quattro S1 Pikes Peak, 10:52.257, +02:06.329
+287, Not linked, 262054, Audi Sport quattro S1 Pikes Peak, 10:53.890, +02:07.962
+288, Spen, 269615, Audi Sport quattro S1 Pikes Peak, 10:54.690, +02:08.762
+289, Not linked, 269540, Audi Sport quattro S1 Pikes Peak, 10:54.757, +02:08.829
+290, ceasyrider, 293375, Audi Sport quattro S1 Pikes Peak, 10:55.623, +02:09.695
+291, leehickton, 272257, Audi Sport quattro S1 Pikes Peak, 10:55.674, +02:09.746
+292, jwjewander, 399818, Audi Sport quattro S1 Pikes Peak, 10:55.674, +02:09.746
+293, Not linked, 360780, Audi Sport quattro S1 Pikes Peak, 10:55.774, +02:09.846
+294, Not linked, 398993, Audi Sport quattro S1 Pikes Peak, 10:55.924, +02:09.996
+295, seb091315, 251620, Audi Sport quattro S1 Pikes Peak, 10:56.674, +02:10.746
+296, techtango1, 335128, Audi Sport quattro S1 Pikes Peak, 10:56.690, +02:10.762
+297, supertaupe, 264587, Audi Sport quattro S1 Pikes Peak, 10:57.257, +02:11.329
+298, TonieV, 265444, Audi Sport quattro S1 Pikes Peak, 10:57.457, +02:11.529
+299, Batmun, 426399, Audi Sport quattro S1 Pikes Peak, 10:57.525, +02:11.597
+300, Not linked, 425659, Audi Sport quattro S1 Pikes Peak, 10:57.623, +02:11.695
+301, NilsSilvests, 395374, Audi Sport quattro S1 Pikes Peak, 10:57.723, +02:11.795
+302, nikpar2, 259449, Audi Sport quattro S1 Pikes Peak, 10:58.223, +02:12.295
+303, Not linked, 331752, Audi Sport quattro S1 Pikes Peak, 10:58.524, +02:12.596
+304, Not linked, 302384, Audi Sport quattro S1 Pikes Peak, 10:58.657, +02:12.729
+305, Not linked, 283589, Audi Sport quattro S1 Pikes Peak, 10:58.724, +02:12.796
+306, LowriderTattoo, 316010, Audi Sport quattro S1 Pikes Peak, 10:58.790, +02:12.862
+307, Silleman85, 389281, Audi Sport quattro S1 Pikes Peak, 10:59.206, +02:13.278
+308, Not linked, 258582, Audi Sport quattro S1 Pikes Peak, 10:59.340, +02:13.412
+309, Not linked, 289100, Audi Sport quattro S1 Pikes Peak, 10:59.490, +02:13.562
+310, Not linked, 321140, Audi Sport quattro S1 Pikes Peak, 11:00.007, +02:14.079
+311, BDK1981, 407976, Audi Sport quattro S1 Pikes Peak, 11:00.107, +02:14.179
+312, Not linked, 390828, Audi Sport quattro S1 Pikes Peak, 11:00.341, +02:14.413
+313, hellsmaster, 251592, Audi Sport quattro S1 Pikes Peak, 11:00.674, +02:14.746
+314, edavis0303, 258201, Audi Sport quattro S1 Pikes Peak, 11:01.290, +02:15.362
+315, Not linked, 292295, Audi Sport quattro S1 Pikes Peak, 11:01.790, +02:15.862
+316, DirkDigler, 355880, Audi Sport quattro S1 Pikes Peak, 11:01.891, +02:15.963
+317, Not linked, 266759, Audi Sport quattro S1 Pikes Peak, 11:02.224, +02:16.296
+318, Not linked, 370670, Audi Sport quattro S1 Pikes Peak, 11:02.274, +02:16.346
+319, mikerobbo, 264082, Audi Sport quattro S1 Pikes Peak, 11:03.457, +02:17.529
+320, tooper78, 281862, Audi Sport quattro S1 Pikes Peak, 11:04.007, +02:18.079
+321, rozas988, 372792, Audi Sport quattro S1 Pikes Peak, 11:04.824, +02:18.896
+322, c3wo, 274884, Audi Sport quattro S1 Pikes Peak, 11:07.224, +02:21.296
+323, Gizze, 321602, Audi Sport quattro S1 Pikes Peak, 11:07.990, +02:22.062
+324, tougy, 409861, Audi Sport quattro S1 Pikes Peak, 11:08.091, +02:22.163
+325, Mad66Mav, 396994, Audi Sport quattro S1 Pikes Peak, 11:08.507, +02:22.579
+326, steffen8019, 297786, Audi Sport quattro S1 Pikes Peak, 11:12.206, +02:26.278
+327, supercharged789, 311200, Audi Sport quattro S1 Pikes Peak, 11:12.340, +02:26.412
+328, sx225, 263814, Audi Sport quattro S1 Pikes Peak, 11:13.556, +02:27.628
+329, JCvxss01, 319958, Audi Sport quattro S1 Pikes Peak, 11:14.024, +02:28.096
+330, Not linked, 268013, Audi Sport quattro S1 Pikes Peak, 11:14.107, +02:28.179
+331, rallywill, 254374, Audi Sport quattro S1 Pikes Peak, 11:14.323, +02:28.395
+332, myboybew, 420574, Audi Sport quattro S1 Pikes Peak, 11:15.256, +02:29.328
+333, Not linked, 413539, Audi Sport quattro S1 Pikes Peak, 11:15.290, +02:29.362
+334, leviaustin, 392134, Audi Sport quattro S1 Pikes Peak, 11:15.574, +02:29.646
+335, Gazelle1983, 282685, Audi Sport quattro S1 Pikes Peak, 11:17.190, +02:31.262
+336, clumbsyloser, 393835, Audi Sport quattro S1 Pikes Peak, 11:17.356, +02:31.428
+337, Not linked, 256025, Audi Sport quattro S1 Pikes Peak, 11:17.424, +02:31.496
+338, WoefulSwine69, 384081, Audi Sport quattro S1 Pikes Peak, 11:18.873, +02:32.945
+339, Fafreits, 416692, Audi Sport quattro S1 Pikes Peak, 11:19.807, +02:33.879
+340, Not linked, 415042, Audi Sport quattro S1 Pikes Peak, 11:19.840, +02:33.912
+341, Wastler, 421049, Audi Sport quattro S1 Pikes Peak, 11:20.356, +02:34.428
+342, Not linked, 400999, Audi Sport quattro S1 Pikes Peak, 11:20.573, +02:34.645
+343, wallet3, 271843, Audi Sport quattro S1 Pikes Peak, 11:21.257, +02:35.329
+344, Sneerfulsauce22, 426150, Audi Sport quattro S1 Pikes Peak, 11:21.306, +02:35.378
+345, Not linked, 422795, Audi Sport quattro S1 Pikes Peak, 11:21.690, +02:35.762
+346, Not linked, 399787, Audi Sport quattro S1 Pikes Peak, 11:22.590, +02:36.662
+347, tapa93, 251545, Audi Sport quattro S1 Pikes Peak, 11:22.624, +02:36.696
+348, Not linked, 395903, Audi Sport quattro S1 Pikes Peak, 11:22.724, +02:36.796
+349, Not linked, 339544, Audi Sport quattro S1 Pikes Peak, 11:24.690, +02:38.762
+350, Not linked, 398019, Audi Sport quattro S1 Pikes Peak, 11:25.240, +02:39.312
+351, tonemarley, 315823, Audi Sport quattro S1 Pikes Peak, 11:25.355, +02:39.427
+352, Mamo26x, 408779, Audi Sport quattro S1 Pikes Peak, 11:26.039, +02:40.111
+353, Not linked, 377998, Audi Sport quattro S1 Pikes Peak, 11:26.206, +02:40.278
+354, stinkenz, 367646, Audi Sport quattro S1 Pikes Peak, 11:26.556, +02:40.628
+355, Not linked, 413801, Audi Sport quattro S1 Pikes Peak, 11:27.072, +02:41.144
+356, 420steve420, 343636, Audi Sport quattro S1 Pikes Peak, 11:27.308, +02:41.380
+357, josgon, 405286, Audi Sport quattro S1 Pikes Peak, 11:28.840, +02:42.912
+358, Not linked, 421441, Audi Sport quattro S1 Pikes Peak, 11:29.039, +02:43.111
+359, Herbalq, 313943, Audi Sport quattro S1 Pikes Peak, 11:31.072, +02:45.144
+360, Jdarrow17, 318000, Audi Sport quattro S1 Pikes Peak, 11:31.422, +02:45.494
+361, scotlandabdn, 388974, Audi Sport quattro S1 Pikes Peak, 11:31.705, +02:45.777
+362, Mart1305, 424868, Audi Sport quattro S1 Pikes Peak, 11:32.222, +02:46.294
+363, KingTrooper, 291073, Audi Sport quattro S1 Pikes Peak, 11:32.306, +02:46.378
+364, knocky271, 422909, Audi Sport quattro S1 Pikes Peak, 11:33.589, +02:47.661
+365, Not linked, 398207, Audi Sport quattro S1 Pikes Peak, 11:35.923, +02:49.995
+366, Wacki1711, 383945, Audi Sport quattro S1 Pikes Peak, 11:36.006, +02:50.078
+367, cuddlymaker6821, 253701, Audi Sport quattro S1 Pikes Peak, 11:37.441, +02:51.513
+368, Not linked, 369077, Audi Sport quattro S1 Pikes Peak, 11:38.839, +02:52.911
+369, Not linked, 379598, Audi Sport quattro S1 Pikes Peak, 11:40.538, +02:54.610
+370, Not linked, 355078, Audi Sport quattro S1 Pikes Peak, 11:40.655, +02:54.727
+371, Not linked, 269650, Audi Sport quattro S1 Pikes Peak, 11:41.005, +02:55.077
+372, bakedmonkey17, 364483, Audi Sport quattro S1 Pikes Peak, 11:41.156, +02:55.228
+373, BL4CKxM4MB4x, 399002, Audi Sport quattro S1 Pikes Peak, 11:42.321, +02:56.393
+374, Not linked, 392957, Audi Sport quattro S1 Pikes Peak, 11:42.655, +02:56.727
+375, PoliceVanDK, 390981, Audi Sport quattro S1 Pikes Peak, 11:43.289, +02:57.361
+376, Simmosumo, 321188, Audi Sport quattro S1 Pikes Peak, 11:44.806, +02:58.878
+377, TaxiMagne, 296305, Audi Sport quattro S1 Pikes Peak, 11:45.305, +02:59.377
+378, Not linked, 330312, Audi Sport quattro S1 Pikes Peak, 11:47.671, +03:01.743
+379, jesu1988, 400213, Audi Sport quattro S1 Pikes Peak, 11:48.372, +03:02.444
+380, darktrooper1966, 259736, Audi Sport quattro S1 Pikes Peak, 11:48.788, +03:02.860
+381, kris240782, 318398, Audi Sport quattro S1 Pikes Peak, 11:51.155, +03:05.227
+382, Not linked, 266177, Audi Sport quattro S1 Pikes Peak, 11:51.156, +03:05.228
+383, essenerjung291, 258636, Audi Sport quattro S1 Pikes Peak, 11:52.755, +03:06.827
+384, drivingfarmer, 368647, Audi Sport quattro S1 Pikes Peak, 12:00.489, +03:14.561
+385, Not linked, 415636, Audi Sport quattro S1 Pikes Peak, 12:02.189, +03:16.261
+386, BNR87, 338053, Audi Sport quattro S1 Pikes Peak, 12:02.206, +03:16.278
+387, Moddicchio, 290591, Audi Sport quattro S1 Pikes Peak, 12:03.190, +03:17.262
+388, Zenine363, 371661, Audi Sport quattro S1 Pikes Peak, 12:03.238, +03:17.310
+389, fransou, 424550, Audi Sport quattro S1 Pikes Peak, 12:03.641, +03:17.713
+390, Not linked, 425995, Audi Sport quattro S1 Pikes Peak, 12:07.888, +03:21.960
+391, Not linked, 401719, Audi Sport quattro S1 Pikes Peak, 12:11.920, +03:25.992
+392, Not linked, 424404, Audi Sport quattro S1 Pikes Peak, 12:13.505, +03:27.577
+393, Not linked, 410409, Audi Sport quattro S1 Pikes Peak, 12:14.021, +03:28.093
+394, Not linked, 286291, Audi Sport quattro S1 Pikes Peak, 12:15.321, +03:29.393
+395, Not linked, 417009, Audi Sport quattro S1 Pikes Peak, 12:17.623, +03:31.695
+396, dinracer, 364575, Audi Sport quattro S1 Pikes Peak, 12:20.787, +03:34.859
+397, Not linked, 385042, Audi Sport quattro S1 Pikes Peak, 12:40.719, +03:54.791
+398, Not linked, 425963, Audi Sport quattro S1 Pikes Peak, 12:45.288, +03:59.360
+399, viktor1976, 293992, Audi Sport quattro S1 Pikes Peak, 12:45.888, +03:59.960
+400, F8alXperience, 260194, Audi Sport quattro S1 Pikes Peak, 12:47.872, +04:01.944
+401, Not linked, 419785, Audi Sport quattro S1 Pikes Peak, 12:48.171, +04:02.243
+402, dirty3689, 394717, Audi Sport quattro S1 Pikes Peak, 12:48.555, +04:02.627
+403, tigerseye2000, 426446, Audi Sport quattro S1 Pikes Peak, 12:49.189, +04:03.261
+404, M3t4lpsych0, 348116, Audi Sport quattro S1 Pikes Peak, 12:50.521, +04:04.593
+405, diegoterminillo, 368372, Audi Sport quattro S1 Pikes Peak, 12:52.187, +04:06.259
+406, Not linked, 390425, Audi Sport quattro S1 Pikes Peak, 12:55.437, +04:09.509
+407, Icecoolman, 422981, Audi Sport quattro S1 Pikes Peak, 12:55.855, +04:09.927
+408, rick281917, 425420, Audi Sport quattro S1 Pikes Peak, 13:01.885, +04:15.957
+409, Not linked, 345309, Audi Sport quattro S1 Pikes Peak, 13:04.304, +04:18.376
+410, Not linked, 279408, Audi Sport quattro S1 Pikes Peak, 13:04.968, +04:19.040
+411, Not linked, 397727, Audi Sport quattro S1 Pikes Peak, 13:16.254, +04:30.326
+412, kura47, 419302, Audi Sport quattro S1 Pikes Peak, 13:20.702, +04:34.774
+413, Not linked, 280191, Audi Sport quattro S1 Pikes Peak, 13:31.853, +04:45.925
+414, Not linked, 426673, Audi Sport quattro S1 Pikes Peak, 13:32.389, +04:46.461
+415, Damianentry, 297257, Audi Sport quattro S1 Pikes Peak, 13:35.356, +04:49.428
+416, GROWMASTER420, 275045, Audi Sport quattro S1 Pikes Peak, 13:44.921, +04:58.993
+417, Not linked, 294798, Audi Sport quattro S1 Pikes Peak, 13:51.322, +05:05.394
+418, Not linked, 424102, Audi Sport quattro S1 Pikes Peak, 14:01.600, +05:15.672
+419, BIGMEN1, 251757, Audi Sport quattro S1 Pikes Peak, 14:03.502, +05:17.574
+420, jckiroga, 399821, Audi Sport quattro S1 Pikes Peak, 14:10.836, +05:24.908
+421, Not linked, 359720, Audi Sport quattro S1 Pikes Peak, 14:13.853, +05:27.925
+422, sixty2zero, 297016, Audi Sport quattro S1 Pikes Peak, 14:24.569, +05:38.641
+423, Not linked, 424564, Audi Sport quattro S1 Pikes Peak, 14:26.070, +05:40.142
+424, Not linked, 332748, Audi Sport quattro S1 Pikes Peak, 14:31.118, +05:45.190
+425, Not linked, 426604, Audi Sport quattro S1 Pikes Peak, 14:35.618, +05:49.690
+426, Not linked, 423787, Audi Sport quattro S1 Pikes Peak, 14:38.219, +05:52.291
+427, leteut, 412138, Audi Sport quattro S1 Pikes Peak, 14:38.419, +05:52.491
+428, Not linked, 426488, Audi Sport quattro S1 Pikes Peak, 14:44.185, +05:58.257
+429, sun818, 406028, Audi Sport quattro S1 Pikes Peak, 14:55.002, +06:09.074
+430, NAIAIVANNA, 418610, Audi Sport quattro S1 Pikes Peak, 14:58.934, +06:13.006
+431, Not linked, 319789, Audi Sport quattro S1 Pikes Peak, 15:48.178, +07:02.250
+432, Not linked, 424848, Audi Sport quattro S1 Pikes Peak, 16:05.784, +07:19.856
+433, PsychoMax, 346293, Audi Sport quattro S1 Pikes Peak, 16:19.280, +07:33.352
+434, Martiparti, 426094, Audi Sport quattro S1 Pikes Peak, 17:19.668, +08:33.740
+435, Not linked, 425831, Audi Sport quattro S1 Pikes Peak, 17:46.609, +09:00.681
+436, Not linked, 412672, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+437, djnaila, 266499, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+438, james4816, 340485, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+439, frazermills, 425485, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+440, Not linked, 382990, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+441, Not linked, 412697, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+442, Nastynaze27, 255771, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+443, Not linked, 311327, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+444, Notman01, 407328, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+445, Mat82Reid, 256032, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+446, Not linked, 426274, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+447, Not linked, 423209, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+448, Not linked, 426795, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+449, puzzlebcn, 411952, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+450, MinisculeLamb45, 348213, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+451, Not linked, 426039, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+452, tauma, 251192, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+453, mattingly1967, 424254, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+454, Not linked, 426561, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+455, Not linked, 287559, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+456, Not linked, 383560, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+457, geobosc, 421195, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+458, Not linked, 386380, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+459, Not linked, 426829, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+460, Not linked, 421966, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+461, Swayzillatron, 366672, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+462, alexis55, 251728, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+463, Gobfried, 290899, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+464, Not linked, 425304, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+465, cronotraigers03, 254552, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+466, potatoes42, 297049, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+467, Not linked, 306524, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+468, Not linked, 426846, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+469, THESHUMI, 255333, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+470, Not linked, 426342, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+471, Ghostrider407, 420200, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+472, Not linked, 426347, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+473, Not linked, 421996, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+474, admgoodride, 413296, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+475, Not linked, 426864, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+476, luco1985, 252784, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+477, Doorl3ssDuke, 268151, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+478, Not linked, 413559, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+479, Not linked, 377976, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+480, Not linked, 417402, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+481, CoredeRoma, 376702, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+482, natedawgy, 317313, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+483, Not linked, 425090, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+484, bine28, 279428, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+485, MrWez, 333191, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+486, Not linked, 402313, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+487, EnterOgNameHere, 257163, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+488, Not linked, 417428, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+489, Not linked, 426645, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+490, MPerleg, 251285, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+491, Not linked, 361368, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+492, Not linked, 388001, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+493, Not linked, 410274, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+494, Not linked, 383652, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+495, Jackson1980, 271015, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+496, Not linked, 340905, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+497, Not linked, 420010, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+498, Not linked, 424363, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+499, nrkgameur, 392619, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+500, Pollux95, 337582, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+501, Xpose, 279727, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+502, leRoo38, 252080, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+503, jbtonight, 253618, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+504, Not linked, 389810, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+505, Kamikaseg, 287923, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+506, Not linked, 426677, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+507, Not linked, 426678, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+508, Not linked, 357305, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+509, puffy699, 421818, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+510, carlfunaro, 410556, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+511, Not linked, 426684, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+512, Not linked, 426685, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+513, LameNoob, 412606, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+514, Bubulabulle, 392382, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+515, Spacebush, 416963, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+516, KELDER360, 282308, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+517, Not linked, 301767, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+518, hydro420, 257736, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+519, Not linked, 419786, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+520, Charlie4x4, 272846, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+521, Not linked, 424911, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+522, Z0MBICHEEZ, 289490, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+523, Supraman162, 253907, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+524, Not linked, 370903, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+525, tyntyn, 426457, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+526, Not linked, 417498, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+527, Not linked, 383450, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+528, Cordobes69, 408795, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+529, Not linked, 420827, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+530, dudthestud66, 420061, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+531, Danish59, 424161, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+532, Not linked, 399075, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+533, vfloberidin, 258283, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+534, Not linked, 411887, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+535, Not linked, 362225, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+536, Not linked, 313587, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+537, Not linked, 425204, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+538, Foro18, 420853, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+539, weka23, 387320, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+540, BOLUKEDUKE, 344317, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+541, 6224090, 404734, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+542, Not linked, 412158, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
+543, ELZAKEVIN, 312318, Audi Sport quattro S1 Pikes Peak, 30:00.000, +21:14.072
