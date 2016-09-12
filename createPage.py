@@ -22,8 +22,8 @@ def getTableData(fileName, platform):
             #print "What line is this??"
             #print line
             continue
-        #    0               1            2                  3                 4           5
-        #position + ", " + name + ", " + playerID + ", " + vehicle + ", " + time + ", " + diff
+        #    0               1            2                  3                 4           5     6
+        #position + ", " + name + ", " + playerID + ", " + vehicle + ", " + time + ", " + diff, nationIMG
         #tout += "<tr><td>" + data[0] + "</td><td>" + data[1] + "</td><td>" + data[3] + "</td><td>" + data[4] + "</td><td>" + data[5] + "</td><td>" + platform + "</td></tr>\n"
         tout.append((data[1], data[3], data[4], platform))
         entries += 1
@@ -74,6 +74,8 @@ numEntries += e
 d,e = getTableData(bfn + "oculus" + ".txt", "Oculus")
 combined.extend(d)
 numEntries += e
+
+print str(e) + " entries"
 
 out = template.replace("%file_time%", str(fileTime)).replace("%title%", "DiRT Daily Cross Platform Results Import").replace("%info%", eventInfo[0] + ", " + sys.argv[1] + "<br>" + eventInfo[4] + ", " + eventInfo[2] + "<br>" + eventInfo[8] + ", " + eventInfo[6] + "<br>" + str(numEntries) + " Entries, " + eventInfo[1] + " Stage(s)")
 
