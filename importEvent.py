@@ -50,42 +50,42 @@ def downloadResults(eventId, platform):
     j = json.loads(resp)
     print "Initial Data Downloaded: "
 
-    initialSeparator = "\\"
+    initialSeparator = u"\\"
 
-    name = (j["EventName"]).encode('ascii',errors='ignore').replace(initialSeparator, "")
-    numStages = str(j["TotalStages"]).replace(initialSeparator, "")
-    location = str(j["LocationName"]).replace(initialSeparator, "")
-    locationImage = str(j["LocationImage"]).replace(initialSeparator, "")
-    stage = str(j["StageName"]).replace(initialSeparator, "")
-    stageImage = str(j["StageImage"]).replace(initialSeparator, "")
-    timeOfDay = str(j["TimeOfDay"]).replace(initialSeparator, "")
-    weatherImage = str(j["WeatherImageUrl"]).replace(initialSeparator, "")
-    weather = str(j["WeatherText"]).replace(initialSeparator, "")
-    numPages = str(j["Pages"]).replace(initialSeparator, "")
-    numEntries = str(j["LeaderboardTotal"]).replace(initialSeparator, "")
+    name = unicode(j["EventName"]).replace(initialSeparator, "")#.encode('ascii',errors='ignore').replace(initialSeparator, "")
+    numStages = unicode(j["TotalStages"]).replace(initialSeparator, "")
+    location = unicode(j["LocationName"]).replace(initialSeparator, "")
+    locationImage = unicode(j["LocationImage"]).replace(initialSeparator, "")
+    stage = unicode(j["StageName"]).replace(initialSeparator, "")
+    stageImage = unicode(j["StageImage"]).replace(initialSeparator, "")
+    timeOfDay = unicode(j["TimeOfDay"]).replace(initialSeparator, "")
+    weatherImage = unicode(j["WeatherImageUrl"]).replace(initialSeparator, "")
+    weather = unicode(j["WeatherText"]).replace(initialSeparator, "")
+    numPages = unicode(j["Pages"]).replace(initialSeparator, "")
+    numEntries = unicode(j["LeaderboardTotal"]).replace(initialSeparator, "")
 
     file = open("imports/" + eventDate + "_" + platform + ".txt", "w")
-    file.write(name + initialSeparator + numStages + initialSeparator + location + initialSeparator + locationImage + initialSeparator + stage + initialSeparator + stageImage + initialSeparator + timeOfDay + initialSeparator + weatherImage + initialSeparator + weather + initialSeparator + numEntries + initialSeparator + eventDate.replace(initialSeparator, "") + "\n")
+    file.write((name + initialSeparator + numStages + initialSeparator + location + initialSeparator + locationImage + initialSeparator + stage + initialSeparator + stageImage + initialSeparator + timeOfDay + initialSeparator + weatherImage + initialSeparator + weather + initialSeparator + numEntries + initialSeparator + eventDate.replace(initialSeparator, u"") + u"\n").encode("utf-8"))
 
     pages = int(numPages)
 
     for page in range(1, min(pages, maxPages)+1):
         print "Downloading Page " + str(page) + "..."
         pageUrl = "https://www.dirtgame.com/uk/api/event?assists=any&eventId=" + str(eventId) + "&group=all&leaderboard=true&noCache=0&number=" + str(dirtNumber) + "&page=" + str(page) + "&stageId=" + str(numStages) + "&wheel=any&nameSearch="
-        data = webSession.get(pageUrl).text.encode('utf-8')
+        data = unicode(webSession.get(pageUrl).text)#.encode('utf-8')
         j = json.loads(data)
         entries = j["Entries"]
         for e in entries:
-            position = str(e["Position"]).replace(",", "")
-            nation = e["NationalityImage"].replace(",", "")
-            playerID = str(e["PlayerId"]).replace(",", "")
-            name = e["Name"].encode('ascii',errors='ignore').replace(",", "")
-            vehicle = e["VehicleName"].replace(",", "")
-            time = e["Time"].replace(",", "")
-            diff = e["DiffFirst"].replace(",", "")
+            position = unicode(e["Position"]).replace(u",", u"")
+            nation = unicode(e["NationalityImage"]).replace(u",", u"")
+            playerID = unicode(e["PlayerId"]).replace(u",", u"")
+            name = unicode(e["Name"]).replace(u",", u"")
+            vehicle = unicode(e["VehicleName"]).replace(u",", u"")
+            time = unicode(e["Time"]).replace(u",", u"")
+            diff = unicode(e["DiffFirst"]).replace(u",", u"")
 
-            resString = position + ", " + name + ", " + playerID + ", " + vehicle + ", " + time + ", " + diff
-            file.write(resString + "\n")
+            resString = position + u", " + name + u", " + playerID + u", " + vehicle + u", " + time + u", " + diff
+            file.write((resString + u"\n").encode("utf-8"))
             #print resString
 
     file.close()
