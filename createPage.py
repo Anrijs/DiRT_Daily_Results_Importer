@@ -114,12 +114,17 @@ def main(argv):
 
     platforms = ["steam", "psn", "live", "xbox"]
 
-    dfUrl = False
-    for pltf in platforms:   
-        if (os.path.isfile(dfUrl))
-            dfUrl = bfn + pltf + ".txt"
+    dfUrl = ""
+    hasFiles = False
 
-    if not dfUrl:
+    for pltf in platforms:   
+        dfUrl = bfn + pltf + ".txt"
+        if (os.path.isfile(dfUrl)):
+            hasFiles = True
+            break
+
+
+    if not hasFiles:
         print "Results file not found"
         print "Few things to check:"
         print " - Is date and folder correct?"
