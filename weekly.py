@@ -13,49 +13,70 @@ def main(argv):
     eventDate = dnow.strftime("%Y-%m-%d")
     print eventDate
 
-    #raw_input("")
+    runWeekly  = True
+    runWeekly2 = True
+    platforms = ""
 
-    eventId = -1
-    test = requests.get("https://www.dirtgame.com/uk/events").text
-    nl = False
-    for line in test.split("\n"):
-        if line.startswith('<select data-ng-model="eventId" id="weekly_prevEvents" name="weekly_prevEvents'):
-            #eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
-            nl = True
-            continue
-        if nl == True:        
-            eventId = line[(line.find('<option value="') + 15):(15 + line[15:].find('">'))]
-            break
-
-    if eventId == -1:
-        print "Could not find the weekly 1!"
-        sys.exit()
-
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1")
-    print "Weekly 1: " + str(eventId)
+    if (len(argv) > 0):
+        runWeekly  = False
+        runWeekly2 = False
+        if "daily" in argv:
+            runWeekly = True
+        if "daily2" in argv:
+            runWeekly2 = True
+        
+        argstr = ",".join(argv)
+        if "steam" in argstr:  platforms += "steam,"
+        if "psn" in argstr: platforms += "psn,"
+        if "live" in argstr: platforms += "live,"
+        if "oculus" in argstr: platforms += "oculus,"
 
 
-    #
+    if runWeekly:
+        eventId = -1
+        test = requests.get("https://www.dirtgame.com/uk/events").text
+        nl = False
+        for line in test.split("\n"):
+            if line.startswith('<select data-ng-model="eventId" id="weekly_prevEvents" name="weekly_prevEvents'):
+                #eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
+                nl = True
+                continue
+            if nl == True:        
+                eventId = line[(line.find('<option value="') + 15):(15 + line[15:].find('">'))]
+                break
 
-    eventId = -1
-    test = requests.get("https://www.dirtgame.com/uk/events").text
-    nl = False
-    for line in test.split("\n"):
-        if line.startswith('<select data-ng-model="eventId" id="weekly2_prevEvents" name="weekly2_prevEvents'):
-            #eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
-            nl = True
-            continue
-        if nl == True:        
-            eventId = line[(line.find('<option value="') + 15):(15 + line[15:].find('">'))]
-            break
+        if eventId == -1:
+            print "Could not find the weekly 1!"
+            sys.exit()
 
-    if eventId == -1:
-        print "Could not find the weekly 2!"
-        sys.exit()
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1")
+        print "Weekly 1: " + str(eventId)
+        print "Weekly 1 imported"
+    else:
+        print "Skip Weekly import"
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2")
-    print "Weekly 2: " + str(eventId)
-    print "Weekly 1 & 2 imported"
+    if runWeekly2:
+        eventId = -1
+        test = requests.get("https://www.dirtgame.com/uk/events").text
+        nl = False
+        for line in test.split("\n"):
+            if line.startswith('<select data-ng-model="eventId" id="weekly2_prevEvents" name="weekly2_prevEvents'):
+                #eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
+                nl = True
+                continue
+            if nl == True:        
+                eventId = line[(line.find('<option value="') + 15):(15 + line[15:].find('">'))]
+                break
+
+        if eventId == -1:
+            print "Could not find the weekly 2!"
+            sys.exit()
+
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2")
+        print "Weekly 2: " + str(eventId)
+        print "Weekly 2 imported"
+    else:
+        print "Skip Weekly2 import"
 
 if __name__ == "__main__":
    main(sys.argv[1:])
