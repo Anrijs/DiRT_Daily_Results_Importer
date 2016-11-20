@@ -4,15 +4,14 @@ import requests
 import datetime
 import os
 
-#Usage: importEvent.py eventId date-string folder
-
-folder = sys.argv[3]
-eventDate = sys.argv[2]
+folder = ""
+eventDate = ""
 maxPages = 20000000000
 
-#maxPages = 1
-
 def downloadResults(eventId, platform, platformURL):
+    global folder
+    global eventDate
+
     ph = "[" + platform + "] "
     
     print ph + "Doing Platform " + platform
@@ -81,29 +80,42 @@ def downloadResults(eventId, platform, platformURL):
     file.close()
 
 
-print "Date: " + eventDate
+#Usage: importEvent.py eventId date-string folder
+def main(argv):
+    global folder
+    global eventDate
 
-eventId = int(sys.argv[1])
-print "Found Event ID: " + str(eventId)
+    folder = argv[2]
+    eventDate = argv[1]
 
-from threading import Thread
-steam = Thread(target=downloadResults, args=(eventId, "steam", "steam"))
-psn = Thread(target=downloadResults, args=(eventId, "psn", "playstationnetwork"))
-live = Thread(target=downloadResults, args=(eventId, "live", "microsoftlive"))
-oculus = Thread(target=downloadResults, args=(eventId, "oculus", "oculus"))
+    #maxPages = 1
 
-print "Starting threads..."
-steam.start()
-psn.start()
-live.start()
-oculus.start()
+    print "Date: " + eventDate
 
-print "Joining threads..."
-steam.join()
-psn.join()
-live.join()
-oculus.join()
+    eventId = int(argv[0])
+    print "Found Event ID: " + str(eventId)
 
-print "All threads joined!"
+    from threading import Thread
+    steam = Thread(target=downloadResults, args=(eventId, "steam", "steam"))
+    psn = Thread(target=downloadResults, args=(eventId, "psn", "playstationnetwork"))
+    live = Thread(target=downloadResults, args=(eventId, "live", "microsoftlive"))
+    oculus = Thread(target=downloadResults, args=(eventId, "oculus", "oculus"))
 
-os.system("python createPage.py " + eventDate + " " + folder)
+    print "Starting threads..."
+    steam.start()
+    psn.start()
+    live.start()
+    oculus.start()
+
+    print "Joining threads..."
+    steam.join()
+    psn.join()
+    live.join()
+    oculus.join()
+
+    print "All threads joined!"
+
+    os.system("python createPage.py " + eventDate + " " + folder)
+
+if __name__ == "__main__":
+   main(sys.argv[1:])
