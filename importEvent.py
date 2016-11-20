@@ -133,7 +133,8 @@ def main(argv):
 
     print "All threads joined!"
 
-    os.system("python createPage.py " + eventDate + " " + folder)
+    print "exec: " + "python createPage.py " + eventDate + " " + folder + " " + ",".join(threads)
+    os.system("python createPage.py " + eventDate + " " + folder + " " + ",".join(threads))
 
 if __name__ == "__main__":
    main(sys.argv[1:])

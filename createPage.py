@@ -112,13 +112,13 @@ def main(argv):
 
     bfn = "results/" + argv[1] + "/data/" + argv[0] + "_"
 
-    platforms = ["steam", "psn", "live", "xbox"]
+    platforms = [["steam","Steam"], ["psn","PS4"], ["live","Xbox"], ["oculus","Oculus"]]
 
     dfUrl = ""
     hasFiles = False
 
     for pltf in platforms:   
-        dfUrl = bfn + pltf + ".txt"
+        dfUrl = bfn + pltf[0] + ".txt"
         if (os.path.isfile(dfUrl)):
             hasFiles = True
             break
@@ -158,26 +158,18 @@ def main(argv):
     numEntries = 0
 
     #stages = []
+    stageInfo = False
 
-    d,e,stageInfo = getTableData(bfn + "steam" + ".txt", "Steam")
-    combined.extend(d)
-    #stages.extend(d)
-    numEntries += e
+    for pltf in platforms:   
+        dfUrl = bfn + pltf[0] + ".txt"
+        if (os.path.isfile(dfUrl)):
+            d,e,s2 = getTableData(dfUrl, pltf[1])
+            combined.extend(d)
+            #stages.extend(d)
+            numEntries += e
 
-    d,e,s2 = getTableData(bfn + "psn" + ".txt", "PS4")
-    combined.extend(d)
-    #stages.extend(d)
-    numEntries += e
-
-    d,e,s2 = getTableData(bfn + "live" + ".txt", "Xbox")
-    combined.extend(d)
-    #stages.extend(d)
-    numEntries += e
-
-    d,e,s2 = getTableData(bfn + "oculus" + ".txt", "Oculus")
-    combined.extend(d)
-    #stages.extend(d)
-    numEntries += e
+            if not stageInfo:
+                stageInfo = s2
 
     print str(numEntries) + " entries over " + str(len(stageInfo)) + " stages"
 
