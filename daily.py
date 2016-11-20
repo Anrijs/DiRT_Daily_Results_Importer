@@ -23,10 +23,10 @@ def main(argv):
             runDaily2 = True
         
         argstr = ",".join(argv)
-        platforms += "steam," if "steam" in argstr
-        platforms += "psn," if "psn" in argstr
-        platforms += "live," if "live" in argstr
-        platforms += "oculus," if "oculus" in argstr
+        if "steam" in argstr:  platforms += "steam,"
+        if "psn" in argstr: platforms += "psn,"
+        if "live" in argstr: platforms += "live,"
+        if "oculus" in argstr: platforms += "oculus,"
             
 
 
