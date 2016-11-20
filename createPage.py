@@ -107,12 +107,19 @@ def getDiff(a, b):
 def main(argv):  
     if(len(argv) < 2):
         print "Missing arguments."
-        print "Usage: python createPage.py date folder\n"
-        sys.exit()
+        print "Usage: python createPage.py date folder"
+        sys.exit("")
 
     bfn = "results/" + argv[1] + "/data/" + argv[0] + "_"
 
     dfUrl = bfn + "steam" + ".txt"
+    if not (os.path.isfile(dfUrl)):
+        print "Results file not found"
+        print "Few things to check:"
+        print " - Is date and folder correct?"
+        print " - Make sure to run result generator script (daily.py or weekly.py)"
+        sys.exit("")
+
     fileTime = os.path.getmtime(dfUrl)
 
 

@@ -85,6 +85,11 @@ def main(argv):
     global folder
     global eventDate
 
+    if (len(argv) < 3):
+        print "Missing arguments."
+        print "Usage: python importEvent.py eventId date-string folder"
+        sys.exit("")
+
     folder = argv[2]
     eventDate = argv[1]
 
