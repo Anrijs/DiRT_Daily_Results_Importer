@@ -25,6 +25,11 @@ def main(argv):
             runWeekly = True
         if "daily2" in argv:
             runWeekly2 = True
+        
+        if not (runWeekly or runWeekly2):
+            runWeekly  = True
+            runWeekly2 = True
+
         if "nohtml" in argv:
             htmloption = "nohtml"
 

@@ -22,6 +22,10 @@ def main(argv):
             runDaily = True
         if "daily2" in argv:
             runDaily2 = True
+        if not (runDaily or runDaily2):
+            runDaily  = True
+            runDaily2 = True
+
         if "nohtml" in argv:
             htmloption = "nohtml"
 
