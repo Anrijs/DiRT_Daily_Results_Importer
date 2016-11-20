@@ -13,6 +13,7 @@ def main(argv):
     runDaily  = True
     runDaily2 = True
     platforms = ""
+    htmloption = ""
 
     if (len(argv) > 0):
         runDaily  = False
@@ -21,7 +22,9 @@ def main(argv):
             runDaily = True
         if "daily2" in argv:
             runDaily2 = True
-        
+        if "nohtml" in argv:
+            htmloption = "nohtml"
+
         argstr = ",".join(argv)
         if "steam" in argstr:  platforms += "steam,"
         if "psn" in argstr: platforms += "psn,"
@@ -42,7 +45,7 @@ def main(argv):
             print "Could not find the daily!"
             sys.exit()
 
-        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily " + platforms)
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily " + platforms + " " + htmloption)
 
         print "Daily imported"
     else:
@@ -60,7 +63,7 @@ def main(argv):
             print "Could not find the daily!"
             sys.exit()
 
-        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2 " + platforms)
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2 " + platforms + " " + htmloption)
 
         print "Daily imported"
     else:

@@ -16,6 +16,7 @@ def main(argv):
     runWeekly  = True
     runWeekly2 = True
     platforms = ""
+    htmloption = ""
 
     if (len(argv) > 0):
         runWeekly  = False
@@ -24,7 +25,9 @@ def main(argv):
             runWeekly = True
         if "daily2" in argv:
             runWeekly2 = True
-        
+        if "nohtml" in argv:
+            htmloption = "nohtml"
+
         argstr = ",".join(argv)
         if "steam" in argstr:  platforms += "steam,"
         if "psn" in argstr: platforms += "psn,"
@@ -49,7 +52,7 @@ def main(argv):
             print "Could not find the weekly 1!"
             sys.exit()
 
-        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1")
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1" + " " + htmloption)
         print "Weekly 1: " + str(eventId)
         print "Weekly 1 imported"
     else:
@@ -72,7 +75,7 @@ def main(argv):
             print "Could not find the weekly 2!"
             sys.exit()
 
-        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2")
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2" + " " + htmloption)
         print "Weekly 2: " + str(eventId)
         print "Weekly 2 imported"
     else:

@@ -93,10 +93,12 @@ def main(argv):
     folder = argv[2]
     eventDate = argv[1]
     threads = ["steam","psn","live","oculus"]
+    generateHtml = True
 
     if (len(argv)) > 3:
         threads = argv[3].split(",")
-
+        if "nohtml" in argv:
+            generateHtml = False
 
     #maxPages = 1
 
@@ -133,8 +135,10 @@ def main(argv):
 
     print "All threads joined!"
 
-    print "exec: " + "python createPage.py " + eventDate + " " + folder + " " + ",".join(threads)
-    os.system("python createPage.py " + eventDate + " " + folder + " " + ",".join(threads))
+    if generateHtml:
+        os.system("python createPage.py " + eventDate + " " + folder + " " + ",".join(threads))
+    else:
+        print "Skip HTML"
 
 if __name__ == "__main__":
    main(sys.argv[1:])
