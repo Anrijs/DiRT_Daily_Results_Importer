@@ -87,11 +87,16 @@ def main(argv):
 
     if (len(argv) < 3):
         print "Missing arguments."
-        print "Usage: python importEvent.py eventId date-string folder"
+        print "Usage: python importEvent.py eventId date-string folder [platform]"
         sys.exit("")
 
     folder = argv[2]
     eventDate = argv[1]
+    threads = ["steam","psn","live","oculus"]
+
+    if (len(argv)) > 3:
+        threads = argv[3].split(",")
+
 
     #maxPages = 1
 
@@ -107,16 +112,24 @@ def main(argv):
     oculus = Thread(target=downloadResults, args=(eventId, "oculus", "oculus"))
 
     print "Starting threads..."
-    steam.start()
-    psn.start()
-    live.start()
-    oculus.start()
+    if "steam" in threads:
+        steam.start()
+    if "psn" in threads:
+        psn.start()
+    if "live" in threads:
+        live.start()
+    if "oculus" in threads:
+        oculus.start()
 
     print "Joining threads..."
-    steam.join()
-    psn.join()
-    live.join()
-    oculus.join()
+    if "steam" in threads:
+       steam.join()
+    if "psn" in threads:
+        psn.join()
+    if "live" in threads:
+        live.join()
+    if "oculus" in threads:
+        oculus.join()
 
     print "All threads joined!"
 

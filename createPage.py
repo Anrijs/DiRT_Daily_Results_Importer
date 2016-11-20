@@ -112,8 +112,14 @@ def main(argv):
 
     bfn = "results/" + argv[1] + "/data/" + argv[0] + "_"
 
-    dfUrl = bfn + "steam" + ".txt"
-    if not (os.path.isfile(dfUrl)):
+    platforms = ["steam", "psn", "live", "xbox"]
+
+    dfUrl = False
+    for pltf in platforms:   
+        if (os.path.isfile(dfUrl))
+            dfUrl = bfn + pltf + ".txt"
+
+    if not dfUrl:
         print "Results file not found"
         print "Few things to check:"
         print " - Is date and folder correct?"

@@ -10,35 +10,61 @@ def main(argv):
 
     eventDate = dnow.strftime("%Y-%m-%d")
 
-    eventId = -1
-    test = requests.get("https://www.dirtgame.com/uk/events").text
-    for line in test.split("\n"):
-        if line.startswith('<select data-ng-model="eventId" id="daily_prevEvents" name="daily_prevEvents"'):
-            eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
-            break
+    runDaily  = True
+    runDaily2 = True
+    platforms = ""
 
-    if eventId == -1:
-        print "Could not find the daily!"
-        sys.exit()
+    if (len(argv) > 0):
+        runDaily  = False
+        runDaily2 = False
+        if "daily" in argv:
+            runDaily = True
+        if "daily2" in argv:
+            runDaily2 = True
+        
+        argstr = ",".join(argv)
+        platforms += "steam," if "steam" in argstr
+        platforms += "psn," if "psn" in argstr
+        platforms += "live," if "live" in argstr
+        platforms += "oculus," if "oculus" in argstr
+            
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily")
 
-    print "Daily imported"
+    if runDaily:
+        eventId = -1
+        test = requests.get("https://www.dirtgame.com/uk/events").text
+        for line in test.split("\n"):
+            if line.startswith('<select data-ng-model="eventId" id="daily_prevEvents" name="daily_prevEvents"'):
+                eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
+                break
 
-    eventId = -1
-    test = requests.get("https://www.dirtgame.com/uk/events").text
-    for line in test.split("\n"):
-        if line.startswith('<select data-ng-model="eventId" id="daily2_prevEvents" name="daily2_prevEvents"'):
-            eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
-            break
+        if eventId == -1:
+            print "Could not find the daily!"
+            sys.exit()
 
-    if eventId == -1:
-        print "Could not find the daily!"
-        sys.exit()
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily " + platforms)
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2")
+        print "Daily imported"
+    else:
+        print "Skip Daily import"
 
-    print "Daily imported"
+    if runDaily2:
+        eventId = -1
+        test = requests.get("https://www.dirtgame.com/uk/events").text
+        for line in test.split("\n"):
+            if line.startswith('<select data-ng-model="eventId" id="daily2_prevEvents" name="daily2_prevEvents"'):
+                eventId = line[(line.find('<option value="') + 15):(line.find('">Current event</option>'))]
+                break
+
+        if eventId == -1:
+            print "Could not find the daily!"
+            sys.exit()
+
+        os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2 " + platforms)
+
+        print "Daily imported"
+    else:
+        print "Skip Daily 2 import"
 
 if __name__ == "__main__":
    main(sys.argv[1:])
