@@ -5,3 +5,5 @@ results/**/*.html
 *~
 results/20*
 imports/*
+config.py
+config.pyc

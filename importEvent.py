@@ -7,37 +7,78 @@ import os
 folder = ""
 eventDate = ""
 maxPages = 20000000000
+progress = {"steam":[0, 0, 0, 0],"psn":[0, 0, 0, 0],"live":[0, 0, 0, 0],"oculus":[0, 0, 0, 0]}
+force = False
+
+def printStats():
+    global progress
+    
+    ap = 100
+    bp = 100
+    cp = 100
+    dp = 100
+    
+    if progress["steam"][1] > 0:
+      ap = round((progress["steam"][0] * 1.0) / progress["steam"][1] * 100)
+    if progress["psn"][1] > 0:
+      bp = round((progress["psn"][0] * 1.0) / progress["psn"][1] * 100)
+    if progress["live"][1] > 0:
+      cp = round((progress["live"][0] * 1.0) / progress["live"][1] * 100)
+    if progress["oculus"][1] > 0:
+      dp = round((progress["oculus"][0] * 1.0) / progress["oculus"][1] * 100)
+    
+    a = "steam: " + str(ap) + "%"
+    a += " [" + str(progress["steam"][2]) + "/" + str(progress["steam"][3]) + "]"
+    b = " psn: " + str(bp) + "%"
+    b += " [" + str(progress["psn"][2]) + "/" + str(progress["psn"][3]) + "]"
+    c = " live: " + str(cp) + "%"
+    c += " [" + str(progress["live"][2]) + "/" + str(progress["live"][3]) + "]"
+    d = " oculus: " + str(dp) + "%"
+    d += " [" + str(progress["oculus"][2]) + "/" + str(progress["oculus"][3]) + "]"
+    
+    sys.stdout.write(a + b + c + d + "      \r")
+    sys.stdout.flush()
+  
 
 def downloadResults(eventId, platform, platformURL):
     global folder
     global eventDate
-
+    global progress
+    global force
+    
     ph = "[" + platform + "] "
     
-    print ph + "Doing Platform " + platform
     webSession = requests.Session()
     changePlatformUrl = "https://dirtgame.com/uk/changeplatform?platform=" #steam, playstationnetwork, microsoftlive, oculus
     webSession.get(changePlatformUrl + platformURL)
-    
     
     #eventDate = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
     
     dirtNumber = "10"
     initialUrl = "https://www.dirtgame.com/uk/api/event?assists=any&eventId=" + str(eventId) + "&group=all&leaderboard=true&noCache=0&number=" + str(dirtNumber) + "&page=1&stageId=0&wheel=any&nameSearch="
-    print ph + "Getting Initial Event Data..."
     resp = webSession.get(initialUrl).text.encode('utf-8')
     j = json.loads(resp)
-    print ph + "Initial Data Downloaded: "
-
+    
     initialSeparator = u"\\"
     numStages = unicode(j["TotalStages"]).replace(initialSeparator, "")
     name = unicode(j["EventName"]).replace(initialSeparator, "")
     if int(numStages) == 1:
         numStages = "0"
-    print ph + "Stages: " + str(numStages)
-    file = open("results/" + folder + "/data/" + eventDate + "_" + platform + ".txt", "w")
+    fname = eventDate + "_" + platform + ".txt"
+    fpath = "results/" + folder + "/data/" + fname
+    if os.path.isfile(fpath):
+        if force:
+            print "Overwriting " + fname  
+        else:
+            print "Skipping. " + fname + " already exists. Use force parameter to overwrite"
+            return
+    file = open(fpath, "w")
     file.write((name + u"\n").encode("utf-8"))
+
+    progress[platform][3] = int(numStages)
+    
     for stageIndex in range(-1, int(numStages)):
+        progress[platform][2] = stageIndex+1
         stageInitUrl = "https://www.dirtgame.com/uk/api/event?assists=any&eventId=" + str(eventId) + "&group=all&leaderboard=true&noCache=0&number=" + str(dirtNumber) + "&page=1&stageId=" + str(stageIndex + 1) + "&wheel=any&nameSearch="
         resp = webSession.get(stageInitUrl).text.encode('utf-8')
         j = json.loads(resp)
@@ -52,12 +93,14 @@ def downloadResults(eventId, platform, platformURL):
         numPages = unicode(j["Pages"]).replace(initialSeparator, "")
         numEntries = unicode(j["LeaderboardTotal"]).replace(initialSeparator, "")
         
-        
         file.write((u"," + unicode(stageIndex) + initialSeparator + location + initialSeparator + locationImage + initialSeparator + stage + initialSeparator + stageImage + initialSeparator + timeOfDay + initialSeparator + weatherImage + initialSeparator + weather + initialSeparator + numEntries + initialSeparator + eventDate.replace(initialSeparator, u"") + u"\n").encode("utf-8"))
         pages = int(numPages)
-
+        
+        progress[platform][1] = pages
+        
         for page in range(1, min(pages, maxPages)+1):
-            print ph + "Downloading Page " + str(page) + "..."
+            progress[platform][0] = page
+            printStats()
             pageUrl = "https://www.dirtgame.com/uk/api/event?assists=any&eventId=" + str(eventId) + "&group=all&leaderboard=true&noCache=0&number=" + str(dirtNumber) + "&page=" + str(page) + "&stageId=" + str(stageIndex + 1) + "&wheel=any&nameSearch="
             data = unicode(webSession.get(pageUrl).text)#.encode('utf-8')
             j = json.loads(data)
@@ -76,7 +119,6 @@ def downloadResults(eventId, platform, platformURL):
                 resString = position + u", " + name + u", " + playerID + u", " + vehicle + u", " + time + u", " + diff + u", " + nation + u", " + isFounder + u", " + isVIP
                 file.write((resString + u"\n").encode("utf-8"))
                 #print resString
-
     file.close()
 
 
@@ -84,61 +126,45 @@ def downloadResults(eventId, platform, platformURL):
 def main(argv):
     global folder
     global eventDate
-
+    global force
     if (len(argv) < 3):
         print "Missing arguments."
-        print "Usage: python importEvent.py eventId date-string folder [platform]"
+        print "Usage: python importEvent.py eventId date-string folder [force]"
         sys.exit("")
 
     folder = argv[2]
     eventDate = argv[1]
-    threads = ["steam","psn","live","oculus"]
-    generateHtml = True
-
-    if (len(argv)) > 3:
-        threads = argv[3].split(",")
-        if "nohtml" in argv:
-            generateHtml = False
+    
+    if "force" in argv:
+      force = True
 
     #maxPages = 1
-
+    
     print "Date: " + eventDate
-
+    
     eventId = int(argv[0])
     print "Found Event ID: " + str(eventId)
-
+    
     from threading import Thread
     steam = Thread(target=downloadResults, args=(eventId, "steam", "steam"))
     psn = Thread(target=downloadResults, args=(eventId, "psn", "playstationnetwork"))
     live = Thread(target=downloadResults, args=(eventId, "live", "microsoftlive"))
     oculus = Thread(target=downloadResults, args=(eventId, "oculus", "oculus"))
 
-    print "Starting threads..."
-    if "steam" in threads:
-        steam.start()
-    if "psn" in threads:
-        psn.start()
-    if "live" in threads:
-        live.start()
-    if "oculus" in threads:
-        oculus.start()
+    print "Starting threads..."   
+    steam.start()
+    psn.start()
+    live.start()
+    oculus.start()
 
     print "Joining threads..."
-    if "steam" in threads:
-       steam.join()
-    if "psn" in threads:
-        psn.join()
-    if "live" in threads:
-        live.join()
-    if "oculus" in threads:
-        oculus.join()
+    steam.join()
+    psn.join()
+    live.join()
+    oculus.join()
 
+    print "\n"
     print "All threads joined!"
 
-    if generateHtml:
-        os.system("python createPage.py " + eventDate + " " + folder + " " + ",".join(threads))
-    else:
-        print "Skip HTML"
-
 if __name__ == "__main__":
-   main(sys.argv[1:])
+    main(sys.argv[1:])
