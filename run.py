@@ -50,23 +50,23 @@ def processEvent(eventId, eventDate, eventFolder):
 
 def daily1():
     eventId, eventDate = getEvent("daily")
-    processEvent(eventId, enventDate, "daily")
+    processEvent(eventId, eventDate, "daily")
   
 def daily2():
     eventId, eventDate = getEvent("daily2")
-    processEvent(eventId, enventDate, "daily2")
+    processEvent(eventId, eventDate, "daily2")
 
 def weekly1():
     eventId, eventDate = getEvent("weekly")
-    processEvent(eventId, enventDate, "weekly1")
+    processEvent(eventId, eventDate, "weekly1")
         
 def weekly2():
     eventId, eventDate = getEvent("weekly2")
-    processEvent(eventId, enventDate, "weekly2")
+    processEvent(eventId, eventDate, "weekly2")
 
 def monthly():
     eventId, eventDate = getEvent("monthly")
-    processEvent(eventId, enventDate, "monthly")
+    processEvent(eventId, eventDate, "monthly")
 
 def main(argv):
     global force
@@ -91,15 +91,15 @@ def main(argv):
         force = True
        
     if "daily1" in argv:
-        daily1(html,sql,dl)
+        daily1()
     if "daily2" in argv:
-        daily2(html,sql,dl)
+        daily2()
     if "weekly1" in argv:
-        weekly1(html,sql,dl)
+        weekly1()
     if "weekly2" in argv:
-        weekly2(html,sql,dl)
+        weekly2()
     if "monthly" in argv:
-        monthly(html,sql,dl)
+        monthly()
 
 def find_between( s, first, last ):
     try:
