@@ -9,6 +9,16 @@ sql  = False
 dl   = True
 force = False
 
+class bc:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 def getEvent(evtyp):
     eventId = -1
     test = requests.get("https://www.dirtgame.com/uk/events").text
@@ -77,10 +87,19 @@ def main(argv):
     if (len(argv) == 0):
         print "Missing arguments."
         print "Usage: python run.py <event-type> [nohtml] [sql] [nodl] [force]"
-        print "  event-type: daily1 daily2 weekly1 weekly2 monthly"
+        print "  event-type: daily1 daily2 weekly1 weekly2 monthly all"
+        print "or try ? argument"
         sys.exit("")
     
-    
+    if "?" in argv:
+        print bc.UNDERLINE + bc.BOLD + "DiRT Daily results Importer." + bc.ENDC
+        print " This tool downloads DiRT Rally online event results for (Steam, PS4, Xbox, Oculus)"
+        print " and saves them in one file. It is originally created by /u/Th3HolyMoose."
+        print " "
+        print bc.UNDERLINE + "Simple usage example:" + bc.ENDC
+        print "python run.py daily1 daily2"
+        print ""
+        
     if "nohtml" in argv:
         html = False
     if "sql" in argv:
@@ -89,7 +108,17 @@ def main(argv):
         dl = False
     if "force" in argv:
         force = True
-       
+    
+    if "all" in argv:
+        if force:
+	  print "Can't use force argument with all import"
+	  return
+        daily1()
+        daily2()
+        weekly1()
+        weekly2()
+        monthly()
+        return
     if "daily1" in argv:
         daily1()
     if "daily2" in argv:

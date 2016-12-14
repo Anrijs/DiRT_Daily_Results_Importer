@@ -20,6 +20,8 @@ Additional optional parameter is *nohtml*. This will only import data to txt fil
 
 `python run.py weekly1 nohtml` - import only last weekly1 event and do not generate HTML page
 
+`python run.py all sql` - import all last events and save to sql
+
 ## SQL
 My goal for this fork was SQL support for was making result datasets I could use for making personalised result pages.
 For this I have added *importSql.py*
