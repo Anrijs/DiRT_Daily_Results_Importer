@@ -52,11 +52,11 @@ def processEvent(eventId, eventDate, eventFolder):
     if (eventId != -1):
         print "Processing " + eventFolder + " event on " + eventDate + " (" + eventId + ")"
         if dl:
-            os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + eventFolder + getOptions())
+            os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importEvent.py " + str(eventId) + " " + eventDate + " " + eventFolder + getOptions())
         if html:
-            os.system("python createPage.py " + eventDate + " " + eventFolder)
+            os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/createPage.py " + eventDate + " " + eventFolder)
         if sql:
-            os.system("python importSql.py " + eventDate + " " + eventFolder)
+            os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importSql.py " + eventDate + " " + eventFolder)
 
 def daily1():
     eventId, eventDate = getEvent("daily")

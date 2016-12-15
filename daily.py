@@ -20,7 +20,7 @@ def main(argv):
         print "Could not find the daily!"
         sys.exit()
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily")
+    os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importEvent.py " + str(eventId) + " " + eventDate + " " + "daily")
     print "Daily imported"
 
 
@@ -35,7 +35,7 @@ def main(argv):
         print "Could not find the daily!"
         sys.exit()
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2")
+    os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importEvent.py " + str(eventId) + " " + eventDate + " " + "daily2")
     print "Daily 2 imported"
 
 if __name__ == "__main__":

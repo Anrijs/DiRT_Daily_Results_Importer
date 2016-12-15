@@ -10,6 +10,17 @@ maxPages = 20000000000
 progress = {"steam":[0, 0, 0, 0],"psn":[0, 0, 0, 0],"live":[0, 0, 0, 0],"oculus":[0, 0, 0, 0]}
 force = False
 
+class bc:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 def printStats():
     global progress
     
@@ -65,7 +76,7 @@ def downloadResults(eventId, platform, platformURL):
     if int(numStages) == 1:
         numStages = "0"
     fname = eventDate + "_" + platform + ".txt"
-    fpath = "results/" + folder + "/data/" + fname
+    fpath = os.path.dirname(os.path.abspath(__file__)) + "/" + "results/" + folder + "/data/" + fname
     if os.path.isfile(fpath):
         if force:
             print "Overwriting " + fname  
@@ -151,20 +162,18 @@ def main(argv):
     live = Thread(target=downloadResults, args=(eventId, "live", "microsoftlive"))
     oculus = Thread(target=downloadResults, args=(eventId, "oculus", "oculus"))
 
-    print "Starting threads..."   
     steam.start()
     psn.start()
     live.start()
     oculus.start()
 
-    print "Joining threads..."
     steam.join()
     psn.join()
     live.join()
     oculus.join()
 
     print "\n"
-    print "All threads joined!"
+    print bc.OKGREEN + bc.BOLD + folder + bc.ENDC + bc.OKGREEN + " event " + str(eventId) + " imported" + bc.ENDC
 
 if __name__ == "__main__":
     main(sys.argv[1:])

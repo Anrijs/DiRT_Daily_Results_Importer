@@ -6,6 +6,16 @@ from datetime import time
 import datetime
 from datetime import date
 
+class bc:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 def getTableData(fileName, platform):
     dataFile = open(fileName, "r")
     dataFileContents = dataFile.read()
@@ -29,7 +39,6 @@ def getTableData(fileName, platform):
                 info = line[1:].split("\\")[1:]
                 stageInfo.append(info)
                 #stages.append([])
-                print "Reading Stage " + str(stageIndex)
             continue
         
         data = line.split(", ")
@@ -106,7 +115,7 @@ def getDiff(a, b):
 
 def main(argv):  
     if(len(argv) < 2):
-        print "Missing arguments."
+        print bc.FAIL + "Missing arguments." + bc.ENDC
         print "Usage: python createPage.py date folder"
         sys.exit("")
 
@@ -118,14 +127,14 @@ def main(argv):
     hasFiles = False
 
     for pltf in platforms:   
-        dfUrl = bfn + pltf[0] + ".txt"
+        dfUrl = os.path.dirname(os.path.abspath(__file__)) + "/" + bfn + pltf[0] + ".txt"
         if (os.path.isfile(dfUrl)):
             hasFiles = True
             break
 
 
     if not hasFiles:
-        print "Results file not found"
+        print bc.FAIL + "Results file not found" + bc.ENDC
         print "Few things to check:"
         print " - Is date and folder correct?"
         print " - Make sure to run result generator script (daily.py or weekly.py)"
@@ -138,7 +147,7 @@ def main(argv):
     dataFileContents = dataFile.read()
     dataFile.close()
 
-    templateFile = open("template.html", "r")
+    templateFile = open(os.path.dirname(os.path.abspath(__file__)) + "/" + "template.html", "r")
     template = templateFile.read()
     templateFile.close()
 
@@ -161,7 +170,7 @@ def main(argv):
     stageInfo = False
 
     for pltf in platforms:   
-        dfUrl = bfn + pltf[0] + ".txt"
+        dfUrl = os.path.dirname(os.path.abspath(__file__)) + "/" + bfn + pltf[0] + ".txt"
         if (os.path.isfile(dfUrl)):
             d,e,s2 = getTableData(dfUrl, pltf[1])
             combined.extend(d)
@@ -171,6 +180,9 @@ def main(argv):
             if not stageInfo:
                 stageInfo = s2
 
+    if not stageInfo:
+      print bc.FAIL + "Error reading stages." + bc.ENDC
+      return
     print str(numEntries) + " entries over " + str(len(stageInfo)) + " stages"
 
     out = template.replace("%file_time%", str(fileTime)).replace("%title%", "DiRT Cross Platform Results Import").replace("%info%", eventInfo[0] + ", " + argv[0] + "<br>" + str(numEntries) + " Entries, " + str(max(1, len(stageInfo)-1)) + " Stage(s)<br>")
@@ -278,9 +290,11 @@ def main(argv):
 
     out = out.replace("%table%", table)
 
-    outFile = open("results/" + argv[1] + "/" + argv[0] + ".html", "w")
+    outFile = open(os.path.dirname(os.path.abspath(__file__)) + "/results/" + argv[1] + "/" + argv[0] + ".html", "w")
     outFile.write(out)
     outFile.close()
+    
+    print bc.OKGREEN + "Page created (" + argv[1] + "/" + argv[0] + ".html)" + bc.ENDC
 
 if __name__ == "__main__":
    main(sys.argv[1:])

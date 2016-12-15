@@ -27,12 +27,22 @@ My goal for this fork was SQL support for was making result datasets I could use
 For this I have added *importSql.py*
 
 To use *importSql.py* follow theese steps:
+ 
 1. Install mysql server and python-mysqldb driver
 2. Make database and run SQL script from *database.sql* file
 3. Rename or copy *config.example.py* to *config.py*
 4. Configure database settings in *config.py*
 5. Custimize sql filter function (function `filt(item)`) in *importSql.py*. At the moment it will only save all drivers from Latvia (filtered by flag).
 6. Run `python importSql.py date folder` or add *sql* parameter to run.py
+
+## Automatic result import
+If you get tired of running same command every day, you can also add this script to crontab:
+
+1. Open crontab file using command `crontab -e`
+2. Add job to crontab: `11 12 * * * /usr/bin/python /*full_path*/DiRT_Daily_Results_Importer/run.py all` 
+   This will run job every day at 12:11.  
+   You might want to change hours depending on where you live.
+3. Save and exit
 
 ## u/Th3HolyMoose
 To see original version in work, go to http://holymooses.com/DiRT/

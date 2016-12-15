@@ -206,7 +206,7 @@ def main(argv):
     hasFiles = False
 
     for pltf in platforms:   
-        dfUrl = bfn + pltf[0] + ".txt"
+        dfUrl = os.path.dirname(os.path.abspath(__file__)) + "/" + bfn + pltf[0] + ".txt"
         if (os.path.isfile(dfUrl)):
             hasFiles = True
             break
@@ -233,7 +233,7 @@ def main(argv):
     stageInfo = False
 
     for pltf in platforms:
-        dfUrl = bfn + pltf[0] + ".txt"
+        dfUrl = os.path.dirname(os.path.abspath(__file__)) + "/" + bfn + pltf[0] + ".txt"
         if (os.path.isfile(dfUrl)):
             d,e,s2 = getTableData(dfUrl, pltf[1])
             combined.extend(d)

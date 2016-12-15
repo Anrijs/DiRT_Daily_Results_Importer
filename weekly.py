@@ -26,7 +26,7 @@ def main(argv):
         print "Could not find the weekly 1!"
         sys.exit()
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1")
+    os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly1")
     print "Weekly 1: " + str(eventId)
     print "Weekly 1 imported"
 
@@ -47,7 +47,7 @@ def main(argv):
         print "Could not find the weekly 2!"
         sys.exit()
 
-    os.system("python importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2")
+    os.system("python " + os.path.dirname(os.path.abspath(__file__)) + "/importEvent.py " + str(eventId) + " " + eventDate + " " + "weekly2")
     print "Weekly 2: " + str(eventId)
     print "Weekly 2 imported"
 
